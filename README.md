@@ -21,5 +21,5 @@ A retail inventory and sales analysis project using Pandas, Matplotlib, and Seab
 - seaborn
 
 ## Files
-- `Retail_inventory_project.ipynb`
+- `Retail_Inventory_project.ipynb`
 - `retail_inventory.csv`
