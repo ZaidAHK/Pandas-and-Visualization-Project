@@ -1,0 +1,2001 @@
+product_id,product_name,category,store,date,units_received,units_sold,units_in_stock,unit_price,supplier,reorder_level
+P004,Keyboard,Electronics,Mumbai Central,2025-01-01,89,39,103,1200,TechSource,60
+P012,Backpack,Accessories,Mumbai Central,2025-01-01,160,103,147,1600,Metro Wholesale,58
+P004,Keyboard,Electronics,Andheri,2025-01-01,152,97,139,1200,TechSource,43
+P005,Mouse,Electronics,Navi Mumbai,2025-01-01,217,179,89,700,TechSource,41
+P002,Smartphone,Electronics,Andheri,2025-01-01,20,13,122,22000,Global Supplies,62
+P002,Smartphone,Electronics,Borivali,2025-01-01,85,89,7,22000,Prime Distributors,85
+P017,Coffee Maker,Appliances,Andheri,2025-01-01,66,118,0,5500,Global Supplies,55
+P003,Headphones,Electronics,Andheri,2025-01-01,139,19,196,1800,Metro Wholesale,87
+P004,Keyboard,Electronics,Andheri,2025-01-02,179,107,82,1200,Metro Wholesale,92
+P015,T-Shirt,Fashion,Mumbai Central,2025-01-02,187,163,3,900,TechSource,45
+P009,Bookshelf,Furniture,Navi Mumbai,2025-01-02,185,35,215,6500,Urban Traders,60
+P013,Water Bottle,Accessories,Andheri,2025-01-02,275,141,186,600,Prime Distributors,72
+P012,Backpack,Accessories,Navi Mumbai,2025-01-03,103,66,122,1600,Metro Wholesale,82
+P011,Pen Set,Stationery,Mumbai Central,2025-01-03,128,113,118,180,Prime Distributors,50
+P006,Monitor,Electronics,Andheri,2025-01-03,157,71,167,12500,Metro Wholesale,61
+P018,Mixer Grinder,Appliances,Andheri,2025-01-04,260,133,221,4200,Global Supplies,32
+P013,Water Bottle,Accessories,Andheri,2025-01-04,261,115,214,600,Metro Wholesale,56
+P019,Air Fryer,Appliances,Thane,2025-01-04,280,36,359,7500,Prime Distributors,66
+P001,Laptop,Electronics,Borivali,2025-01-04,76,80,89,42000,Metro Wholesale,78
+P019,Air Fryer,Appliances,Navi Mumbai,2025-01-04,136,126,56,7500,Metro Wholesale,34
+P001,Laptop,Electronics,Mumbai Central,2025-01-04,87,94,111,42000,Prime Distributors,52
+P012,Backpack,Accessories,Thane,2025-01-05,47,89,0,1600,Prime Distributors,25
+P003,Headphones,Electronics,Navi Mumbai,2025-01-05,271,155,130,1800,Global Supplies,95
+P013,Water Bottle,Accessories,Navi Mumbai,2025-01-05,243,75,268,600,Urban Traders,91
+P011,Pen Set,Stationery,Borivali,2025-01-05,64,60,589,180,Prime Distributors,41
+P017,Coffee Maker,Appliances,Thane,2025-01-06,124,17,181,5500,Urban Traders,42
+P002,Smartphone,Electronics,Andheri,2025-01-06,148,44,584,22000,Global Supplies,84
+P018,Mixer Grinder,Appliances,Andheri,2025-01-06,175,146,71,4200,Metro Wholesale,75
+P007,Office Chair,Furniture,Navi Mumbai,2025-01-06,70,100,54,8500,Metro Wholesale,59
+P001,Laptop,Electronics,Navi Mumbai,2025-01-06,26,85,0,42000,Prime Distributors,64
+P018,Mixer Grinder,Appliances,Andheri,2025-01-06,280,170,134,4200,Urban Traders,67
+P011,Pen Set,Stationery,Navi Mumbai,2025-01-06,29,49,17,180,TechSource,85
+P019,Air Fryer,Appliances,Navi Mumbai,2025-01-06,73,67,75,7500,Prime Distributors,40
+P008,Desk,Furniture,Borivali,2025-01-07,276,119,223,12000,Prime Distributors,88
+P007,Office Chair,Furniture,Borivali,2025-01-07,115,10,194,8500,Urban Traders,68
+P007,Office Chair,Furniture,Borivali,2025-01-07,241,39,249,8500,Metro Wholesale,68
+P010,Notebook,Stationery,Mumbai Central,2025-01-07,232,20,301,120,Prime Distributors,54
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-01-07,299,116,229,4200,TechSource,85
+P008,Desk,Furniture,Thane,2025-01-07,141,62,172,12000,Prime Distributors,27
+P012,Backpack,Accessories,Navi Mumbai,2025-01-08,109,91,84,1600,Prime Distributors,44
+P004,Keyboard,Electronics,Thane,2025-01-08,60,66,69,1200,Prime Distributors,97
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-01-08,246,172,134,2600,Urban Traders,93
+P003,Headphones,Electronics,Navi Mumbai,2025-01-08,197,26,278,1800,TechSource,99
+P019,Air Fryer,Appliances,Thane,2025-01-08,177,79,208,7500,TechSource,53
+P007,Office Chair,Furniture,Mumbai Central,2025-01-08,271,134,215,8500,Metro Wholesale,71
+P019,Air Fryer,Appliances,Navi Mumbai,2025-01-08,208,56,242,7500,Metro Wholesale,25
+P007,Office Chair,Furniture,Borivali,2025-01-09,298,129,272,8500,TechSource,63
+P017,Coffee Maker,Appliances,Borivali,2025-01-09,173,10,270,5500,Urban Traders,70
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-01-09,210,141,182,2600,Prime Distributors,85
+P015,T-Shirt,Fashion,Navi Mumbai,2025-01-09,298,34,309,900,Prime Distributors,66
+P014,Shoes,Fashion,Andheri,2025-01-10,271,78,301,3200,TechSource,80
+P002,Smartphone,Electronics,Andheri,2025-01-10,66,79,11,22000,Prime Distributors,96
+P003,Headphones,Electronics,Mumbai Central,2025-01-10,84,119,58,1800,Global Supplies,95
+P019,Air Fryer,Appliances,Borivali,2025-01-10,169,153,79,7500,Global Supplies,76
+P002,Smartphone,Electronics,Mumbai Central,2025-01-10,170,28,206,22000,Global Supplies,47
+P014,Shoes,Fashion,Mumbai Central,2025-01-10,223,30,270,3200,Metro Wholesale,27
+P001,Laptop,Electronics,Borivali,2025-01-10,158,89,164,42000,Global Supplies,43
+P001,Laptop,Electronics,Thane,2025-01-10,47,44,101,42000,Prime Distributors,37
+P016,Jeans,Fashion,Thane,2025-01-10,155,80,155,1800,Metro Wholesale,69
+P005,Mouse,Electronics,Thane,2025-01-10,57,63,40,700,Global Supplies,65
+P018,Mixer Grinder,Appliances,Thane,2025-01-11,115,82,77,4200,Metro Wholesale,83
+P011,Pen Set,Stationery,Andheri,2025-01-11,48,33,39,180,TechSource,71
+P005,Mouse,Electronics,Andheri,2025-01-12,85,124,0,700,Urban Traders,63
+P010,Notebook,Stationery,Navi Mumbai,2025-01-12,110,177,3,120,TechSource,81
+P013,Water Bottle,Accessories,Borivali,2025-01-12,112,44,93,600,Global Supplies,28
+P007,Office Chair,Furniture,Thane,2025-01-12,136,114,57,8500,Prime Distributors,38
+P007,Office Chair,Furniture,Navi Mumbai,2025-01-12,166,124,99,8500,Metro Wholesale,46
+P001,Laptop,Electronics,Andheri,2025-01-13,68,107,0,42000,Metro Wholesale,98
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-01-13,185,112,307,4200,Prime Distributors,75
+P010,Notebook,Stationery,Andheri,2025-01-13,154,117,142,120,Prime Distributors,69
+P017,Coffee Maker,Appliances,Borivali,2025-01-13,222,148,135,5500,Prime Distributors,41
+P013,Water Bottle,Accessories,Navi Mumbai,2025-01-13,279,74,233,600,Prime Distributors,43
+P004,Keyboard,Electronics,Borivali,2025-01-13,181,108,127,1200,Prime Distributors,26
+P014,Shoes,Fashion,Thane,2025-01-13,254,131,225,3200,Prime Distributors,82
+P004,Keyboard,Electronics,Borivali,2025-01-13,103,104,99,1200,TechSource,85
+P001,Laptop,Electronics,Andheri,2025-01-14,218,172,143,42000,Metro Wholesale,33
+P006,Monitor,Electronics,Borivali,2025-01-14,270,35,340,12500,Metro Wholesale,43
+P006,Monitor,Electronics,Thane,2025-01-14,251,90,214,12500,Prime Distributors,49
+P005,Mouse,Electronics,Mumbai Central,2025-01-14,253,112,159,700,Global Supplies,45
+P008,Desk,Furniture,Navi Mumbai,2025-01-14,174,61,160,12000,Prime Distributors,71
+P001,Laptop,Electronics,Andheri,2025-01-14,182,122,130,42000,TechSource,53
+P012,Backpack,Accessories,Thane,2025-01-14,51,78,43,1600,TechSource,62
+P017,Coffee Maker,Appliances,Borivali,2025-01-15,82,53,116,5500,TechSource,46
+P013,Water Bottle,Accessories,Mumbai Central,2025-01-15,238,124,198,600,Prime Distributors,94
+P012,Backpack,Accessories,Thane,2025-01-15,51,67,74,1600,Metro Wholesale,74
+P011,Pen Set,Stationery,Andheri,2025-01-15,181,154,9,180,TechSource,85
+P004,Keyboard,Electronics,Borivali,2025-01-15,141,129,70,1200,Metro Wholesale,42
+P004,Keyboard,Electronics,Thane,2025-01-15,166,92,145,1200,Metro Wholesale,96
+P009,Bookshelf,Furniture,Andheri,2025-01-15,190,161,125,6500,Metro Wholesale,82
+P005,Mouse,Electronics,Mumbai Central,2025-01-15,205,142,170,700,Urban Traders,44
+P015,T-Shirt,Fashion,Navi Mumbai,2025-01-15,187,103,104,900,Global Supplies,77
+P014,Shoes,Fashion,Borivali,2025-01-15,48,55,71,3200,Metro Wholesale,88
+P013,Water Bottle,Accessories,Andheri,2025-01-15,121,91,263,600,Prime Distributors,52
+P004,Keyboard,Electronics,Thane,2025-01-15,81,65,128,1200,Global Supplies,28
+P005,Mouse,Electronics,Mumbai Central,2025-01-16,45,65,14,700,TechSource,90
+P002,Smartphone,Electronics,Borivali,2025-01-16,44,87,56,22000,Prime Distributors,91
+P016,Jeans,Fashion,Mumbai Central,2025-01-16,228,58,201,1800,Prime Distributors,41
+P004,Keyboard,Electronics,Andheri,2025-01-16,31,84,46,1200,Urban Traders,46
+P002,Smartphone,Electronics,Mumbai Central,2025-01-16,177,21,229,22000,Urban Traders,81
+P001,Laptop,Electronics,Navi Mumbai,2025-01-16,128,6,214,42000,Urban Traders,29
+P019,Air Fryer,Appliances,Andheri,2025-01-16,40,68,82,7500,Metro Wholesale,70
+P017,Coffee Maker,Appliances,Andheri,2025-01-16,105,12,112,5500,Prime Distributors,50
+P009,Bookshelf,Furniture,Mumbai Central,2025-01-17,212,26,292,6500,Global Supplies,39
+P014,Shoes,Fashion,Borivali,2025-01-17,201,82,180,3200,Urban Traders,66
+P007,Office Chair,Furniture,Thane,2025-01-17,78,83,77,8500,Prime Distributors,84
+P001,Laptop,Electronics,Navi Mumbai,2025-01-17,38,114,1,42000,Metro Wholesale,25
+P008,Desk,Furniture,Mumbai Central,2025-01-17,191,155,93,12000,TechSource,63
+P012,Backpack,Accessories,Mumbai Central,2025-01-18,89,21,135,1600,TechSource,71
+P011,Pen Set,Stationery,Andheri,2025-01-18,92,82,108,180,Prime Distributors,89
+P012,Backpack,Accessories,Mumbai Central,2025-01-18,75,88,82,1600,Urban Traders,94
+P013,Water Bottle,Accessories,Mumbai Central,2025-01-18,195,137,83,600,Urban Traders,95
+P014,Shoes,Fashion,Borivali,2025-01-18,98,123,57,3200,Prime Distributors,40
+P008,Desk,Furniture,Navi Mumbai,2025-01-18,252,81,190,12000,Prime Distributors,48
+P008,Desk,Furniture,Navi Mumbai,2025-01-19,130,150,41,12000,Prime Distributors,38
+P016,Jeans,Fashion,Mumbai Central,2025-01-19,206,134,295,1800,TechSource,76
+P004,Keyboard,Electronics,Andheri,2025-01-19,93,102,56,1200,Urban Traders,36
+P006,Monitor,Electronics,Andheri,2025-01-19,183,116,185,12500,Metro Wholesale,43
+P008,Desk,Furniture,Navi Mumbai,2025-01-20,262,8,320,12000,Metro Wholesale,40
+P019,Air Fryer,Appliances,Navi Mumbai,2025-01-20,253,69,230,7500,Metro Wholesale,68
+P003,Headphones,Electronics,Thane,2025-01-21,196,42,225,1800,Global Supplies,86
+P019,Air Fryer,Appliances,Borivali,2025-01-21,176,162,75,7500,Metro Wholesale,33
+P010,Notebook,Stationery,Thane,2025-01-21,284,91,286,120,Global Supplies,50
+P020,Bluetooth Speaker,Electronics,Thane,2025-01-21,75,126,53,2600,Global Supplies,80
+P009,Bookshelf,Furniture,Mumbai Central,2025-01-21,77,150,45,6500,TechSource,89
+P003,Headphones,Electronics,Navi Mumbai,2025-01-21,197,169,104,1800,Prime Distributors,94
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-01-21,284,16,355,5500,Metro Wholesale,77
+P001,Laptop,Electronics,Andheri,2025-01-21,120,94,108,42000,Global Supplies,92
+P006,Monitor,Electronics,Borivali,2025-01-21,219,99,184,12500,Metro Wholesale,72
+P005,Mouse,Electronics,Borivali,2025-01-22,54,61,75,700,Prime Distributors,44
+P015,T-Shirt,Fashion,Andheri,2025-01-22,117,126,90,900,Global Supplies,43
+P016,Jeans,Fashion,Andheri,2025-01-22,277,17,14,1800,TechSource,30
+P019,Air Fryer,Appliances,Mumbai Central,2025-01-22,187,99,174,7500,Global Supplies,58
+P015,T-Shirt,Fashion,Mumbai Central,2025-01-22,130,74,108,900,Global Supplies,68
+P013,Water Bottle,Accessories,Andheri,2025-01-23,40,94,64,600,Prime Distributors,35
+P007,Office Chair,Furniture,Mumbai Central,2025-01-23,197,173,50,8500,TechSource,81
+P013,Water Bottle,Accessories,Mumbai Central,2025-01-23,296,124,212,600,Metro Wholesale,25
+P008,Desk,Furniture,Thane,2025-01-23,207,64,189,12000,Global Supplies,84
+P017,Coffee Maker,Appliances,Borivali,2025-01-24,220,110,217,5500,Prime Distributors,94
+P013,Water Bottle,Accessories,Mumbai Central,2025-01-24,267,173,142,600,Prime Distributors,100
+P018,Mixer Grinder,Appliances,Thane,2025-01-24,223,14,297,4200,Global Supplies,43
+P001,Laptop,Electronics,Borivali,2025-01-24,143,117,76,42000,Metro Wholesale,35
+P007,Office Chair,Furniture,Mumbai Central,2025-01-24,96,17,111,8500,Urban Traders,29
+P011,Pen Set,Stationery,Borivali,2025-01-24,63,57,116,180,Urban Traders,90
+P010,Notebook,Stationery,Andheri,2025-01-24,22,28,45,120,TechSource,93
+P002,Smartphone,Electronics,Borivali,2025-01-25,187,172,55,22000,Urban Traders,28
+P002,Smartphone,Electronics,Andheri,2025-01-25,126,106,125,22000,Global Supplies,77
+P015,T-Shirt,Fashion,Andheri,2025-01-25,258,62,218,900,TechSource,100
+P012,Backpack,Accessories,Andheri,2025-01-25,60,71,106,1600,Urban Traders,85
+P007,Office Chair,Furniture,Thane,2025-01-25,278,159,148,8500,Metro Wholesale,44
+P002,Smartphone,Electronics,Thane,2025-01-25,132,152,99,22000,Prime Distributors,69
+P015,T-Shirt,Fashion,Thane,2025-01-25,159,120,142,900,Prime Distributors,68
+P013,Water Bottle,Accessories,Andheri,2025-01-26,120,175,12,600,Global Supplies,94
+P002,Smartphone,Electronics,Thane,2025-01-26,278,28,280,22000,TechSource,48
+P010,Notebook,Stationery,Navi Mumbai,2025-01-26,105,39,108,120,Prime Distributors,44
+P009,Bookshelf,Furniture,Mumbai Central,2025-01-26,38,45,19,6500,TechSource,100
+P003,Headphones,Electronics,Thane,2025-01-26,192,21,232,1800,Urban Traders,66
+P020,Bluetooth Speaker,Electronics,Andheri,2025-01-27,259,168,131,2600,Global Supplies,62
+P005,Mouse,Electronics,Navi Mumbai,2025-01-28,146,67,141,700,Metro Wholesale,41
+P009,Bookshelf,Furniture,Andheri,2025-01-28,211,38,186,6500,Global Supplies,85
+P014,Shoes,Fashion,Mumbai Central,2025-01-29,258,40,311,3200,Prime Distributors,94
+P012,Backpack,Accessories,Mumbai Central,2025-01-29,256,170,116,1600,Metro Wholesale,93
+P011,Pen Set,Stationery,Mumbai Central,2025-01-29,200,169,81,180,Metro Wholesale,43
+P006,Monitor,Electronics,Andheri,2025-01-29,74,52,95,12500,Metro Wholesale,67
+P013,Water Bottle,Accessories,Borivali,2025-01-29,32,53,67,600,Global Supplies,45
+P016,Jeans,Fashion,Borivali,2025-01-30,236,93,154,1800,TechSource,84
+P020,Bluetooth Speaker,Electronics,Thane,2025-01-30,264,120,178,2600,Metro Wholesale,55
+P012,Backpack,Accessories,Andheri,2025-01-30,99,16,15,1600,Global Supplies,92
+P011,Pen Set,Stationery,Navi Mumbai,2025-01-30,70,33,111,180,Urban Traders,84
+P012,Backpack,Accessories,Thane,2025-01-30,254,175,101,1600,Urban Traders,45
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-01-30,94,135,0,2600,Urban Traders,76
+P002,Smartphone,Electronics,Mumbai Central,2025-01-30,61,69,63,22000,TechSource,69
+P018,Mixer Grinder,Appliances,Borivali,2025-01-30,62,36,116,4200,Metro Wholesale,46
+P010,Notebook,Stationery,Borivali,2025-01-30,157,71,111,120,Metro Wholesale,66
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-01-30,186,65,204,5500,Prime Distributors,35
+P010,Notebook,Stationery,Mumbai Central,2025-01-30,143,115,130,120,TechSource,61
+P015,T-Shirt,Fashion,Andheri,2025-01-30,67,82,94,900,Urban Traders,43
+P008,Desk,Furniture,Borivali,2025-01-31,253,138,195,12000,Global Supplies,34
+P010,Notebook,Stationery,Borivali,2025-01-31,202,125,136,120,Global Supplies,33
+P013,Water Bottle,Accessories,Borivali,2025-01-31,234,100,245,600,Metro Wholesale,72
+P016,Jeans,Fashion,Borivali,2025-01-31,203,122,175,1800,Urban Traders,39
+P002,Smartphone,Electronics,Borivali,2025-01-31,139,141,43,22000,Urban Traders,50
+P001,Laptop,Electronics,Borivali,2025-01-31,254,102,200,42000,Prime Distributors,44
+P015,T-Shirt,Fashion,Mumbai Central,2025-01-31,21,83,5,900,TechSource,75
+P005,Mouse,Electronics,Thane,2025-01-31,251,131,223,700,Urban Traders,42
+P009,Bookshelf,Furniture,Navi Mumbai,2025-02-01,167,56,411,6500,Prime Distributors,47
+P013,Water Bottle,Accessories,Navi Mumbai,2025-02-01,229,158,1,600,Metro Wholesale,78
+P019,Air Fryer,Appliances,Andheri,2025-02-01,83,97,35,7500,Urban Traders,36
+P010,Notebook,Stationery,Mumbai Central,2025-02-01,65,54,70,120,Prime Distributors,68
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-02-01,215,123,195,5500,Urban Traders,52
+P010,Notebook,Stationery,Navi Mumbai,2025-02-01,94,99,59,120,TechSource,100
+P013,Water Bottle,Accessories,Borivali,2025-02-01,202,48,226,600,TechSource,79
+P007,Office Chair,Furniture,Andheri,2025-02-01,21,60,0,8500,TechSource,57
+P018,Mixer Grinder,Appliances,Borivali,2025-02-02,74,95,78,4200,TechSource,45
+P001,Laptop,Electronics,Andheri,2025-02-02,168,130,15,42000,Metro Wholesale,96
+P011,Pen Set,Stationery,Mumbai Central,2025-02-02,183,121,103,180,Prime Distributors,100
+P006,Monitor,Electronics,Navi Mumbai,2025-02-03,277,115,193,12500,Metro Wholesale,98
+P016,Jeans,Fashion,Mumbai Central,2025-02-03,144,10,204,1800,Urban Traders,99
+P006,Monitor,Electronics,Navi Mumbai,2025-02-03,92,112,8,12500,Prime Distributors,80
+P009,Bookshelf,Furniture,Borivali,2025-02-03,168,131,72,6500,Prime Distributors,80
+P001,Laptop,Electronics,Navi Mumbai,2025-02-03,116,108,107,42000,Global Supplies,41
+P012,Backpack,Accessories,Borivali,2025-02-03,235,136,218,1600,Urban Traders,97
+P011,Pen Set,Stationery,Mumbai Central,2025-02-04,200,157,72,180,Prime Distributors,51
+P007,Office Chair,Furniture,Andheri,2025-02-04,176,156,87,8500,Global Supplies,50
+P012,Backpack,Accessories,Andheri,2025-02-04,188,170,107,1600,Urban Traders,66
+P016,Jeans,Fashion,Andheri,2025-02-05,283,160,189,1800,Prime Distributors,95
+P011,Pen Set,Stationery,Borivali,2025-02-05,151,151,27,180,Global Supplies,84
+P003,Headphones,Electronics,Borivali,2025-02-05,192,103,553,1800,Global Supplies,45
+P004,Keyboard,Electronics,Andheri,2025-02-05,278,70,281,1200,TechSource,26
+P018,Mixer Grinder,Appliances,Andheri,2025-02-05,103,32,147,4200,Metro Wholesale,46
+P007,Office Chair,Furniture,Thane,2025-02-05,36,46,79,8500,Prime Distributors,42
+P013,Water Bottle,Accessories,Borivali,2025-02-06,49,14,147,600,Prime Distributors,69
+P018,Mixer Grinder,Appliances,Andheri,2025-02-06,158,154,48,4200,Metro Wholesale,55
+P020,Bluetooth Speaker,Electronics,Thane,2025-02-06,102,23,193,2600,Prime Distributors,62
+P002,Smartphone,Electronics,Andheri,2025-02-06,220,22,289,22000,Urban Traders,93
+P014,Shoes,Fashion,Navi Mumbai,2025-02-06,212,46,208,3200,TechSource,49
+P009,Bookshelf,Furniture,Andheri,2025-02-07,140,166,55,6500,Global Supplies,79
+P004,Keyboard,Electronics,Mumbai Central,2025-02-07,88,83,47,1200,TechSource,82
+P006,Monitor,Electronics,Navi Mumbai,2025-02-07,27,7,40,12500,TechSource,34
+P008,Desk,Furniture,Mumbai Central,2025-02-07,265,111,269,12000,Metro Wholesale,50
+P015,T-Shirt,Fashion,Mumbai Central,2025-02-07,202,77,223,900,Prime Distributors,65
+P002,Smartphone,Electronics,Mumbai Central,2025-02-08,69,97,60,22000,TechSource,90
+P014,Shoes,Fashion,Mumbai Central,2025-02-08,87,104,60,3200,Prime Distributors,72
+P004,Keyboard,Electronics,Thane,2025-02-08,283,67,301,1200,Urban Traders,60
+P002,Smartphone,Electronics,Mumbai Central,2025-02-08,270,179,172,22000,Global Supplies,48
+P010,Notebook,Stationery,Thane,2025-02-08,54,42,112,120,Prime Distributors,34
+P017,Coffee Maker,Appliances,Thane,2025-02-08,41,51,80,5500,TechSource,31
+P009,Bookshelf,Furniture,Navi Mumbai,2025-02-08,132,128,41,6500,Prime Distributors,42
+P011,Pen Set,Stationery,Borivali,2025-02-09,276,155,177,180,Urban Traders,61
+P015,T-Shirt,Fashion,Navi Mumbai,2025-02-09,53,96,0,900,Prime Distributors,34
+P001,Laptop,Electronics,Thane,2025-02-09,286,9,305,42000,Urban Traders,71
+P007,Office Chair,Furniture,Thane,2025-02-09,77,46,68,8500,Urban Traders,83
+P005,Mouse,Electronics,Borivali,2025-02-09,95,141,0,700,Global Supplies,79
+P009,Bookshelf,Furniture,Thane,2025-02-10,79,38,19,6500,Urban Traders,60
+P013,Water Bottle,Accessories,Andheri,2025-02-10,73,101,22,600,Urban Traders,94
+P016,Jeans,Fashion,Thane,2025-02-10,112,69,103,1800,Global Supplies,34
+P019,Air Fryer,Appliances,Navi Mumbai,2025-02-11,105,61,105,7500,Prime Distributors,28
+P016,Jeans,Fashion,Andheri,2025-02-11,60,100,9,1800,TechSource,49
+P009,Bookshelf,Furniture,Navi Mumbai,2025-02-11,66,141,7,6500,Urban Traders,93
+P002,Smartphone,Electronics,Navi Mumbai,2025-02-12,132,30,188,22000,Urban Traders,54
+P004,Keyboard,Electronics,Thane,2025-02-12,133,44,205,1200,TechSource,69
+P016,Jeans,Fashion,Navi Mumbai,2025-02-13,242,175,144,1800,Metro Wholesale,67
+P005,Mouse,Electronics,Andheri,2025-02-13,132,135,93,700,Prime Distributors,37
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-02-14,258,109,236,2600,TechSource,61
+P020,Bluetooth Speaker,Electronics,Borivali,2025-02-14,247,74,275,2600,Global Supplies,95
+P001,Laptop,Electronics,Thane,2025-02-14,296,88,299,42000,Prime Distributors,35
+P002,Smartphone,Electronics,Navi Mumbai,2025-02-14,279,137,248,22000,TechSource,53
+P003,Headphones,Electronics,Navi Mumbai,2025-02-14,93,33,92,1800,Urban Traders,31
+P009,Bookshelf,Furniture,Navi Mumbai,2025-02-15,40,57,34,6500,Global Supplies,75
+P015,T-Shirt,Fashion,Andheri,2025-02-15,38,80,0,900,Prime Distributors,97
+P016,Jeans,Fashion,Mumbai Central,2025-02-15,297,42,361,1800,Prime Distributors,73
+P020,Bluetooth Speaker,Electronics,Thane,2025-02-15,265,127,290,2600,Global Supplies,36
+P013,Water Bottle,Accessories,Thane,2025-02-15,135,14,196,600,TechSource,35
+P006,Monitor,Electronics,Andheri,2025-02-16,176,94,117,12500,TechSource,66
+P003,Headphones,Electronics,Borivali,2025-02-16,155,159,81,1800,TechSource,60
+P003,Headphones,Electronics,Navi Mumbai,2025-02-16,37,39,78,1800,Urban Traders,72
+P008,Desk,Furniture,Andheri,2025-02-16,101,172,20,12000,Urban Traders,74
+P008,Desk,Furniture,Mumbai Central,2025-02-16,292,133,170,12000,Urban Traders,88
+P004,Keyboard,Electronics,Mumbai Central,2025-02-17,148,84,133,1200,Global Supplies,91
+P003,Headphones,Electronics,Navi Mumbai,2025-02-17,188,20,254,1800,Metro Wholesale,85
+P008,Desk,Furniture,Borivali,2025-02-17,221,73,191,12000,Urban Traders,29
+P018,Mixer Grinder,Appliances,Andheri,2025-02-18,82,61,305,4200,Urban Traders,72
+P012,Backpack,Accessories,Mumbai Central,2025-02-18,296,68,270,1600,TechSource,51
+P007,Office Chair,Furniture,Borivali,2025-02-18,88,128,596,8500,Global Supplies,83
+P009,Bookshelf,Furniture,Navi Mumbai,2025-02-18,207,79,228,6500,Global Supplies,82
+P010,Notebook,Stationery,Mumbai Central,2025-02-18,225,50,245,120,Urban Traders,94
+P002,Smartphone,Electronics,Thane,2025-02-18,222,13,328,22000,Urban Traders,64
+P005,Mouse,Electronics,Navi Mumbai,2025-02-19,133,115,124,700,Metro Wholesale,48
+P016,Jeans,Fashion,Navi Mumbai,2025-02-19,265,49,282,1800,Prime Distributors,80
+P002,Smartphone,Electronics,Borivali,2025-02-19,235,154,168,22000,TechSource,25
+P013,Water Bottle,Accessories,Borivali,2025-02-19,289,41,342,600,Prime Distributors,50
+P006,Monitor,Electronics,Navi Mumbai,2025-02-19,237,139,171,12500,Metro Wholesale,71
+P010,Notebook,Stationery,Navi Mumbai,2025-02-19,225,72,164,120,Urban Traders,27
+P019,Air Fryer,Appliances,Thane,2025-02-20,38,96,37,7500,Urban Traders,100
+P008,Desk,Furniture,Borivali,2025-02-20,154,17,241,12000,Prime Distributors,69
+P004,Keyboard,Electronics,Thane,2025-02-20,78,75,20,1200,Urban Traders,42
+P019,Air Fryer,Appliances,Borivali,2025-02-20,66,63,80,7500,Global Supplies,64
+P013,Water Bottle,Accessories,Andheri,2025-02-20,255,150,172,600,TechSource,50
+P019,Air Fryer,Appliances,Navi Mumbai,2025-02-21,56,82,38,7500,Global Supplies,50
+P004,Keyboard,Electronics,Navi Mumbai,2025-02-21,82,78,104,1200,Metro Wholesale,25
+P014,Shoes,Fashion,Borivali,2025-02-21,201,106,172,3200,TechSource,57
+P008,Desk,Furniture,Borivali,2025-02-21,283,8,299,12000,TechSource,86
+P003,Headphones,Electronics,Mumbai Central,2025-02-21,50,108,0,1800,Global Supplies,85
+P001,Laptop,Electronics,Borivali,2025-02-21,173,163,100,42000,Metro Wholesale,68
+P008,Desk,Furniture,Navi Mumbai,2025-02-21,168,49,208,12000,Prime Distributors,61
+P005,Mouse,Electronics,Thane,2025-02-22,81,17,117,700,Prime Distributors,72
+P014,Shoes,Fashion,Thane,2025-02-22,188,138,66,3200,Global Supplies,40
+P013,Water Bottle,Accessories,Navi Mumbai,2025-02-22,135,141,18,600,Global Supplies,95
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-02-22,224,63,256,4200,Prime Distributors,59
+P008,Desk,Furniture,Andheri,2025-02-22,173,8,267,12000,Metro Wholesale,79
+P012,Backpack,Accessories,Navi Mumbai,2025-02-22,36,97,43,1600,Urban Traders,84
+P002,Smartphone,Electronics,Andheri,2025-02-22,92,132,62,22000,Metro Wholesale,62
+P008,Desk,Furniture,Borivali,2025-02-22,143,150,108,12000,TechSource,62
+P010,Notebook,Stationery,Thane,2025-02-23,211,46,223,120,Prime Distributors,76
+P011,Pen Set,Stationery,Navi Mumbai,2025-02-23,89,124,13,180,Urban Traders,94
+P013,Water Bottle,Accessories,Thane,2025-02-23,297,161,230,600,Prime Distributors,58
+P011,Pen Set,Stationery,Navi Mumbai,2025-02-24,92,100,11,180,Metro Wholesale,96
+P010,Notebook,Stationery,Andheri,2025-02-24,76,62,106,120,Prime Distributors,92
+P011,Pen Set,Stationery,Mumbai Central,2025-02-24,102,109,100,180,TechSource,34
+P015,T-Shirt,Fashion,Thane,2025-02-24,41,53,69,900,Urban Traders,50
+P005,Mouse,Electronics,Navi Mumbai,2025-02-24,274,35,346,700,Global Supplies,90
+P014,Shoes,Fashion,Andheri,2025-02-24,42,102,0,3200,TechSource,50
+P005,Mouse,Electronics,Borivali,2025-02-24,88,96,27,700,TechSource,70
+P019,Air Fryer,Appliances,Andheri,2025-02-24,47,94,49,7500,TechSource,88
+P001,Laptop,Electronics,Andheri,2025-02-25,281,34,266,42000,Global Supplies,98
+P015,T-Shirt,Fashion,Thane,2025-02-25,220,110,128,900,Global Supplies,72
+P018,Mixer Grinder,Appliances,Andheri,2025-02-25,189,65,149,4200,Urban Traders,48
+P005,Mouse,Electronics,Borivali,2025-02-25,57,89,29,700,Metro Wholesale,41
+P020,Bluetooth Speaker,Electronics,Borivali,2025-02-25,247,57,466,2600,Global Supplies,41
+P015,T-Shirt,Fashion,Navi Mumbai,2025-02-26,295,66,255,900,TechSource,75
+P014,Shoes,Fashion,Thane,2025-02-26,206,149,139,3200,TechSource,67
+P011,Pen Set,Stationery,Mumbai Central,2025-02-27,182,126,101,180,Urban Traders,89
+P003,Headphones,Electronics,Borivali,2025-02-27,284,158,241,1800,Metro Wholesale,68
+P001,Laptop,Electronics,Mumbai Central,2025-02-27,30,32,77,42000,Metro Wholesale,25
+P005,Mouse,Electronics,Thane,2025-02-27,83,24,91,700,Prime Distributors,53
+P015,T-Shirt,Fashion,Thane,2025-02-27,98,127,4,900,Prime Distributors,68
+P015,T-Shirt,Fashion,Thane,2025-02-27,96,109,48,900,Metro Wholesale,84
+P012,Backpack,Accessories,Thane,2025-02-27,300,112,260,1600,Global Supplies,78
+P017,Coffee Maker,Appliances,Mumbai Central,2025-02-27,137,48,140,5500,TechSource,97
+P013,Water Bottle,Accessories,Mumbai Central,2025-02-28,105,53,92,600,Urban Traders,76
+P001,Laptop,Electronics,Andheri,2025-02-28,134,123,95,42000,TechSource,36
+P013,Water Bottle,Accessories,Thane,2025-02-28,275,29,16,600,Metro Wholesale,38
+P012,Backpack,Accessories,Mumbai Central,2025-02-28,261,152,151,1600,Urban Traders,47
+P009,Bookshelf,Furniture,Navi Mumbai,2025-03-01,27,18,49,6500,Urban Traders,49
+P011,Pen Set,Stationery,Andheri,2025-03-02,30,40,96,180,Urban Traders,72
+P015,T-Shirt,Fashion,Borivali,2025-03-02,233,126,176,900,Prime Distributors,26
+P012,Backpack,Accessories,Mumbai Central,2025-03-02,35,96,8,1600,TechSource,74
+P003,Headphones,Electronics,Mumbai Central,2025-03-03,247,41,247,1800,Urban Traders,57
+P014,Shoes,Fashion,Navi Mumbai,2025-03-03,173,116,157,3200,Urban Traders,68
+P017,Coffee Maker,Appliances,Thane,2025-03-03,95,123,88,5500,Urban Traders,37
+P015,T-Shirt,Fashion,Navi Mumbai,2025-03-03,186,113,190,900,Metro Wholesale,74
+P007,Office Chair,Furniture,Andheri,2025-03-03,133,47,166,8500,Urban Traders,38
+P012,Backpack,Accessories,Navi Mumbai,2025-03-04,197,66,209,1600,Urban Traders,32
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-03-04,169,83,18,4200,Prime Distributors,48
+P004,Keyboard,Electronics,Navi Mumbai,2025-03-04,143,153,78,1200,Urban Traders,82
+P003,Headphones,Electronics,Mumbai Central,2025-03-04,40,19,100,1800,Urban Traders,93
+P014,Shoes,Fashion,Andheri,2025-03-04,68,81,85,3200,Metro Wholesale,96
+P001,Laptop,Electronics,Andheri,2025-03-04,205,170,93,42000,Urban Traders,52
+P018,Mixer Grinder,Appliances,Andheri,2025-03-04,183,167,29,4200,Urban Traders,33
+P011,Pen Set,Stationery,Borivali,2025-03-05,192,94,137,180,TechSource,86
+P015,T-Shirt,Fashion,Borivali,2025-03-06,114,41,118,900,Prime Distributors,26
+P011,Pen Set,Stationery,Andheri,2025-03-06,137,148,86,180,Prime Distributors,94
+P003,Headphones,Electronics,Mumbai Central,2025-03-06,41,58,56,1800,Global Supplies,65
+P019,Air Fryer,Appliances,Mumbai Central,2025-03-06,167,164,15,7500,Urban Traders,27
+P004,Keyboard,Electronics,Mumbai Central,2025-03-06,146,98,139,1200,Metro Wholesale,32
+P017,Coffee Maker,Appliances,Andheri,2025-03-06,243,86,246,5500,Global Supplies,33
+P017,Coffee Maker,Appliances,Mumbai Central,2025-03-07,63,108,44,5500,Metro Wholesale,96
+P009,Bookshelf,Furniture,Borivali,2025-03-07,232,172,95,6500,Metro Wholesale,50
+P011,Pen Set,Stationery,Borivali,2025-03-07,290,49,281,180,TechSource,27
+P018,Mixer Grinder,Appliances,Borivali,2025-03-07,147,99,144,4200,Global Supplies,61
+P002,Smartphone,Electronics,Thane,2025-03-07,159,40,224,22000,Prime Distributors,81
+P004,Keyboard,Electronics,Andheri,2025-03-07,130,120,70,1200,TechSource,37
+P019,Air Fryer,Appliances,Thane,2025-03-08,128,35,184,7500,TechSource,34
+P015,T-Shirt,Fashion,Andheri,2025-03-08,80,26,135,900,Global Supplies,42
+P012,Backpack,Accessories,Andheri,2025-03-08,157,40,157,1600,Metro Wholesale,42
+P006,Monitor,Electronics,Borivali,2025-03-08,143,52,192,12500,TechSource,90
+P003,Headphones,Electronics,Borivali,2025-03-08,223,145,197,1800,Metro Wholesale,73
+P001,Laptop,Electronics,Andheri,2025-03-08,67,81,277,42000,Global Supplies,55
+P004,Keyboard,Electronics,Navi Mumbai,2025-03-08,21,74,32,1200,Global Supplies,45
+P004,Keyboard,Electronics,Borivali,2025-03-08,194,46,259,1200,Prime Distributors,65
+P020,Bluetooth Speaker,Electronics,Borivali,2025-03-08,259,47,291,2600,Urban Traders,46
+P019,Air Fryer,Appliances,Borivali,2025-03-08,211,27,196,7500,Urban Traders,29
+P009,Bookshelf,Furniture,Thane,2025-03-08,170,63,146,6500,Prime Distributors,29
+P007,Office Chair,Furniture,Navi Mumbai,2025-03-09,43,96,0,8500,Global Supplies,71
+P009,Bookshelf,Furniture,Andheri,2025-03-09,58,21,148,6500,Metro Wholesale,72
+P017,Coffee Maker,Appliances,Mumbai Central,2025-03-09,61,62,107,5500,Global Supplies,55
+P016,Jeans,Fashion,Borivali,2025-03-09,129,65,318,1800,Urban Traders,86
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-03-09,105,47,87,5500,Metro Wholesale,72
+P013,Water Bottle,Accessories,Borivali,2025-03-09,240,61,239,600,Global Supplies,70
+P014,Shoes,Fashion,Mumbai Central,2025-03-10,143,88,124,3200,TechSource,80
+P020,Bluetooth Speaker,Electronics,Borivali,2025-03-10,283,143,168,2600,TechSource,67
+P012,Backpack,Accessories,Thane,2025-03-10,252,149,200,1600,Metro Wholesale,65
+P008,Desk,Furniture,Navi Mumbai,2025-03-10,257,164,176,12000,TechSource,46
+P006,Monitor,Electronics,Andheri,2025-03-10,128,80,157,12500,Metro Wholesale,49
+P017,Coffee Maker,Appliances,Borivali,2025-03-10,105,60,157,5500,Global Supplies,47
+P003,Headphones,Electronics,Borivali,2025-03-10,49,69,0,1800,Urban Traders,27
+P007,Office Chair,Furniture,Borivali,2025-03-10,123,77,116,8500,Global Supplies,36
+P005,Mouse,Electronics,Mumbai Central,2025-03-11,162,75,179,700,Global Supplies,67
+P005,Mouse,Electronics,Thane,2025-03-11,75,102,10,700,Urban Traders,26
+P003,Headphones,Electronics,Andheri,2025-03-11,241,126,219,1800,Prime Distributors,35
+P016,Jeans,Fashion,Borivali,2025-03-11,245,117,163,1800,Global Supplies,60
+P002,Smartphone,Electronics,Borivali,2025-03-12,198,33,213,22000,Global Supplies,33
+P009,Bookshelf,Furniture,Mumbai Central,2025-03-12,59,97,0,6500,Urban Traders,79
+P015,T-Shirt,Fashion,Mumbai Central,2025-03-12,121,142,0,900,Urban Traders,47
+P019,Air Fryer,Appliances,Borivali,2025-03-12,109,36,144,7500,Prime Distributors,74
+P016,Jeans,Fashion,Andheri,2025-03-12,22,101,0,1800,Urban Traders,59
+P005,Mouse,Electronics,Andheri,2025-03-13,44,5,153,700,Urban Traders,45
+P014,Shoes,Fashion,Mumbai Central,2025-03-13,126,83,111,3200,Urban Traders,63
+P018,Mixer Grinder,Appliances,Andheri,2025-03-13,65,45,128,4200,TechSource,70
+P008,Desk,Furniture,Navi Mumbai,2025-03-13,175,5,576,12000,Prime Distributors,96
+P018,Mixer Grinder,Appliances,Andheri,2025-03-13,60,122,22,4200,Metro Wholesale,68
+P002,Smartphone,Electronics,Navi Mumbai,2025-03-14,253,11,276,22000,TechSource,32
+P010,Notebook,Stationery,Borivali,2025-03-14,271,153,200,120,TechSource,37
+P008,Desk,Furniture,Navi Mumbai,2025-03-14,233,88,193,12000,Urban Traders,77
+P020,Bluetooth Speaker,Electronics,Thane,2025-03-14,128,43,154,2600,Prime Distributors,62
+P011,Pen Set,Stationery,Borivali,2025-03-15,36,71,0,180,TechSource,38
+P012,Backpack,Accessories,Navi Mumbai,2025-03-15,213,20,466,1600,TechSource,35
+P012,Backpack,Accessories,Navi Mumbai,2025-03-15,101,91,118,1600,Metro Wholesale,45
+P012,Backpack,Accessories,Thane,2025-03-15,165,155,83,1600,TechSource,94
+P001,Laptop,Electronics,Borivali,2025-03-15,279,58,253,42000,Urban Traders,27
+P002,Smartphone,Electronics,Borivali,2025-03-15,229,161,158,22000,Prime Distributors,55
+P020,Bluetooth Speaker,Electronics,Thane,2025-03-15,109,71,78,2600,Global Supplies,35
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-03-16,88,145,60,5500,Prime Distributors,27
+P006,Monitor,Electronics,Navi Mumbai,2025-03-16,267,104,181,12500,Metro Wholesale,97
+P015,T-Shirt,Fashion,Borivali,2025-03-16,225,82,196,900,TechSource,52
+P010,Notebook,Stationery,Navi Mumbai,2025-03-16,164,165,37,120,Urban Traders,87
+P018,Mixer Grinder,Appliances,Andheri,2025-03-16,160,32,202,4200,TechSource,51
+P004,Keyboard,Electronics,Mumbai Central,2025-03-17,171,76,106,1200,Urban Traders,87
+P017,Coffee Maker,Appliances,Andheri,2025-03-17,189,155,99,5500,Global Supplies,29
+P001,Laptop,Electronics,Mumbai Central,2025-03-18,169,175,93,42000,Metro Wholesale,69
+P002,Smartphone,Electronics,Borivali,2025-03-18,35,12,107,22000,TechSource,81
+P001,Laptop,Electronics,Borivali,2025-03-18,128,20,186,42000,TechSource,70
+P005,Mouse,Electronics,Mumbai Central,2025-03-18,137,153,49,700,Prime Distributors,96
+P011,Pen Set,Stationery,Andheri,2025-03-18,115,8,389,180,TechSource,30
+P016,Jeans,Fashion,Mumbai Central,2025-03-19,20,77,18,1800,Urban Traders,30
+P019,Air Fryer,Appliances,Borivali,2025-03-19,211,86,142,7500,Prime Distributors,55
+P005,Mouse,Electronics,Andheri,2025-03-19,209,173,129,700,Metro Wholesale,61
+P003,Headphones,Electronics,Thane,2025-03-19,152,81,95,1800,Urban Traders,25
+P004,Keyboard,Electronics,Andheri,2025-03-19,217,88,161,1200,Prime Distributors,90
+P014,Shoes,Fashion,Thane,2025-03-19,157,30,146,3200,Prime Distributors,87
+P010,Notebook,Stationery,Andheri,2025-03-20,183,168,40,120,Metro Wholesale,33
+P013,Water Bottle,Accessories,Navi Mumbai,2025-03-20,66,92,31,600,Prime Distributors,86
+P020,Bluetooth Speaker,Electronics,Borivali,2025-03-20,237,38,224,2600,Urban Traders,57
+P008,Desk,Furniture,Thane,2025-03-20,166,153,128,12000,Metro Wholesale,58
+P009,Bookshelf,Furniture,Navi Mumbai,2025-03-20,84,76,21,6500,Prime Distributors,90
+P004,Keyboard,Electronics,Mumbai Central,2025-03-20,208,131,149,1200,Metro Wholesale,84
+P016,Jeans,Fashion,Borivali,2025-03-20,225,178,109,1800,Global Supplies,79
+P015,T-Shirt,Fashion,Andheri,2025-03-20,246,76,357,900,Metro Wholesale,87
+P003,Headphones,Electronics,Mumbai Central,2025-03-21,27,28,76,1800,Global Supplies,78
+P006,Monitor,Electronics,Andheri,2025-03-21,119,103,101,12500,Global Supplies,57
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-03-22,190,161,141,5500,Urban Traders,35
+P020,Bluetooth Speaker,Electronics,Borivali,2025-03-22,153,117,134,2600,TechSource,89
+P007,Office Chair,Furniture,Navi Mumbai,2025-03-22,217,167,168,8500,Global Supplies,60
+P008,Desk,Furniture,Andheri,2025-03-23,183,51,218,12000,Prime Distributors,48
+P013,Water Bottle,Accessories,Mumbai Central,2025-03-23,79,96,22,600,TechSource,32
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-03-23,24,75,52,5500,Prime Distributors,26
+P010,Notebook,Stationery,Navi Mumbai,2025-03-23,81,7,172,120,Global Supplies,72
+P004,Keyboard,Electronics,Mumbai Central,2025-03-23,223,94,13,1200,Prime Distributors,31
+P007,Office Chair,Furniture,Navi Mumbai,2025-03-23,282,136,163,8500,Global Supplies,33
+P003,Headphones,Electronics,Andheri,2025-03-23,121,102,106,1800,Metro Wholesale,94
+P006,Monitor,Electronics,Navi Mumbai,2025-03-24,215,126,168,12500,TechSource,71
+P007,Office Chair,Furniture,Andheri,2025-03-24,105,125,46,8500,Prime Distributors,69
+P001,Laptop,Electronics,Andheri,2025-03-24,298,69,321,42000,Global Supplies,99
+P004,Keyboard,Electronics,Mumbai Central,2025-03-24,292,120,238,1200,Prime Distributors,61
+P001,Laptop,Electronics,Thane,2025-03-25,42,43,61,42000,Global Supplies,92
+P010,Notebook,Stationery,Borivali,2025-03-25,258,120,256,120,Urban Traders,33
+P003,Headphones,Electronics,Andheri,2025-03-25,138,32,222,1800,Metro Wholesale,58
+P012,Backpack,Accessories,Andheri,2025-03-25,103,139,0,1600,TechSource,89
+P012,Backpack,Accessories,Thane,2025-03-25,71,121,0,1600,Prime Distributors,95
+P002,Smartphone,Electronics,Thane,2025-03-25,288,59,318,22000,Metro Wholesale,41
+P017,Coffee Maker,Appliances,Andheri,2025-03-26,58,29,42,5500,Prime Distributors,31
+P003,Headphones,Electronics,Borivali,2025-03-26,221,14,218,1800,Prime Distributors,69
+P002,Smartphone,Electronics,Mumbai Central,2025-03-26,49,92,13,22000,Prime Distributors,96
+P005,Mouse,Electronics,Thane,2025-03-26,233,154,135,700,Urban Traders,81
+P005,Mouse,Electronics,Thane,2025-03-26,215,70,456,700,Urban Traders,67
+P001,Laptop,Electronics,Borivali,2025-03-27,168,6,240,42000,Prime Distributors,42
+P009,Bookshelf,Furniture,Andheri,2025-03-27,68,109,27,6500,Metro Wholesale,91
+P015,T-Shirt,Fashion,Navi Mumbai,2025-03-27,268,148,218,900,Global Supplies,80
+P010,Notebook,Stationery,Thane,2025-03-27,131,134,87,120,Metro Wholesale,94
+P005,Mouse,Electronics,Thane,2025-03-27,198,78,214,700,Urban Traders,98
+P012,Backpack,Accessories,Borivali,2025-03-27,38,79,12,1600,Urban Traders,53
+P004,Keyboard,Electronics,Thane,2025-03-27,183,149,115,1200,TechSource,78
+P007,Office Chair,Furniture,Navi Mumbai,2025-03-28,161,123,139,8500,Metro Wholesale,57
+P016,Jeans,Fashion,Thane,2025-03-28,275,63,236,1800,Metro Wholesale,60
+P006,Monitor,Electronics,Andheri,2025-03-28,288,114,292,12500,Global Supplies,81
+P008,Desk,Furniture,Mumbai Central,2025-03-28,236,13,303,12000,Global Supplies,100
+P010,Notebook,Stationery,Andheri,2025-03-28,136,102,142,120,Global Supplies,51
+P005,Mouse,Electronics,Mumbai Central,2025-03-28,87,155,0,700,Urban Traders,42
+P009,Bookshelf,Furniture,Thane,2025-03-28,182,20,188,6500,Global Supplies,99
+P010,Notebook,Stationery,Borivali,2025-03-28,208,105,143,120,TechSource,59
+P013,Water Bottle,Accessories,Navi Mumbai,2025-03-28,180,83,139,600,Global Supplies,41
+P001,Laptop,Electronics,Mumbai Central,2025-03-29,237,53,203,42000,Prime Distributors,41
+P014,Shoes,Fashion,Navi Mumbai,2025-03-29,267,29,300,3200,Prime Distributors,99
+P014,Shoes,Fashion,Borivali,2025-03-29,266,86,210,3200,TechSource,43
+P020,Bluetooth Speaker,Electronics,Andheri,2025-03-30,108,120,78,2600,Metro Wholesale,61
+P012,Backpack,Accessories,Mumbai Central,2025-03-30,183,47,183,1600,TechSource,81
+P010,Notebook,Stationery,Navi Mumbai,2025-03-30,243,5,251,120,TechSource,93
+P011,Pen Set,Stationery,Mumbai Central,2025-03-30,286,122,217,180,Metro Wholesale,82
+P017,Coffee Maker,Appliances,Thane,2025-03-30,101,115,82,5500,TechSource,90
+P018,Mixer Grinder,Appliances,Thane,2025-03-31,214,78,156,4200,Urban Traders,84
+P015,T-Shirt,Fashion,Andheri,2025-03-31,127,29,11,900,Urban Traders,54
+P002,Smartphone,Electronics,Thane,2025-03-31,249,41,323,22000,Global Supplies,67
+P010,Notebook,Stationery,Navi Mumbai,2025-03-31,130,103,83,120,Urban Traders,40
+P009,Bookshelf,Furniture,Andheri,2025-03-31,281,19,289,6500,Metro Wholesale,76
+P005,Mouse,Electronics,Andheri,2025-03-31,222,155,113,700,Metro Wholesale,58
+P013,Water Bottle,Accessories,Thane,2025-04-01,216,107,2,600,TechSource,56
+P010,Notebook,Stationery,Thane,2025-04-01,106,114,8,120,Global Supplies,75
+P005,Mouse,Electronics,Navi Mumbai,2025-04-01,235,32,295,700,Metro Wholesale,77
+P007,Office Chair,Furniture,Mumbai Central,2025-04-01,91,62,39,8500,Urban Traders,26
+P009,Bookshelf,Furniture,Thane,2025-04-01,73,95,78,6500,Global Supplies,65
+P016,Jeans,Fashion,Andheri,2025-04-02,267,108,265,1800,TechSource,53
+P001,Laptop,Electronics,Navi Mumbai,2025-04-02,68,93,9,42000,TechSource,49
+P002,Smartphone,Electronics,Thane,2025-04-02,285,40,362,22000,Prime Distributors,92
+P008,Desk,Furniture,Navi Mumbai,2025-04-03,123,139,95,12000,Prime Distributors,43
+P008,Desk,Furniture,Navi Mumbai,2025-04-03,151,88,465,12000,Prime Distributors,61
+P015,T-Shirt,Fashion,Mumbai Central,2025-04-03,131,110,43,900,TechSource,64
+P005,Mouse,Electronics,Thane,2025-04-03,227,62,270,700,Urban Traders,46
+P003,Headphones,Electronics,Thane,2025-04-03,210,114,135,1800,TechSource,97
+P011,Pen Set,Stationery,Andheri,2025-04-03,155,65,313,180,Prime Distributors,36
+P005,Mouse,Electronics,Mumbai Central,2025-04-04,297,10,346,700,Urban Traders,90
+P020,Bluetooth Speaker,Electronics,Borivali,2025-04-05,245,100,176,2600,TechSource,79
+P016,Jeans,Fashion,Borivali,2025-04-05,64,27,65,1800,Urban Traders,30
+P013,Water Bottle,Accessories,Mumbai Central,2025-04-05,168,108,85,600,TechSource,40
+P008,Desk,Furniture,Borivali,2025-04-05,157,70,185,12000,Global Supplies,39
+P015,T-Shirt,Fashion,Andheri,2025-04-05,290,19,360,900,Metro Wholesale,37
+P016,Jeans,Fashion,Andheri,2025-04-05,295,162,186,1800,Global Supplies,98
+P012,Backpack,Accessories,Navi Mumbai,2025-04-06,103,151,0,1600,Urban Traders,27
+P004,Keyboard,Electronics,Mumbai Central,2025-04-06,228,101,197,1200,Global Supplies,35
+P003,Headphones,Electronics,Andheri,2025-04-06,62,41,108,1800,Urban Traders,39
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-04-07,162,114,144,5500,Urban Traders,94
+P008,Desk,Furniture,Borivali,2025-04-07,72,76,377,12000,TechSource,52
+P019,Air Fryer,Appliances,Borivali,2025-04-07,184,101,131,7500,Prime Distributors,35
+P007,Office Chair,Furniture,Borivali,2025-04-07,233,169,97,8500,Prime Distributors,28
+P008,Desk,Furniture,Thane,2025-04-07,275,11,359,12000,Prime Distributors,84
+P004,Keyboard,Electronics,Borivali,2025-04-08,72,73,48,1200,Global Supplies,67
+P004,Keyboard,Electronics,Thane,2025-04-08,163,64,207,1200,Metro Wholesale,50
+P016,Jeans,Fashion,Navi Mumbai,2025-04-08,27,27,30,1800,TechSource,71
+P003,Headphones,Electronics,Borivali,2025-04-08,50,50,60,1800,Prime Distributors,93
+P001,Laptop,Electronics,Mumbai Central,2025-04-09,148,35,160,42000,Prime Distributors,75
+P017,Coffee Maker,Appliances,Andheri,2025-04-09,112,120,50,5500,Global Supplies,87
+P015,T-Shirt,Fashion,Thane,2025-04-09,226,133,151,900,Prime Distributors,39
+P009,Bookshelf,Furniture,Navi Mumbai,2025-04-10,224,28,231,6500,Global Supplies,30
+P019,Air Fryer,Appliances,Mumbai Central,2025-04-10,44,39,37,7500,Prime Distributors,34
+P017,Coffee Maker,Appliances,Andheri,2025-04-10,62,59,53,5500,Metro Wholesale,36
+P010,Notebook,Stationery,Mumbai Central,2025-04-11,21,29,38,120,Prime Distributors,57
+P002,Smartphone,Electronics,Mumbai Central,2025-04-11,70,120,67,22000,Metro Wholesale,30
+P001,Laptop,Electronics,Borivali,2025-04-12,182,77,173,42000,Urban Traders,75
+P004,Keyboard,Electronics,Andheri,2025-04-12,37,116,0,1200,Metro Wholesale,40
+P014,Shoes,Fashion,Andheri,2025-04-12,47,29,85,3200,Metro Wholesale,40
+P005,Mouse,Electronics,Borivali,2025-04-12,90,36,132,700,TechSource,54
+P003,Headphones,Electronics,Borivali,2025-04-12,45,12,102,1800,Metro Wholesale,96
+P002,Smartphone,Electronics,Borivali,2025-04-13,118,139,82,22000,Urban Traders,73
+P007,Office Chair,Furniture,Andheri,2025-04-13,290,52,266,8500,TechSource,71
+P020,Bluetooth Speaker,Electronics,Borivali,2025-04-13,68,94,85,2600,Global Supplies,54
+P008,Desk,Furniture,Borivali,2025-04-13,194,79,196,12000,TechSource,31
+P013,Water Bottle,Accessories,Mumbai Central,2025-04-13,257,169,147,600,Global Supplies,93
+P007,Office Chair,Furniture,Andheri,2025-04-13,218,176,83,8500,Metro Wholesale,78
+P017,Coffee Maker,Appliances,Thane,2025-04-13,207,15,280,5500,TechSource,93
+P014,Shoes,Fashion,Navi Mumbai,2025-04-14,117,114,296,3200,Metro Wholesale,97
+P009,Bookshelf,Furniture,Borivali,2025-04-14,210,91,134,6500,Urban Traders,57
+P006,Monitor,Electronics,Borivali,2025-04-14,173,174,81,12500,Global Supplies,68
+P019,Air Fryer,Appliances,Borivali,2025-04-14,80,94,72,7500,Urban Traders,82
+P003,Headphones,Electronics,Andheri,2025-04-15,183,154,109,1800,Urban Traders,68
+P008,Desk,Furniture,Andheri,2025-04-15,227,21,274,12000,TechSource,81
+P002,Smartphone,Electronics,Navi Mumbai,2025-04-15,179,111,170,22000,Urban Traders,30
+P007,Office Chair,Furniture,Navi Mumbai,2025-04-15,62,73,82,8500,Prime Distributors,60
+P003,Headphones,Electronics,Borivali,2025-04-15,44,98,0,1800,Metro Wholesale,99
+P008,Desk,Furniture,Navi Mumbai,2025-04-15,164,91,170,12000,TechSource,91
+P013,Water Bottle,Accessories,Mumbai Central,2025-04-15,172,113,137,600,Global Supplies,83
+P003,Headphones,Electronics,Mumbai Central,2025-04-15,200,131,83,1800,TechSource,98
+P011,Pen Set,Stationery,Borivali,2025-04-15,40,73,45,180,TechSource,84
+P016,Jeans,Fashion,Mumbai Central,2025-04-16,171,21,243,1800,Prime Distributors,87
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-04-16,190,165,42,5500,Prime Distributors,28
+P011,Pen Set,Stationery,Thane,2025-04-16,292,29,346,180,Prime Distributors,50
+P016,Jeans,Fashion,Mumbai Central,2025-04-16,237,135,184,1800,Prime Distributors,60
+P005,Mouse,Electronics,Navi Mumbai,2025-04-16,260,101,296,700,Global Supplies,28
+P013,Water Bottle,Accessories,Navi Mumbai,2025-04-16,113,151,3,600,TechSource,28
+P005,Mouse,Electronics,Andheri,2025-04-17,264,73,3,700,Global Supplies,70
+P006,Monitor,Electronics,Navi Mumbai,2025-04-17,144,42,123,12500,TechSource,38
+P014,Shoes,Fashion,Thane,2025-04-17,277,122,261,3200,Urban Traders,78
+P019,Air Fryer,Appliances,Mumbai Central,2025-04-17,245,165,5,7500,Metro Wholesale,60
+P006,Monitor,Electronics,Andheri,2025-04-17,240,176,95,12500,Prime Distributors,35
+P011,Pen Set,Stationery,Andheri,2025-04-18,72,141,29,180,Global Supplies,34
+P015,T-Shirt,Fashion,Thane,2025-04-18,70,69,3,900,Prime Distributors,77
+P019,Air Fryer,Appliances,Navi Mumbai,2025-04-18,137,138,103,7500,Prime Distributors,28
+P012,Backpack,Accessories,Navi Mumbai,2025-04-18,298,45,308,1600,TechSource,71
+P013,Water Bottle,Accessories,Borivali,2025-04-18,266,102,176,600,TechSource,60
+P009,Bookshelf,Furniture,Navi Mumbai,2025-04-18,300,19,300,6500,TechSource,36
+P005,Mouse,Electronics,Borivali,2025-04-19,199,149,106,700,Urban Traders,88
+P017,Coffee Maker,Appliances,Mumbai Central,2025-04-19,147,87,165,5500,Global Supplies,57
+P002,Smartphone,Electronics,Andheri,2025-04-19,219,145,101,22000,Urban Traders,100
+P015,T-Shirt,Fashion,Thane,2025-04-19,257,12,331,900,Global Supplies,43
+P016,Jeans,Fashion,Mumbai Central,2025-04-20,103,138,66,1800,Metro Wholesale,87
+P017,Coffee Maker,Appliances,Borivali,2025-04-20,251,119,213,5500,Metro Wholesale,48
+P015,T-Shirt,Fashion,Navi Mumbai,2025-04-20,143,88,82,900,Urban Traders,51
+P001,Laptop,Electronics,Navi Mumbai,2025-04-20,201,51,257,42000,Prime Distributors,95
+P003,Headphones,Electronics,Andheri,2025-04-20,241,115,136,1800,Urban Traders,50
+P017,Coffee Maker,Appliances,Mumbai Central,2025-04-20,287,87,306,5500,Prime Distributors,38
+P007,Office Chair,Furniture,Thane,2025-04-21,249,140,476,8500,Global Supplies,84
+P012,Backpack,Accessories,Borivali,2025-04-21,33,103,0,1600,Global Supplies,50
+P007,Office Chair,Furniture,Mumbai Central,2025-04-21,158,168,62,8500,Metro Wholesale,38
+P013,Water Bottle,Accessories,Navi Mumbai,2025-04-21,111,100,107,600,Prime Distributors,57
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-04-21,123,116,29,4200,TechSource,76
+P005,Mouse,Electronics,Thane,2025-04-21,42,51,71,700,Urban Traders,49
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-04-22,51,63,47,4200,Global Supplies,96
+P007,Office Chair,Furniture,Navi Mumbai,2025-04-22,167,58,180,8500,Global Supplies,94
+P007,Office Chair,Furniture,Borivali,2025-04-22,170,100,134,8500,Prime Distributors,59
+P017,Coffee Maker,Appliances,Mumbai Central,2025-04-22,247,99,184,5500,Urban Traders,52
+P019,Air Fryer,Appliances,Navi Mumbai,2025-04-22,244,123,575,7500,Prime Distributors,96
+P015,T-Shirt,Fashion,Andheri,2025-04-22,160,74,108,900,Metro Wholesale,71
+P005,Mouse,Electronics,Mumbai Central,2025-04-22,118,29,165,700,Urban Traders,63
+P001,Laptop,Electronics,Borivali,2025-04-23,188,56,229,42000,Urban Traders,39
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-04-23,250,157,208,4200,TechSource,76
+P005,Mouse,Electronics,Mumbai Central,2025-04-23,27,42,18,700,TechSource,96
+P018,Mixer Grinder,Appliances,Andheri,2025-04-23,145,34,205,4200,Prime Distributors,41
+P009,Bookshelf,Furniture,Thane,2025-04-23,105,85,0,6500,Urban Traders,81
+P011,Pen Set,Stationery,Mumbai Central,2025-04-23,111,90,70,180,Metro Wholesale,95
+P006,Monitor,Electronics,Andheri,2025-04-23,206,86,212,12500,Metro Wholesale,48
+P017,Coffee Maker,Appliances,Andheri,2025-04-23,121,80,104,5500,Prime Distributors,76
+P004,Keyboard,Electronics,Andheri,2025-04-23,86,33,79,1200,Urban Traders,46
+P013,Water Bottle,Accessories,Thane,2025-04-23,230,108,214,600,Prime Distributors,53
+P008,Desk,Furniture,Mumbai Central,2025-04-24,181,114,107,12000,Metro Wholesale,88
+P017,Coffee Maker,Appliances,Thane,2025-04-24,73,101,33,5500,Metro Wholesale,30
+P004,Keyboard,Electronics,Andheri,2025-04-24,202,147,149,1200,Metro Wholesale,31
+P002,Smartphone,Electronics,Thane,2025-04-24,57,99,0,22000,Metro Wholesale,62
+P008,Desk,Furniture,Navi Mumbai,2025-04-24,67,90,0,12000,Prime Distributors,78
+P001,Laptop,Electronics,Navi Mumbai,2025-04-24,193,95,148,42000,Global Supplies,94
+P008,Desk,Furniture,Navi Mumbai,2025-04-25,227,59,185,12000,Global Supplies,34
+P015,T-Shirt,Fashion,Borivali,2025-04-25,98,45,160,900,Prime Distributors,77
+P005,Mouse,Electronics,Mumbai Central,2025-04-25,253,111,205,700,Global Supplies,79
+P005,Mouse,Electronics,Mumbai Central,2025-04-25,156,136,128,700,Global Supplies,72
+P001,Laptop,Electronics,Mumbai Central,2025-04-25,234,19,276,42000,Global Supplies,94
+P011,Pen Set,Stationery,Andheri,2025-04-25,216,73,242,180,Global Supplies,41
+P005,Mouse,Electronics,Navi Mumbai,2025-04-25,258,117,232,700,Urban Traders,52
+P001,Laptop,Electronics,Navi Mumbai,2025-04-26,279,64,294,42000,Prime Distributors,60
+P018,Mixer Grinder,Appliances,Andheri,2025-04-26,84,86,307,4200,Prime Distributors,50
+P001,Laptop,Electronics,Navi Mumbai,2025-04-26,243,154,118,42000,Urban Traders,64
+P019,Air Fryer,Appliances,Andheri,2025-04-26,66,131,17,7500,Urban Traders,53
+P008,Desk,Furniture,Mumbai Central,2025-04-26,228,155,13,12000,Global Supplies,86
+P001,Laptop,Electronics,Mumbai Central,2025-04-26,76,34,9,42000,Urban Traders,57
+P004,Keyboard,Electronics,Mumbai Central,2025-04-27,220,148,172,1200,Global Supplies,100
+P012,Backpack,Accessories,Andheri,2025-04-27,195,28,196,1600,Global Supplies,86
+P017,Coffee Maker,Appliances,Andheri,2025-04-27,91,130,0,5500,Urban Traders,37
+P005,Mouse,Electronics,Thane,2025-04-27,49,11,117,700,Metro Wholesale,27
+P001,Laptop,Electronics,Mumbai Central,2025-04-27,175,81,160,42000,Global Supplies,55
+P019,Air Fryer,Appliances,Thane,2025-04-27,59,111,43,7500,Prime Distributors,70
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-04-27,21,92,0,5500,Prime Distributors,92
+P015,T-Shirt,Fashion,Navi Mumbai,2025-04-27,269,49,311,900,Prime Distributors,41
+P016,Jeans,Fashion,Borivali,2025-04-27,202,152,77,1800,Metro Wholesale,45
+P005,Mouse,Electronics,Mumbai Central,2025-04-28,110,48,176,700,Prime Distributors,77
+P008,Desk,Furniture,Borivali,2025-04-28,235,26,233,12000,Prime Distributors,60
+P008,Desk,Furniture,Andheri,2025-04-28,232,147,159,12000,TechSource,49
+P003,Headphones,Electronics,Navi Mumbai,2025-04-28,274,150,159,1800,Urban Traders,79
+P011,Pen Set,Stationery,Andheri,2025-04-28,142,109,108,180,Metro Wholesale,61
+P014,Shoes,Fashion,Navi Mumbai,2025-04-29,55,22,129,3200,Metro Wholesale,48
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-04-29,211,85,195,5500,Metro Wholesale,68
+P014,Shoes,Fashion,Borivali,2025-04-29,196,159,50,3200,Prime Distributors,75
+P004,Keyboard,Electronics,Navi Mumbai,2025-04-29,238,82,210,1200,Metro Wholesale,36
+P006,Monitor,Electronics,Andheri,2025-04-30,256,91,215,12500,Metro Wholesale,86
+P017,Coffee Maker,Appliances,Mumbai Central,2025-04-30,146,134,75,5500,TechSource,81
+P010,Notebook,Stationery,Borivali,2025-04-30,179,102,102,120,Global Supplies,89
+P018,Mixer Grinder,Appliances,Borivali,2025-04-30,298,45,328,4200,Global Supplies,57
+P005,Mouse,Electronics,Borivali,2025-05-01,76,13,143,700,Urban Traders,32
+P003,Headphones,Electronics,Thane,2025-05-01,123,118,75,1800,Prime Distributors,90
+P007,Office Chair,Furniture,Thane,2025-05-01,200,179,44,8500,Global Supplies,88
+P008,Desk,Furniture,Borivali,2025-05-01,183,11,224,12000,TechSource,64
+P002,Smartphone,Electronics,Navi Mumbai,2025-05-01,132,124,94,22000,TechSource,77
+P002,Smartphone,Electronics,Navi Mumbai,2025-05-01,60,131,27,22000,Metro Wholesale,80
+P005,Mouse,Electronics,Borivali,2025-05-02,93,50,86,700,Metro Wholesale,47
+P019,Air Fryer,Appliances,Thane,2025-05-02,220,138,174,7500,TechSource,34
+P003,Headphones,Electronics,Thane,2025-05-02,127,36,103,1800,Urban Traders,95
+P018,Mixer Grinder,Appliances,Borivali,2025-05-02,186,53,161,4200,Metro Wholesale,89
+P006,Monitor,Electronics,Navi Mumbai,2025-05-03,222,83,177,12500,Metro Wholesale,29
+P009,Bookshelf,Furniture,Borivali,2025-05-03,195,46,169,6500,Prime Distributors,77
+P002,Smartphone,Electronics,Andheri,2025-05-03,244,54,366,22000,Prime Distributors,71
+P018,Mixer Grinder,Appliances,Borivali,2025-05-04,49,119,0,4200,Prime Distributors,39
+P019,Air Fryer,Appliances,Navi Mumbai,2025-05-05,54,81,85,7500,Global Supplies,66
+P015,T-Shirt,Fashion,Mumbai Central,2025-05-05,221,166,83,900,Metro Wholesale,50
+P003,Headphones,Electronics,Thane,2025-05-05,120,49,129,1800,Prime Distributors,30
+P019,Air Fryer,Appliances,Navi Mumbai,2025-05-05,275,155,153,7500,TechSource,45
+P010,Notebook,Stationery,Navi Mumbai,2025-05-05,240,64,279,120,TechSource,71
+P003,Headphones,Electronics,Mumbai Central,2025-05-06,158,95,136,1800,Global Supplies,34
+P010,Notebook,Stationery,Thane,2025-05-06,226,91,196,120,TechSource,37
+P016,Jeans,Fashion,Borivali,2025-05-06,173,91,159,1800,TechSource,73
+P003,Headphones,Electronics,Navi Mumbai,2025-05-07,214,44,270,1800,Global Supplies,73
+P015,T-Shirt,Fashion,Borivali,2025-05-07,168,179,17,900,TechSource,43
+P006,Monitor,Electronics,Mumbai Central,2025-05-07,202,97,223,12500,Prime Distributors,37
+P009,Bookshelf,Furniture,Navi Mumbai,2025-05-07,87,143,30,6500,Urban Traders,79
+P006,Monitor,Electronics,Andheri,2025-05-07,163,21,247,12500,Global Supplies,57
+P014,Shoes,Fashion,Navi Mumbai,2025-05-07,220,39,282,3200,Metro Wholesale,70
+P012,Backpack,Accessories,Mumbai Central,2025-05-08,138,131,120,1600,Metro Wholesale,64
+P018,Mixer Grinder,Appliances,Andheri,2025-05-08,230,148,111,4200,Urban Traders,56
+P010,Notebook,Stationery,Andheri,2025-05-08,233,110,220,120,TechSource,73
+P018,Mixer Grinder,Appliances,Borivali,2025-05-08,87,60,122,4200,Urban Traders,71
+P008,Desk,Furniture,Borivali,2025-05-08,178,82,129,12000,Metro Wholesale,59
+P018,Mixer Grinder,Appliances,Thane,2025-05-08,226,14,329,4200,Global Supplies,46
+P014,Shoes,Fashion,Thane,2025-05-09,173,168,72,3200,TechSource,55
+P013,Water Bottle,Accessories,Mumbai Central,2025-05-09,92,114,18,600,TechSource,56
+P016,Jeans,Fashion,Navi Mumbai,2025-05-09,116,126,75,1800,Metro Wholesale,78
+P015,T-Shirt,Fashion,Mumbai Central,2025-05-09,148,174,0,900,Prime Distributors,52
+P011,Pen Set,Stationery,Thane,2025-05-09,285,63,264,180,Urban Traders,33
+P012,Backpack,Accessories,Navi Mumbai,2025-05-09,185,54,188,1600,Prime Distributors,62
+P006,Monitor,Electronics,Thane,2025-05-09,172,161,36,12500,Prime Distributors,98
+P010,Notebook,Stationery,Mumbai Central,2025-05-10,182,88,139,120,TechSource,72
+P006,Monitor,Electronics,Navi Mumbai,2025-05-10,82,24,80,12500,Metro Wholesale,64
+P003,Headphones,Electronics,Borivali,2025-05-11,110,100,107,1800,Prime Distributors,47
+P009,Bookshelf,Furniture,Thane,2025-05-11,154,160,30,6500,Metro Wholesale,95
+P019,Air Fryer,Appliances,Thane,2025-05-11,107,118,75,7500,Urban Traders,41
+P012,Backpack,Accessories,Andheri,2025-05-11,94,109,45,1600,Global Supplies,83
+P006,Monitor,Electronics,Andheri,2025-05-11,237,110,386,12500,Prime Distributors,49
+P012,Backpack,Accessories,Navi Mumbai,2025-05-11,204,39,235,1600,Urban Traders,32
+P001,Laptop,Electronics,Mumbai Central,2025-05-12,278,177,184,42000,Urban Traders,46
+P010,Notebook,Stationery,Thane,2025-05-12,153,12,241,120,Urban Traders,56
+P017,Coffee Maker,Appliances,Andheri,2025-05-12,248,140,223,5500,Global Supplies,44
+P010,Notebook,Stationery,Navi Mumbai,2025-05-12,267,166,149,120,Urban Traders,29
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-05-12,172,23,235,5500,Metro Wholesale,74
+P001,Laptop,Electronics,Borivali,2025-05-12,294,55,292,42000,Urban Traders,31
+P013,Water Bottle,Accessories,Borivali,2025-05-12,122,7,2,600,TechSource,80
+P003,Headphones,Electronics,Borivali,2025-05-13,57,12,143,1800,Metro Wholesale,45
+P019,Air Fryer,Appliances,Mumbai Central,2025-05-13,49,84,48,7500,Global Supplies,87
+P006,Monitor,Electronics,Mumbai Central,2025-05-13,100,79,533,12500,Global Supplies,38
+P010,Notebook,Stationery,Borivali,2025-05-13,148,134,120,120,Prime Distributors,35
+P005,Mouse,Electronics,Navi Mumbai,2025-05-13,116,101,17,700,Urban Traders,26
+P014,Shoes,Fashion,Borivali,2025-05-13,78,138,49,3200,TechSource,65
+P012,Backpack,Accessories,Thane,2025-05-14,123,75,164,1600,Urban Traders,84
+P003,Headphones,Electronics,Andheri,2025-05-14,25,8,91,1800,Metro Wholesale,58
+P018,Mixer Grinder,Appliances,Andheri,2025-05-14,95,41,74,4200,TechSource,99
+P003,Headphones,Electronics,Navi Mumbai,2025-05-14,290,174,211,1800,Prime Distributors,48
+P008,Desk,Furniture,Andheri,2025-05-14,230,156,156,12000,Prime Distributors,84
+P003,Headphones,Electronics,Thane,2025-05-14,207,81,199,1800,Global Supplies,67
+P015,T-Shirt,Fashion,Borivali,2025-05-15,114,56,174,900,Metro Wholesale,54
+P008,Desk,Furniture,Navi Mumbai,2025-05-15,44,73,0,12000,Prime Distributors,92
+P009,Bookshelf,Furniture,Navi Mumbai,2025-05-15,293,158,180,6500,Metro Wholesale,29
+P015,T-Shirt,Fashion,Thane,2025-05-15,142,42,205,900,Prime Distributors,94
+P013,Water Bottle,Accessories,Andheri,2025-05-15,26,87,54,600,Metro Wholesale,75
+P002,Smartphone,Electronics,Borivali,2025-05-16,160,38,228,22000,TechSource,94
+P013,Water Bottle,Accessories,Navi Mumbai,2025-05-16,36,41,93,600,Metro Wholesale,53
+P006,Monitor,Electronics,Andheri,2025-05-16,251,132,571,12500,Metro Wholesale,74
+P005,Mouse,Electronics,Mumbai Central,2025-05-16,150,69,124,700,Metro Wholesale,31
+P010,Notebook,Stationery,Borivali,2025-05-16,59,82,49,120,Metro Wholesale,60
+P015,T-Shirt,Fashion,Borivali,2025-05-16,279,163,207,900,Prime Distributors,87
+P006,Monitor,Electronics,Borivali,2025-05-16,78,107,480,12500,Global Supplies,46
+P005,Mouse,Electronics,Mumbai Central,2025-05-17,136,29,140,700,Prime Distributors,59
+P018,Mixer Grinder,Appliances,Borivali,2025-05-17,197,127,89,4200,Urban Traders,25
+P019,Air Fryer,Appliances,Mumbai Central,2025-05-17,163,103,136,7500,Prime Distributors,39
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-05-17,92,147,11,5500,Metro Wholesale,32
+P016,Jeans,Fashion,Andheri,2025-05-17,113,132,0,1800,Urban Traders,29
+P007,Office Chair,Furniture,Borivali,2025-05-17,113,49,138,8500,TechSource,59
+P015,T-Shirt,Fashion,Thane,2025-05-17,69,145,35,900,Global Supplies,72
+P004,Keyboard,Electronics,Navi Mumbai,2025-05-18,22,32,7,1200,Global Supplies,25
+P015,T-Shirt,Fashion,Borivali,2025-05-18,24,83,0,900,Urban Traders,44
+P011,Pen Set,Stationery,Navi Mumbai,2025-05-18,68,83,16,180,Prime Distributors,100
+P008,Desk,Furniture,Borivali,2025-05-18,293,26,376,12000,Prime Distributors,72
+P004,Keyboard,Electronics,Borivali,2025-05-18,166,25,236,1200,Metro Wholesale,99
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-05-18,116,119,106,4200,Prime Distributors,25
+P009,Bookshelf,Furniture,Navi Mumbai,2025-05-19,182,172,100,6500,Metro Wholesale,84
+P006,Monitor,Electronics,Andheri,2025-05-19,147,87,133,12500,Global Supplies,86
+P018,Mixer Grinder,Appliances,Andheri,2025-05-20,294,135,265,4200,Global Supplies,34
+P020,Bluetooth Speaker,Electronics,Thane,2025-05-20,148,129,101,2600,Metro Wholesale,28
+P004,Keyboard,Electronics,Andheri,2025-05-20,251,52,219,1200,TechSource,87
+P020,Bluetooth Speaker,Electronics,Andheri,2025-05-21,103,80,58,2600,TechSource,40
+P002,Smartphone,Electronics,Mumbai Central,2025-05-21,81,16,184,22000,TechSource,88
+P004,Keyboard,Electronics,Thane,2025-05-22,184,44,169,1200,TechSource,45
+P004,Keyboard,Electronics,Thane,2025-05-22,119,58,131,1200,Metro Wholesale,45
+P012,Backpack,Accessories,Mumbai Central,2025-05-22,53,13,154,1600,Metro Wholesale,94
+P015,T-Shirt,Fashion,Borivali,2025-05-22,128,34,16,900,Global Supplies,56
+P014,Shoes,Fashion,Thane,2025-05-22,189,28,565,3200,Global Supplies,94
+P014,Shoes,Fashion,Thane,2025-05-22,168,149,6,3200,Urban Traders,86
+P017,Coffee Maker,Appliances,Thane,2025-05-23,60,79,68,5500,Metro Wholesale,82
+P001,Laptop,Electronics,Mumbai Central,2025-05-23,127,26,187,42000,Urban Traders,34
+P014,Shoes,Fashion,Thane,2025-05-23,128,104,51,3200,Urban Traders,49
+P015,T-Shirt,Fashion,Thane,2025-05-23,81,100,70,900,Urban Traders,55
+P005,Mouse,Electronics,Navi Mumbai,2025-05-23,256,178,132,700,Global Supplies,28
+P009,Bookshelf,Furniture,Andheri,2025-05-23,131,145,20,6500,Metro Wholesale,79
+P007,Office Chair,Furniture,Navi Mumbai,2025-05-24,228,145,167,8500,TechSource,50
+P013,Water Bottle,Accessories,Andheri,2025-05-24,211,29,254,600,Global Supplies,27
+P001,Laptop,Electronics,Thane,2025-05-24,298,95,301,42000,Prime Distributors,43
+P002,Smartphone,Electronics,Borivali,2025-05-24,69,112,41,22000,TechSource,71
+P002,Smartphone,Electronics,Borivali,2025-05-25,249,6,308,22000,Metro Wholesale,91
+P007,Office Chair,Furniture,Andheri,2025-05-25,218,140,115,8500,TechSource,37
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-05-25,56,57,25,2600,TechSource,55
+P014,Shoes,Fashion,Navi Mumbai,2025-05-25,279,114,201,3200,TechSource,56
+P018,Mixer Grinder,Appliances,Borivali,2025-05-25,50,51,59,4200,Global Supplies,62
+P016,Jeans,Fashion,Andheri,2025-05-25,231,103,173,1800,TechSource,92
+P015,T-Shirt,Fashion,Navi Mumbai,2025-05-25,277,37,303,900,Metro Wholesale,91
+P014,Shoes,Fashion,Thane,2025-05-25,93,17,118,3200,Prime Distributors,28
+P009,Bookshelf,Furniture,Mumbai Central,2025-05-25,173,21,191,6500,Urban Traders,95
+P004,Keyboard,Electronics,Navi Mumbai,2025-05-26,62,78,0,1200,Metro Wholesale,39
+P019,Air Fryer,Appliances,Andheri,2025-05-26,300,5,330,7500,Prime Distributors,53
+P018,Mixer Grinder,Appliances,Thane,2025-05-26,256,16,322,4200,Metro Wholesale,92
+P014,Shoes,Fashion,Navi Mumbai,2025-05-27,284,30,345,3200,TechSource,96
+P011,Pen Set,Stationery,Mumbai Central,2025-05-27,272,124,257,180,TechSource,26
+P013,Water Bottle,Accessories,Thane,2025-05-27,137,31,130,600,Global Supplies,48
+P016,Jeans,Fashion,Andheri,2025-05-27,300,92,303,1800,Urban Traders,99
+P019,Air Fryer,Appliances,Andheri,2025-05-28,182,47,167,7500,Urban Traders,79
+P010,Notebook,Stationery,Mumbai Central,2025-05-28,180,22,178,120,Prime Distributors,55
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-05-28,268,24,318,4200,Global Supplies,28
+P019,Air Fryer,Appliances,Mumbai Central,2025-05-28,234,124,220,7500,Prime Distributors,66
+P001,Laptop,Electronics,Borivali,2025-05-28,27,66,62,42000,Prime Distributors,80
+P018,Mixer Grinder,Appliances,Andheri,2025-05-28,40,49,10,4200,TechSource,80
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-05-29,179,174,25,2600,Metro Wholesale,42
+P003,Headphones,Electronics,Andheri,2025-05-29,174,151,352,1800,Global Supplies,95
+P007,Office Chair,Furniture,Borivali,2025-05-29,275,40,337,8500,Prime Distributors,29
+P012,Backpack,Accessories,Mumbai Central,2025-05-29,227,10,300,1600,Metro Wholesale,81
+P004,Keyboard,Electronics,Thane,2025-05-29,100,177,0,1200,Metro Wholesale,82
+P004,Keyboard,Electronics,Andheri,2025-05-29,184,65,142,1200,Metro Wholesale,59
+P008,Desk,Furniture,Thane,2025-05-29,151,159,46,12000,TechSource,43
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-05-29,237,153,141,5500,Urban Traders,40
+P008,Desk,Furniture,Borivali,2025-05-29,120,70,124,12000,TechSource,61
+P010,Notebook,Stationery,Borivali,2025-05-29,94,95,5,120,TechSource,75
+P001,Laptop,Electronics,Andheri,2025-05-29,193,102,110,42000,Prime Distributors,81
+P011,Pen Set,Stationery,Mumbai Central,2025-05-29,192,85,174,180,Urban Traders,35
+P008,Desk,Furniture,Mumbai Central,2025-05-30,96,159,0,12000,TechSource,35
+P019,Air Fryer,Appliances,Thane,2025-05-30,236,77,248,7500,Prime Distributors,71
+P002,Smartphone,Electronics,Mumbai Central,2025-05-30,72,131,42,22000,Global Supplies,87
+P016,Jeans,Fashion,Borivali,2025-05-30,95,116,7,1800,Metro Wholesale,30
+P013,Water Bottle,Accessories,Mumbai Central,2025-05-30,156,108,346,600,Urban Traders,78
+P008,Desk,Furniture,Borivali,2025-05-31,240,87,163,12000,Prime Distributors,50
+P014,Shoes,Fashion,Borivali,2025-05-31,260,168,118,3200,TechSource,65
+P009,Bookshelf,Furniture,Borivali,2025-05-31,196,131,136,6500,Prime Distributors,86
+P019,Air Fryer,Appliances,Borivali,2025-05-31,103,112,42,7500,Prime Distributors,56
+P001,Laptop,Electronics,Andheri,2025-05-31,299,104,271,42000,Global Supplies,83
+P007,Office Chair,Furniture,Andheri,2025-05-31,242,119,216,8500,Prime Distributors,79
+P004,Keyboard,Electronics,Borivali,2025-05-31,177,47,244,1200,Urban Traders,43
+P002,Smartphone,Electronics,Andheri,2025-05-31,124,73,165,22000,Urban Traders,31
+P001,Laptop,Electronics,Andheri,2025-06-01,164,117,84,42000,Global Supplies,47
+P004,Keyboard,Electronics,Andheri,2025-06-01,265,91,233,1200,Urban Traders,42
+P020,Bluetooth Speaker,Electronics,Thane,2025-06-01,60,116,0,2600,TechSource,88
+P018,Mixer Grinder,Appliances,Thane,2025-06-01,153,82,190,4200,Metro Wholesale,29
+P006,Monitor,Electronics,Navi Mumbai,2025-06-01,266,43,263,12500,Metro Wholesale,63
+P004,Keyboard,Electronics,Borivali,2025-06-01,203,141,129,1200,TechSource,31
+P019,Air Fryer,Appliances,Thane,2025-06-01,157,48,120,7500,Prime Distributors,40
+P008,Desk,Furniture,Mumbai Central,2025-06-01,296,113,225,12000,Prime Distributors,40
+P015,T-Shirt,Fashion,Thane,2025-06-01,183,136,14,900,Prime Distributors,39
+P005,Mouse,Electronics,Andheri,2025-06-01,201,50,177,700,Urban Traders,71
+P003,Headphones,Electronics,Thane,2025-06-01,221,82,207,1800,Global Supplies,91
+P011,Pen Set,Stationery,Mumbai Central,2025-06-02,248,20,280,180,Urban Traders,46
+P004,Keyboard,Electronics,Thane,2025-06-02,85,44,75,1200,Metro Wholesale,71
+P004,Keyboard,Electronics,Navi Mumbai,2025-06-02,210,129,118,1200,Prime Distributors,53
+P013,Water Bottle,Accessories,Navi Mumbai,2025-06-02,160,86,96,600,Urban Traders,32
+P018,Mixer Grinder,Appliances,Thane,2025-06-02,36,64,54,4200,Prime Distributors,48
+P020,Bluetooth Speaker,Electronics,Thane,2025-06-03,100,158,0,2600,Prime Distributors,64
+P010,Notebook,Stationery,Mumbai Central,2025-06-03,239,9,265,120,Metro Wholesale,41
+P003,Headphones,Electronics,Navi Mumbai,2025-06-03,31,98,0,1800,Global Supplies,75
+P014,Shoes,Fashion,Navi Mumbai,2025-06-03,138,33,132,3200,Urban Traders,54
+P010,Notebook,Stationery,Mumbai Central,2025-06-04,59,73,41,120,Metro Wholesale,42
+P008,Desk,Furniture,Andheri,2025-06-04,118,145,46,12000,Metro Wholesale,79
+P019,Air Fryer,Appliances,Thane,2025-06-04,145,74,144,7500,Metro Wholesale,95
+P008,Desk,Furniture,Thane,2025-06-04,135,23,158,12000,Prime Distributors,67
+P004,Keyboard,Electronics,Navi Mumbai,2025-06-04,156,8,178,1200,Urban Traders,91
+P018,Mixer Grinder,Appliances,Andheri,2025-06-04,32,49,0,4200,TechSource,33
+P010,Notebook,Stationery,Thane,2025-06-04,273,126,227,120,TechSource,59
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-06-05,151,152,100,5500,TechSource,31
+P019,Air Fryer,Appliances,Navi Mumbai,2025-06-05,172,100,118,7500,Urban Traders,83
+P016,Jeans,Fashion,Thane,2025-06-05,274,80,250,1800,Prime Distributors,55
+P008,Desk,Furniture,Borivali,2025-06-05,253,82,280,12000,Global Supplies,59
+P018,Mixer Grinder,Appliances,Borivali,2025-06-05,266,117,229,4200,Global Supplies,84
+P010,Notebook,Stationery,Andheri,2025-06-05,180,31,228,120,Urban Traders,84
+P010,Notebook,Stationery,Borivali,2025-06-05,87,18,173,120,TechSource,34
+P002,Smartphone,Electronics,Andheri,2025-06-05,29,44,10,22000,TechSource,26
+P017,Coffee Maker,Appliances,Andheri,2025-06-05,279,47,314,5500,TechSource,48
+P013,Water Bottle,Accessories,Thane,2025-06-06,128,115,55,600,Urban Traders,74
+P008,Desk,Furniture,Mumbai Central,2025-06-06,215,105,187,12000,Urban Traders,56
+P001,Laptop,Electronics,Navi Mumbai,2025-06-06,79,86,40,42000,Prime Distributors,80
+P009,Bookshelf,Furniture,Mumbai Central,2025-06-06,188,129,143,6500,TechSource,87
+P011,Pen Set,Stationery,Borivali,2025-06-07,157,15,258,180,Global Supplies,71
+P017,Coffee Maker,Appliances,Borivali,2025-06-07,210,5,253,5500,Prime Distributors,73
+P011,Pen Set,Stationery,Thane,2025-06-07,68,36,100,180,Global Supplies,54
+P001,Laptop,Electronics,Borivali,2025-06-07,166,118,95,42000,Urban Traders,86
+P014,Shoes,Fashion,Thane,2025-06-07,66,30,110,3200,TechSource,35
+P020,Bluetooth Speaker,Electronics,Borivali,2025-06-07,110,80,108,2600,Urban Traders,58
+P017,Coffee Maker,Appliances,Mumbai Central,2025-06-08,227,89,185,5500,Prime Distributors,64
+P012,Backpack,Accessories,Mumbai Central,2025-06-08,250,178,139,1600,Prime Distributors,60
+P004,Keyboard,Electronics,Navi Mumbai,2025-06-08,230,150,164,1200,Global Supplies,52
+P014,Shoes,Fashion,Borivali,2025-06-08,208,13,237,3200,Metro Wholesale,74
+P011,Pen Set,Stationery,Andheri,2025-06-08,188,165,15,180,Global Supplies,72
+P005,Mouse,Electronics,Andheri,2025-06-08,212,81,155,700,Prime Distributors,42
+P003,Headphones,Electronics,Andheri,2025-06-09,195,175,70,1800,Global Supplies,71
+P005,Mouse,Electronics,Navi Mumbai,2025-06-09,156,97,296,700,TechSource,94
+P016,Jeans,Fashion,Mumbai Central,2025-06-09,286,164,228,1800,TechSource,70
+P006,Monitor,Electronics,Thane,2025-06-09,133,134,51,12500,Metro Wholesale,42
+P004,Keyboard,Electronics,Mumbai Central,2025-06-10,279,28,324,1200,Prime Distributors,38
+P013,Water Bottle,Accessories,Mumbai Central,2025-06-10,105,93,107,600,Global Supplies,52
+P003,Headphones,Electronics,Andheri,2025-06-10,264,54,262,1800,Global Supplies,43
+P010,Notebook,Stationery,Andheri,2025-06-10,117,120,73,120,Global Supplies,66
+P002,Smartphone,Electronics,Navi Mumbai,2025-06-10,240,83,239,22000,Metro Wholesale,37
+P006,Monitor,Electronics,Mumbai Central,2025-06-10,120,140,32,12500,Global Supplies,30
+P003,Headphones,Electronics,Andheri,2025-06-10,286,141,205,1800,Metro Wholesale,48
+P006,Monitor,Electronics,Borivali,2025-06-10,192,113,111,12500,Prime Distributors,30
+P017,Coffee Maker,Appliances,Thane,2025-06-10,266,121,232,5500,Global Supplies,39
+P009,Bookshelf,Furniture,Thane,2025-06-10,283,26,276,6500,TechSource,31
+P003,Headphones,Electronics,Mumbai Central,2025-06-11,130,152,8,1800,TechSource,89
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-06-11,71,82,55,4200,Urban Traders,45
+P018,Mixer Grinder,Appliances,Thane,2025-06-11,94,53,51,4200,TechSource,68
+P007,Office Chair,Furniture,Mumbai Central,2025-06-11,233,39,300,8500,Prime Distributors,69
+P009,Bookshelf,Furniture,Mumbai Central,2025-06-11,273,112,199,6500,Global Supplies,100
+P012,Backpack,Accessories,Borivali,2025-06-11,265,124,227,1600,Metro Wholesale,38
+P006,Monitor,Electronics,Borivali,2025-06-11,196,148,103,12500,Global Supplies,68
+P015,T-Shirt,Fashion,Borivali,2025-06-12,240,72,280,900,Metro Wholesale,77
+P009,Bookshelf,Furniture,Mumbai Central,2025-06-12,261,95,236,6500,Global Supplies,70
+P017,Coffee Maker,Appliances,Mumbai Central,2025-06-12,177,118,136,5500,Metro Wholesale,76
+P005,Mouse,Electronics,Borivali,2025-06-12,141,88,75,700,Global Supplies,93
+P010,Notebook,Stationery,Navi Mumbai,2025-06-13,122,70,140,120,Metro Wholesale,85
+P014,Shoes,Fashion,Mumbai Central,2025-06-13,99,60,81,3200,Metro Wholesale,81
+P015,T-Shirt,Fashion,Navi Mumbai,2025-06-13,65,35,40,900,Urban Traders,83
+P018,Mixer Grinder,Appliances,Thane,2025-06-13,193,178,36,4200,Global Supplies,46
+P011,Pen Set,Stationery,Mumbai Central,2025-06-13,275,132,170,180,Prime Distributors,63
+P012,Backpack,Accessories,Borivali,2025-06-14,24,54,0,1600,Metro Wholesale,57
+P012,Backpack,Accessories,Andheri,2025-06-14,95,32,88,1600,TechSource,29
+P006,Monitor,Electronics,Navi Mumbai,2025-06-14,151,46,224,12500,Prime Distributors,88
+P002,Smartphone,Electronics,Mumbai Central,2025-06-14,256,87,281,22000,Urban Traders,54
+P004,Keyboard,Electronics,Mumbai Central,2025-06-14,216,111,116,1200,Urban Traders,87
+P001,Laptop,Electronics,Borivali,2025-06-15,132,71,118,42000,Global Supplies,26
+P012,Backpack,Accessories,Andheri,2025-06-15,179,171,86,1600,Global Supplies,91
+P015,T-Shirt,Fashion,Thane,2025-06-15,38,75,0,900,Metro Wholesale,86
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-06-15,115,68,156,5500,Prime Distributors,65
+P001,Laptop,Electronics,Navi Mumbai,2025-06-15,52,79,37,42000,TechSource,40
+P011,Pen Set,Stationery,Thane,2025-06-15,262,24,324,180,Prime Distributors,100
+P009,Bookshelf,Furniture,Navi Mumbai,2025-06-16,245,19,321,6500,Prime Distributors,96
+P011,Pen Set,Stationery,Mumbai Central,2025-06-16,177,94,100,180,Prime Distributors,80
+P010,Notebook,Stationery,Navi Mumbai,2025-06-16,147,39,199,120,TechSource,41
+P017,Coffee Maker,Appliances,Mumbai Central,2025-06-16,109,14,108,5500,TechSource,26
+P005,Mouse,Electronics,Thane,2025-06-16,144,16,200,700,Metro Wholesale,32
+P016,Jeans,Fashion,Navi Mumbai,2025-06-16,79,6,115,1800,TechSource,61
+P001,Laptop,Electronics,Andheri,2025-06-17,110,103,33,42000,TechSource,45
+P003,Headphones,Electronics,Mumbai Central,2025-06-17,217,26,297,1800,Prime Distributors,46
+P018,Mixer Grinder,Appliances,Andheri,2025-06-17,179,91,121,4200,Urban Traders,42
+P001,Laptop,Electronics,Thane,2025-06-17,252,20,255,42000,Urban Traders,59
+P017,Coffee Maker,Appliances,Mumbai Central,2025-06-17,70,34,106,5500,TechSource,38
+P018,Mixer Grinder,Appliances,Borivali,2025-06-17,73,26,119,4200,Global Supplies,88
+P010,Notebook,Stationery,Borivali,2025-06-18,45,23,104,120,Urban Traders,72
+P016,Jeans,Fashion,Navi Mumbai,2025-06-18,206,141,152,1800,Prime Distributors,88
+P005,Mouse,Electronics,Mumbai Central,2025-06-18,169,164,87,700,Urban Traders,41
+P003,Headphones,Electronics,Navi Mumbai,2025-06-18,159,45,224,1800,Urban Traders,53
+P003,Headphones,Electronics,Navi Mumbai,2025-06-19,160,98,92,1800,TechSource,49
+P009,Bookshelf,Furniture,Borivali,2025-06-20,186,130,120,6500,TechSource,37
+P020,Bluetooth Speaker,Electronics,Thane,2025-06-20,217,172,56,2600,Prime Distributors,87
+P015,T-Shirt,Fashion,Navi Mumbai,2025-06-20,64,72,77,900,Urban Traders,77
+P014,Shoes,Fashion,Andheri,2025-06-20,208,120,159,3200,TechSource,29
+P004,Keyboard,Electronics,Navi Mumbai,2025-06-20,246,125,222,1200,Prime Distributors,84
+P001,Laptop,Electronics,Mumbai Central,2025-06-21,160,121,137,42000,Urban Traders,96
+P017,Coffee Maker,Appliances,Andheri,2025-06-21,290,168,214,5500,Urban Traders,32
+P019,Air Fryer,Appliances,Borivali,2025-06-21,159,136,70,7500,TechSource,81
+P012,Backpack,Accessories,Thane,2025-06-21,172,102,182,1600,Urban Traders,74
+P004,Keyboard,Electronics,Thane,2025-06-21,280,25,273,1200,Prime Distributors,56
+P001,Laptop,Electronics,Thane,2025-06-21,109,72,93,42000,Metro Wholesale,30
+P003,Headphones,Electronics,Thane,2025-06-21,132,123,72,1800,Prime Distributors,77
+P016,Jeans,Fashion,Andheri,2025-06-21,138,17,160,1800,Metro Wholesale,35
+P013,Water Bottle,Accessories,Navi Mumbai,2025-06-21,272,77,325,600,Global Supplies,96
+P017,Coffee Maker,Appliances,Borivali,2025-06-21,91,46,108,5500,Prime Distributors,48
+P006,Monitor,Electronics,Thane,2025-06-21,175,176,56,12500,Prime Distributors,74
+P011,Pen Set,Stationery,Navi Mumbai,2025-06-21,31,16,38,180,TechSource,56
+P008,Desk,Furniture,Mumbai Central,2025-06-22,102,113,72,12000,Metro Wholesale,39
+P015,T-Shirt,Fashion,Thane,2025-06-22,292,56,252,900,Global Supplies,29
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-06-22,22,9,52,2600,Metro Wholesale,46
+P016,Jeans,Fashion,Mumbai Central,2025-06-22,32,50,59,1800,Prime Distributors,41
+P015,T-Shirt,Fashion,Borivali,2025-06-22,281,66,238,900,TechSource,36
+P004,Keyboard,Electronics,Andheri,2025-06-23,58,59,115,1200,TechSource,87
+P017,Coffee Maker,Appliances,Andheri,2025-06-23,145,100,77,5500,Global Supplies,38
+P009,Bookshelf,Furniture,Mumbai Central,2025-06-23,291,22,381,6500,TechSource,55
+P001,Laptop,Electronics,Borivali,2025-06-23,232,14,315,42000,Global Supplies,70
+P015,T-Shirt,Fashion,Thane,2025-06-24,293,89,13,900,TechSource,75
+P009,Bookshelf,Furniture,Thane,2025-06-24,40,12,88,6500,Metro Wholesale,25
+P019,Air Fryer,Appliances,Borivali,2025-06-24,117,60,171,7500,Global Supplies,32
+P018,Mixer Grinder,Appliances,Thane,2025-06-24,266,56,329,4200,Prime Distributors,97
+P003,Headphones,Electronics,Mumbai Central,2025-06-24,123,107,57,1800,TechSource,30
+P010,Notebook,Stationery,Thane,2025-06-24,41,50,19,120,Metro Wholesale,49
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-06-25,87,98,56,5500,Prime Distributors,44
+P013,Water Bottle,Accessories,Thane,2025-06-25,168,16,178,600,TechSource,84
+P001,Laptop,Electronics,Andheri,2025-06-25,205,107,147,42000,Urban Traders,60
+P014,Shoes,Fashion,Andheri,2025-06-25,132,76,87,3200,Global Supplies,28
+P011,Pen Set,Stationery,Borivali,2025-06-25,72,23,128,180,Metro Wholesale,59
+P012,Backpack,Accessories,Navi Mumbai,2025-06-26,92,38,66,1600,Global Supplies,52
+P006,Monitor,Electronics,Andheri,2025-06-26,128,129,114,12500,TechSource,66
+P007,Office Chair,Furniture,Andheri,2025-06-26,248,133,161,8500,Metro Wholesale,54
+P013,Water Bottle,Accessories,Andheri,2025-06-26,200,42,247,600,Prime Distributors,86
+P019,Air Fryer,Appliances,Andheri,2025-06-27,102,31,175,7500,Metro Wholesale,39
+P015,T-Shirt,Fashion,Mumbai Central,2025-06-27,215,94,222,900,Global Supplies,70
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-06-27,280,119,202,4200,Global Supplies,38
+P011,Pen Set,Stationery,Mumbai Central,2025-06-27,207,46,235,180,Metro Wholesale,36
+P014,Shoes,Fashion,Borivali,2025-06-27,130,21,186,3200,Urban Traders,31
+P007,Office Chair,Furniture,Mumbai Central,2025-06-27,256,151,144,8500,TechSource,33
+P012,Backpack,Accessories,Thane,2025-06-27,233,17,242,1600,TechSource,81
+P011,Pen Set,Stationery,Thane,2025-06-27,160,113,151,180,Global Supplies,45
+P020,Bluetooth Speaker,Electronics,Thane,2025-06-28,221,144,119,2600,Global Supplies,94
+P003,Headphones,Electronics,Navi Mumbai,2025-06-28,104,121,554,1800,Global Supplies,88
+P019,Air Fryer,Appliances,Borivali,2025-06-28,104,123,66,7500,Metro Wholesale,100
+P008,Desk,Furniture,Mumbai Central,2025-06-28,63,117,42,12000,Urban Traders,40
+P002,Smartphone,Electronics,Andheri,2025-06-28,61,72,100,22000,Prime Distributors,100
+P002,Smartphone,Electronics,Thane,2025-06-29,129,75,145,22000,Metro Wholesale,27
+P019,Air Fryer,Appliances,Navi Mumbai,2025-06-29,52,74,75,7500,Global Supplies,52
+P014,Shoes,Fashion,Mumbai Central,2025-06-29,267,115,218,3200,Global Supplies,93
+P007,Office Chair,Furniture,Andheri,2025-06-29,226,66,255,8500,TechSource,27
+P015,T-Shirt,Fashion,Navi Mumbai,2025-06-29,260,19,352,900,TechSource,39
+P012,Backpack,Accessories,Borivali,2025-06-30,62,18,67,1600,Metro Wholesale,67
+P011,Pen Set,Stationery,Thane,2025-06-30,94,30,82,180,Prime Distributors,71
+P016,Jeans,Fashion,Navi Mumbai,2025-06-30,223,157,106,1800,Global Supplies,27
+P010,Notebook,Stationery,Mumbai Central,2025-06-30,228,34,224,120,TechSource,99
+P003,Headphones,Electronics,Thane,2025-06-30,118,32,155,1800,TechSource,56
+P002,Smartphone,Electronics,Mumbai Central,2025-07-01,188,21,229,22000,Urban Traders,30
+P018,Mixer Grinder,Appliances,Borivali,2025-07-01,115,55,86,4200,Global Supplies,76
+P019,Air Fryer,Appliances,Borivali,2025-07-01,49,89,0,7500,Urban Traders,60
+P007,Office Chair,Furniture,Thane,2025-07-01,288,101,245,8500,Urban Traders,94
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-07-02,64,81,83,5500,Global Supplies,34
+P012,Backpack,Accessories,Andheri,2025-07-02,242,64,201,1600,TechSource,54
+P004,Keyboard,Electronics,Navi Mumbai,2025-07-02,20,41,3,1200,Prime Distributors,48
+P016,Jeans,Fashion,Thane,2025-07-02,275,175,186,1800,Metro Wholesale,39
+P002,Smartphone,Electronics,Andheri,2025-07-02,26,51,7,22000,TechSource,46
+P008,Desk,Furniture,Mumbai Central,2025-07-02,269,165,221,12000,TechSource,68
+P020,Bluetooth Speaker,Electronics,Borivali,2025-07-03,261,172,1,2600,TechSource,47
+P016,Jeans,Fashion,Thane,2025-07-03,101,111,94,1800,TechSource,30
+P006,Monitor,Electronics,Navi Mumbai,2025-07-03,211,73,219,12500,Metro Wholesale,64
+P014,Shoes,Fashion,Borivali,2025-07-03,156,80,174,3200,Global Supplies,93
+P004,Keyboard,Electronics,Thane,2025-07-04,264,128,157,1200,Urban Traders,36
+P019,Air Fryer,Appliances,Andheri,2025-07-04,161,77,117,7500,Urban Traders,69
+P012,Backpack,Accessories,Thane,2025-07-04,67,26,107,1600,Prime Distributors,31
+P001,Laptop,Electronics,Navi Mumbai,2025-07-04,156,136,41,42000,Global Supplies,66
+P001,Laptop,Electronics,Navi Mumbai,2025-07-04,33,46,78,42000,Global Supplies,93
+P003,Headphones,Electronics,Mumbai Central,2025-07-04,20,56,38,1800,TechSource,45
+P013,Water Bottle,Accessories,Borivali,2025-07-04,275,154,135,600,Metro Wholesale,71
+P005,Mouse,Electronics,Andheri,2025-07-05,203,115,188,700,Urban Traders,36
+P007,Office Chair,Furniture,Andheri,2025-07-05,135,36,152,8500,Global Supplies,96
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-07-05,60,38,17,2600,Global Supplies,82
+P009,Bookshelf,Furniture,Mumbai Central,2025-07-05,199,170,44,6500,Global Supplies,33
+P019,Air Fryer,Appliances,Thane,2025-07-05,36,29,118,7500,Urban Traders,71
+P019,Air Fryer,Appliances,Mumbai Central,2025-07-05,21,71,0,7500,Urban Traders,61
+P015,T-Shirt,Fashion,Navi Mumbai,2025-07-05,290,116,224,900,Metro Wholesale,84
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-07-06,43,122,35,4200,Global Supplies,29
+P008,Desk,Furniture,Borivali,2025-07-06,111,46,155,12000,Global Supplies,90
+P015,T-Shirt,Fashion,Borivali,2025-07-06,174,131,101,900,Prime Distributors,31
+P013,Water Bottle,Accessories,Thane,2025-07-06,128,119,83,600,Prime Distributors,79
+P007,Office Chair,Furniture,Mumbai Central,2025-07-06,207,46,233,8500,Metro Wholesale,59
+P008,Desk,Furniture,Borivali,2025-07-07,206,67,173,12000,Prime Distributors,29
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-07-07,67,94,15,2600,Prime Distributors,54
+P001,Laptop,Electronics,Mumbai Central,2025-07-07,168,77,379,42000,Metro Wholesale,53
+P019,Air Fryer,Appliances,Thane,2025-07-08,246,42,5,7500,Urban Traders,90
+P008,Desk,Furniture,Mumbai Central,2025-07-08,57,52,49,12000,Prime Distributors,85
+P005,Mouse,Electronics,Andheri,2025-07-08,165,15,269,700,Prime Distributors,66
+P001,Laptop,Electronics,Andheri,2025-07-08,298,173,235,42000,Metro Wholesale,93
+P012,Backpack,Accessories,Andheri,2025-07-08,80,14,104,1600,Prime Distributors,91
+P001,Laptop,Electronics,Andheri,2025-07-08,55,109,0,42000,Global Supplies,51
+P008,Desk,Furniture,Thane,2025-07-08,283,177,17,12000,Urban Traders,79
+P020,Bluetooth Speaker,Electronics,Thane,2025-07-09,192,42,190,2600,TechSource,54
+P007,Office Chair,Furniture,Borivali,2025-07-09,240,147,150,8500,Urban Traders,71
+P017,Coffee Maker,Appliances,Thane,2025-07-09,231,163,174,5500,Urban Traders,95
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-07-09,159,17,258,4200,Metro Wholesale,59
+P008,Desk,Furniture,Thane,2025-07-09,165,108,154,12000,Urban Traders,100
+P015,T-Shirt,Fashion,Mumbai Central,2025-07-09,263,131,206,900,Urban Traders,90
+P015,T-Shirt,Fashion,Thane,2025-07-09,146,33,227,900,Prime Distributors,80
+P008,Desk,Furniture,Thane,2025-07-09,91,120,0,12000,Global Supplies,37
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-07-09,216,77,233,4200,Metro Wholesale,62
+P011,Pen Set,Stationery,Navi Mumbai,2025-07-09,202,137,154,180,Metro Wholesale,37
+P002,Smartphone,Electronics,Borivali,2025-07-09,54,70,60,22000,Prime Distributors,31
+P008,Desk,Furniture,Navi Mumbai,2025-07-09,47,102,17,12000,Urban Traders,37
+P001,Laptop,Electronics,Mumbai Central,2025-07-09,24,36,78,42000,Metro Wholesale,32
+P008,Desk,Furniture,Navi Mumbai,2025-07-10,268,93,218,12000,Prime Distributors,51
+P019,Air Fryer,Appliances,Borivali,2025-07-10,103,97,83,7500,Metro Wholesale,27
+P013,Water Bottle,Accessories,Navi Mumbai,2025-07-10,66,31,53,600,Prime Distributors,79
+P008,Desk,Furniture,Navi Mumbai,2025-07-10,280,76,322,12000,Global Supplies,26
+P012,Backpack,Accessories,Thane,2025-07-10,106,174,51,1600,Urban Traders,73
+P018,Mixer Grinder,Appliances,Borivali,2025-07-11,115,85,45,4200,Metro Wholesale,84
+P017,Coffee Maker,Appliances,Mumbai Central,2025-07-11,286,126,207,5500,Prime Distributors,60
+P015,T-Shirt,Fashion,Thane,2025-07-11,297,40,2,900,Global Supplies,56
+P007,Office Chair,Furniture,Borivali,2025-07-11,27,36,106,8500,Urban Traders,75
+P016,Jeans,Fashion,Borivali,2025-07-11,161,26,205,1800,Global Supplies,71
+P016,Jeans,Fashion,Borivali,2025-07-11,54,32,58,1800,Global Supplies,83
+P005,Mouse,Electronics,Mumbai Central,2025-07-11,131,31,120,700,Prime Distributors,98
+P011,Pen Set,Stationery,Navi Mumbai,2025-07-11,27,64,32,180,Urban Traders,71
+P013,Water Bottle,Accessories,Borivali,2025-07-11,262,153,191,600,TechSource,98
+P004,Keyboard,Electronics,Borivali,2025-07-11,23,32,109,1200,Metro Wholesale,99
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-07-11,139,21,162,2600,Global Supplies,64
+P006,Monitor,Electronics,Mumbai Central,2025-07-12,266,27,350,12500,TechSource,59
+P001,Laptop,Electronics,Andheri,2025-07-12,165,50,168,42000,Global Supplies,57
+P014,Shoes,Fashion,Mumbai Central,2025-07-12,149,148,36,3200,Urban Traders,99
+P006,Monitor,Electronics,Mumbai Central,2025-07-12,286,54,335,12500,Urban Traders,54
+P014,Shoes,Fashion,Thane,2025-07-12,260,43,266,3200,Global Supplies,40
+P017,Coffee Maker,Appliances,Mumbai Central,2025-07-12,30,105,32,5500,Metro Wholesale,50
+P011,Pen Set,Stationery,Borivali,2025-07-13,78,100,77,180,Urban Traders,40
+P002,Smartphone,Electronics,Thane,2025-07-13,111,60,120,22000,Urban Traders,51
+P014,Shoes,Fashion,Mumbai Central,2025-07-13,167,77,152,3200,Prime Distributors,78
+P002,Smartphone,Electronics,Thane,2025-07-13,127,132,96,22000,Prime Distributors,64
+P013,Water Bottle,Accessories,Navi Mumbai,2025-07-14,105,123,2,600,Urban Traders,59
+P004,Keyboard,Electronics,Borivali,2025-07-14,236,14,316,1200,Global Supplies,67
+P016,Jeans,Fashion,Mumbai Central,2025-07-14,289,71,302,1800,TechSource,29
+P019,Air Fryer,Appliances,Mumbai Central,2025-07-14,287,141,196,7500,Prime Distributors,52
+P020,Bluetooth Speaker,Electronics,Borivali,2025-07-14,43,47,91,2600,Global Supplies,73
+P001,Laptop,Electronics,Navi Mumbai,2025-07-14,246,108,181,42000,Global Supplies,42
+P003,Headphones,Electronics,Mumbai Central,2025-07-15,191,27,241,1800,TechSource,76
+P011,Pen Set,Stationery,Mumbai Central,2025-07-15,207,19,280,180,Prime Distributors,90
+P019,Air Fryer,Appliances,Mumbai Central,2025-07-15,254,31,297,7500,Global Supplies,75
+P012,Backpack,Accessories,Borivali,2025-07-15,194,56,166,1600,TechSource,25
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-07-16,123,108,74,2600,Prime Distributors,97
+P009,Bookshelf,Furniture,Navi Mumbai,2025-07-16,162,144,60,6500,TechSource,36
+P018,Mixer Grinder,Appliances,Andheri,2025-07-16,39,30,77,4200,Global Supplies,33
+P001,Laptop,Electronics,Thane,2025-07-17,109,90,80,42000,Metro Wholesale,78
+P014,Shoes,Fashion,Mumbai Central,2025-07-17,130,76,77,3200,Prime Distributors,75
+P014,Shoes,Fashion,Borivali,2025-07-17,285,49,270,3200,Metro Wholesale,32
+P019,Air Fryer,Appliances,Borivali,2025-07-17,198,23,238,7500,Prime Distributors,80
+P001,Laptop,Electronics,Thane,2025-07-17,292,39,290,42000,Metro Wholesale,85
+P003,Headphones,Electronics,Navi Mumbai,2025-07-17,210,18,267,1800,Prime Distributors,48
+P004,Keyboard,Electronics,Navi Mumbai,2025-07-17,255,145,166,1200,TechSource,39
+P012,Backpack,Accessories,Mumbai Central,2025-07-18,195,43,246,1600,Global Supplies,30
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-07-18,168,123,128,2600,Prime Distributors,84
+P002,Smartphone,Electronics,Borivali,2025-07-18,180,63,212,22000,Prime Distributors,27
+P006,Monitor,Electronics,Thane,2025-07-18,133,100,138,12500,TechSource,83
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-07-19,207,168,54,2600,Global Supplies,63
+P001,Laptop,Electronics,Thane,2025-07-19,48,70,28,42000,Prime Distributors,52
+P011,Pen Set,Stationery,Mumbai Central,2025-07-19,138,62,165,180,Metro Wholesale,79
+P001,Laptop,Electronics,Andheri,2025-07-20,114,57,117,42000,TechSource,80
+P014,Shoes,Fashion,Borivali,2025-07-20,43,72,379,3200,Urban Traders,36
+P006,Monitor,Electronics,Navi Mumbai,2025-07-20,49,13,490,12500,Global Supplies,69
+P006,Monitor,Electronics,Mumbai Central,2025-07-20,299,22,311,12500,Urban Traders,72
+P004,Keyboard,Electronics,Andheri,2025-07-21,287,160,160,1200,Metro Wholesale,55
+P008,Desk,Furniture,Mumbai Central,2025-07-21,167,119,58,12000,Prime Distributors,44
+P012,Backpack,Accessories,Thane,2025-07-21,254,144,160,1600,Metro Wholesale,47
+P013,Water Bottle,Accessories,Borivali,2025-07-21,297,150,5,600,TechSource,29
+P011,Pen Set,Stationery,Thane,2025-07-21,155,150,79,180,TechSource,27
+P001,Laptop,Electronics,Thane,2025-07-22,91,111,83,42000,Global Supplies,51
+P019,Air Fryer,Appliances,Navi Mumbai,2025-07-22,193,33,246,7500,Metro Wholesale,95
+P007,Office Chair,Furniture,Borivali,2025-07-22,270,9,328,8500,Metro Wholesale,65
+P002,Smartphone,Electronics,Thane,2025-07-22,84,8,189,22000,Prime Distributors,86
+P001,Laptop,Electronics,Borivali,2025-07-23,224,15,241,42000,Urban Traders,41
+P019,Air Fryer,Appliances,Andheri,2025-07-23,136,61,134,7500,Urban Traders,76
+P017,Coffee Maker,Appliances,Thane,2025-07-23,137,63,92,5500,Prime Distributors,99
+P010,Notebook,Stationery,Andheri,2025-07-23,120,37,98,120,Metro Wholesale,95
+P016,Jeans,Fashion,Mumbai Central,2025-07-23,88,138,15,1800,Urban Traders,85
+P019,Air Fryer,Appliances,Navi Mumbai,2025-07-24,145,138,125,7500,Urban Traders,58
+P013,Water Bottle,Accessories,Andheri,2025-07-24,207,51,253,600,TechSource,41
+P010,Notebook,Stationery,Thane,2025-07-24,84,109,57,120,TechSource,32
+P005,Mouse,Electronics,Borivali,2025-07-24,40,68,7,700,Urban Traders,41
+P015,T-Shirt,Fashion,Thane,2025-07-24,108,71,104,900,Metro Wholesale,40
+P001,Laptop,Electronics,Navi Mumbai,2025-07-24,192,156,49,42000,Urban Traders,32
+P003,Headphones,Electronics,Borivali,2025-07-24,197,8,269,1800,TechSource,33
+P009,Bookshelf,Furniture,Andheri,2025-07-24,269,80,267,6500,Global Supplies,87
+P020,Bluetooth Speaker,Electronics,Borivali,2025-07-25,225,107,133,2600,Metro Wholesale,52
+P005,Mouse,Electronics,Borivali,2025-07-25,118,51,84,700,Urban Traders,89
+P005,Mouse,Electronics,Borivali,2025-07-25,132,139,108,700,TechSource,54
+P005,Mouse,Electronics,Mumbai Central,2025-07-26,149,152,82,700,Urban Traders,42
+P017,Coffee Maker,Appliances,Borivali,2025-07-26,56,85,41,5500,Urban Traders,89
+P012,Backpack,Accessories,Mumbai Central,2025-07-26,148,111,116,1600,Urban Traders,58
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-07-26,133,62,167,2600,Urban Traders,27
+P001,Laptop,Electronics,Navi Mumbai,2025-07-26,32,72,69,42000,TechSource,31
+P012,Backpack,Accessories,Andheri,2025-07-26,139,60,116,1600,Prime Distributors,39
+P014,Shoes,Fashion,Borivali,2025-07-26,145,141,85,3200,Global Supplies,76
+P014,Shoes,Fashion,Andheri,2025-07-27,107,21,148,3200,TechSource,89
+P005,Mouse,Electronics,Thane,2025-07-27,277,175,7,700,TechSource,65
+P016,Jeans,Fashion,Navi Mumbai,2025-07-28,160,170,2,1800,Global Supplies,87
+P018,Mixer Grinder,Appliances,Borivali,2025-07-28,135,64,96,4200,Urban Traders,31
+P006,Monitor,Electronics,Andheri,2025-07-28,101,121,40,12500,Metro Wholesale,47
+P009,Bookshelf,Furniture,Mumbai Central,2025-07-28,103,126,38,6500,Urban Traders,58
+P012,Backpack,Accessories,Borivali,2025-07-28,217,19,11,1600,Metro Wholesale,75
+P003,Headphones,Electronics,Mumbai Central,2025-07-28,67,25,84,1800,Global Supplies,36
+P015,T-Shirt,Fashion,Mumbai Central,2025-07-28,101,125,0,900,Metro Wholesale,86
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-07-28,67,124,0,4200,Global Supplies,78
+P015,T-Shirt,Fashion,Andheri,2025-07-28,132,23,128,900,Metro Wholesale,61
+P018,Mixer Grinder,Appliances,Borivali,2025-07-28,140,46,111,4200,Global Supplies,37
+P014,Shoes,Fashion,Navi Mumbai,2025-07-29,201,148,63,3200,Prime Distributors,61
+P005,Mouse,Electronics,Borivali,2025-07-29,209,76,233,700,Prime Distributors,67
+P006,Monitor,Electronics,Borivali,2025-07-29,180,171,434,12500,Urban Traders,55
+P011,Pen Set,Stationery,Andheri,2025-07-30,50,69,3,180,Prime Distributors,77
+P017,Coffee Maker,Appliances,Borivali,2025-07-30,137,8,167,5500,Prime Distributors,64
+P003,Headphones,Electronics,Andheri,2025-07-30,22,37,48,1800,Global Supplies,25
+P012,Backpack,Accessories,Borivali,2025-07-30,38,71,13,1600,Metro Wholesale,78
+P009,Bookshelf,Furniture,Navi Mumbai,2025-07-30,129,61,98,6500,Global Supplies,83
+P010,Notebook,Stationery,Thane,2025-07-30,277,93,247,120,Global Supplies,94
+P005,Mouse,Electronics,Borivali,2025-07-30,181,68,207,700,TechSource,47
+P019,Air Fryer,Appliances,Borivali,2025-07-31,273,167,201,7500,TechSource,43
+P013,Water Bottle,Accessories,Mumbai Central,2025-07-31,267,133,230,600,TechSource,50
+P012,Backpack,Accessories,Mumbai Central,2025-08-01,35,29,21,1600,Metro Wholesale,66
+P003,Headphones,Electronics,Navi Mumbai,2025-08-01,89,6,168,1800,Metro Wholesale,89
+P002,Smartphone,Electronics,Andheri,2025-08-01,200,173,135,22000,Prime Distributors,83
+P007,Office Chair,Furniture,Navi Mumbai,2025-08-01,107,96,84,8500,Global Supplies,61
+P020,Bluetooth Speaker,Electronics,Thane,2025-08-01,257,107,219,2600,Prime Distributors,59
+P017,Coffee Maker,Appliances,Mumbai Central,2025-08-02,78,72,64,5500,Metro Wholesale,27
+P007,Office Chair,Furniture,Borivali,2025-08-02,47,40,84,8500,TechSource,36
+P012,Backpack,Accessories,Navi Mumbai,2025-08-02,159,13,194,1600,Urban Traders,50
+P003,Headphones,Electronics,Thane,2025-08-02,74,86,9,1800,Metro Wholesale,64
+P016,Jeans,Fashion,Borivali,2025-08-02,207,141,141,1800,Prime Distributors,51
+P012,Backpack,Accessories,Borivali,2025-08-03,59,20,15,1600,Metro Wholesale,45
+P002,Smartphone,Electronics,Thane,2025-08-03,112,130,41,22000,Prime Distributors,94
+P003,Headphones,Electronics,Navi Mumbai,2025-08-03,74,90,65,1800,Urban Traders,29
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-08-03,108,78,131,2600,Metro Wholesale,89
+P017,Coffee Maker,Appliances,Thane,2025-08-03,251,69,247,5500,TechSource,43
+P003,Headphones,Electronics,Thane,2025-08-03,267,71,247,1800,TechSource,75
+P012,Backpack,Accessories,Borivali,2025-08-03,289,68,264,1600,Metro Wholesale,83
+P006,Monitor,Electronics,Borivali,2025-08-03,177,152,586,12500,Urban Traders,64
+P013,Water Bottle,Accessories,Thane,2025-08-03,224,161,164,600,TechSource,57
+P009,Bookshelf,Furniture,Andheri,2025-08-04,194,7,206,6500,Global Supplies,98
+P008,Desk,Furniture,Navi Mumbai,2025-08-04,246,155,180,12000,Urban Traders,86
+P020,Bluetooth Speaker,Electronics,Andheri,2025-08-04,22,32,35,2600,Global Supplies,49
+P017,Coffee Maker,Appliances,Andheri,2025-08-04,185,111,192,5500,Urban Traders,72
+P002,Smartphone,Electronics,Mumbai Central,2025-08-04,166,172,72,22000,Global Supplies,38
+P011,Pen Set,Stationery,Mumbai Central,2025-08-04,238,176,145,180,TechSource,92
+P002,Smartphone,Electronics,Borivali,2025-08-04,273,79,277,22000,Metro Wholesale,57
+P006,Monitor,Electronics,Andheri,2025-08-04,58,83,41,12500,Urban Traders,83
+P005,Mouse,Electronics,Borivali,2025-08-05,164,19,179,700,Prime Distributors,69
+P016,Jeans,Fashion,Thane,2025-08-05,234,125,149,1800,Urban Traders,45
+P015,T-Shirt,Fashion,Andheri,2025-08-05,66,82,78,900,Prime Distributors,50
+P017,Coffee Maker,Appliances,Borivali,2025-08-05,165,133,55,5500,TechSource,67
+P002,Smartphone,Electronics,Thane,2025-08-05,110,69,100,22000,Prime Distributors,62
+P003,Headphones,Electronics,Thane,2025-08-05,296,117,295,1800,TechSource,26
+P019,Air Fryer,Appliances,Thane,2025-08-06,152,131,117,7500,TechSource,37
+P008,Desk,Furniture,Andheri,2025-08-06,101,125,82,12000,Urban Traders,64
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-08-06,184,74,122,4200,Urban Traders,58
+P005,Mouse,Electronics,Andheri,2025-08-06,216,121,169,700,Prime Distributors,77
+P018,Mixer Grinder,Appliances,Andheri,2025-08-06,57,36,68,4200,Metro Wholesale,78
+P020,Bluetooth Speaker,Electronics,Borivali,2025-08-06,103,55,95,2600,Prime Distributors,76
+P002,Smartphone,Electronics,Andheri,2025-08-06,63,78,19,22000,TechSource,93
+P019,Air Fryer,Appliances,Mumbai Central,2025-08-07,225,148,111,7500,Prime Distributors,28
+P015,T-Shirt,Fashion,Mumbai Central,2025-08-07,174,30,170,900,Global Supplies,98
+P016,Jeans,Fashion,Andheri,2025-08-07,90,48,91,1800,Global Supplies,74
+P005,Mouse,Electronics,Mumbai Central,2025-08-07,230,46,266,700,Metro Wholesale,73
+P020,Bluetooth Speaker,Electronics,Andheri,2025-08-07,44,76,29,2600,Global Supplies,97
+P019,Air Fryer,Appliances,Andheri,2025-08-07,125,127,45,7500,Prime Distributors,63
+P005,Mouse,Electronics,Mumbai Central,2025-08-08,34,85,0,700,Prime Distributors,98
+P019,Air Fryer,Appliances,Andheri,2025-08-08,35,85,0,7500,Urban Traders,74
+P009,Bookshelf,Furniture,Borivali,2025-08-08,138,121,73,6500,TechSource,31
+P007,Office Chair,Furniture,Thane,2025-08-08,46,94,59,8500,TechSource,57
+P001,Laptop,Electronics,Borivali,2025-08-08,98,128,18,42000,Prime Distributors,68
+P015,T-Shirt,Fashion,Mumbai Central,2025-08-08,213,134,165,900,Global Supplies,100
+P010,Notebook,Stationery,Thane,2025-08-09,47,105,1,120,Prime Distributors,61
+P008,Desk,Furniture,Navi Mumbai,2025-08-09,119,45,182,12000,TechSource,43
+P015,T-Shirt,Fashion,Andheri,2025-08-10,287,175,404,900,TechSource,61
+P001,Laptop,Electronics,Borivali,2025-08-10,144,54,180,42000,Global Supplies,40
+P012,Backpack,Accessories,Andheri,2025-08-10,110,167,0,1600,TechSource,85
+P013,Water Bottle,Accessories,Borivali,2025-08-11,81,73,69,600,Global Supplies,32
+P009,Bookshelf,Furniture,Mumbai Central,2025-08-11,136,170,78,6500,Urban Traders,58
+P020,Bluetooth Speaker,Electronics,Borivali,2025-08-11,153,135,7,2600,TechSource,37
+P016,Jeans,Fashion,Thane,2025-08-11,151,10,159,1800,Urban Traders,50
+P004,Keyboard,Electronics,Mumbai Central,2025-08-11,131,157,85,1200,Prime Distributors,79
+P010,Notebook,Stationery,Andheri,2025-08-11,233,85,238,120,TechSource,74
+P002,Smartphone,Electronics,Mumbai Central,2025-08-12,124,54,99,22000,Metro Wholesale,36
+P012,Backpack,Accessories,Mumbai Central,2025-08-12,290,129,230,1600,Metro Wholesale,92
+P002,Smartphone,Electronics,Thane,2025-08-12,22,24,68,22000,Prime Distributors,59
+P010,Notebook,Stationery,Andheri,2025-08-12,192,109,95,120,TechSource,51
+P015,T-Shirt,Fashion,Mumbai Central,2025-08-13,82,86,44,900,Metro Wholesale,89
+P001,Laptop,Electronics,Navi Mumbai,2025-08-13,146,137,79,42000,Prime Distributors,37
+P002,Smartphone,Electronics,Navi Mumbai,2025-08-14,202,92,9,22000,Urban Traders,34
+P003,Headphones,Electronics,Thane,2025-08-14,229,38,258,1800,Urban Traders,60
+P006,Monitor,Electronics,Andheri,2025-08-14,202,40,281,12500,TechSource,31
+P017,Coffee Maker,Appliances,Borivali,2025-08-14,75,68,39,5500,Metro Wholesale,51
+P007,Office Chair,Furniture,Navi Mumbai,2025-08-14,93,104,86,8500,Metro Wholesale,97
+P019,Air Fryer,Appliances,Mumbai Central,2025-08-15,51,52,102,7500,Prime Distributors,65
+P006,Monitor,Electronics,Thane,2025-08-15,243,127,205,12500,Metro Wholesale,94
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-08-15,48,86,23,4200,Urban Traders,97
+P005,Mouse,Electronics,Mumbai Central,2025-08-16,284,36,282,700,Urban Traders,89
+P006,Monitor,Electronics,Mumbai Central,2025-08-16,172,134,153,12500,Prime Distributors,99
+P001,Laptop,Electronics,Borivali,2025-08-16,205,16,245,42000,Global Supplies,91
+P007,Office Chair,Furniture,Andheri,2025-08-17,209,15,244,8500,Metro Wholesale,58
+P018,Mixer Grinder,Appliances,Borivali,2025-08-17,192,127,99,4200,Metro Wholesale,68
+P009,Bookshelf,Furniture,Borivali,2025-08-17,53,85,0,6500,Prime Distributors,56
+P009,Bookshelf,Furniture,Thane,2025-08-17,93,18,114,6500,TechSource,82
+P004,Keyboard,Electronics,Thane,2025-08-17,73,74,75,1200,Urban Traders,88
+P003,Headphones,Electronics,Borivali,2025-08-18,167,22,213,1800,Global Supplies,56
+P015,T-Shirt,Fashion,Borivali,2025-08-18,120,60,132,900,Prime Distributors,37
+P011,Pen Set,Stationery,Andheri,2025-08-19,291,7,0,180,TechSource,41
+P001,Laptop,Electronics,Andheri,2025-08-19,236,32,280,42000,Prime Distributors,69
+P018,Mixer Grinder,Appliances,Thane,2025-08-19,291,46,280,4200,Urban Traders,36
+P006,Monitor,Electronics,Thane,2025-08-19,292,25,320,12500,Metro Wholesale,37
+P018,Mixer Grinder,Appliances,Andheri,2025-08-19,181,72,201,4200,Urban Traders,39
+P004,Keyboard,Electronics,Borivali,2025-08-19,205,174,121,1200,Urban Traders,27
+P009,Bookshelf,Furniture,Thane,2025-08-20,139,26,177,6500,Prime Distributors,99
+P008,Desk,Furniture,Thane,2025-08-20,247,55,252,12000,Prime Distributors,100
+P006,Monitor,Electronics,Thane,2025-08-20,146,163,21,12500,TechSource,71
+P013,Water Bottle,Accessories,Mumbai Central,2025-08-20,277,163,210,600,Metro Wholesale,41
+P010,Notebook,Stationery,Andheri,2025-08-20,129,145,4,120,Global Supplies,50
+P015,T-Shirt,Fashion,Navi Mumbai,2025-08-21,209,152,82,900,Metro Wholesale,25
+P005,Mouse,Electronics,Thane,2025-08-21,137,31,198,700,Global Supplies,90
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-08-21,117,167,55,2600,Metro Wholesale,30
+P017,Coffee Maker,Appliances,Thane,2025-08-21,295,149,236,5500,Prime Distributors,46
+P014,Shoes,Fashion,Mumbai Central,2025-08-21,296,12,325,3200,Metro Wholesale,66
+P013,Water Bottle,Accessories,Andheri,2025-08-22,230,27,220,600,Prime Distributors,72
+P014,Shoes,Fashion,Andheri,2025-08-22,254,116,173,3200,Global Supplies,59
+P005,Mouse,Electronics,Mumbai Central,2025-08-22,274,55,300,700,Prime Distributors,96
+P009,Bookshelf,Furniture,Thane,2025-08-22,287,148,192,6500,Metro Wholesale,92
+P009,Bookshelf,Furniture,Borivali,2025-08-22,238,178,133,6500,TechSource,50
+P015,T-Shirt,Fashion,Navi Mumbai,2025-08-23,89,91,110,900,Global Supplies,84
+P015,T-Shirt,Fashion,Andheri,2025-08-23,261,76,196,900,Global Supplies,25
+P011,Pen Set,Stationery,Thane,2025-08-23,106,66,147,180,Metro Wholesale,97
+P003,Headphones,Electronics,Mumbai Central,2025-08-23,133,94,94,1800,Global Supplies,51
+P006,Monitor,Electronics,Thane,2025-08-24,141,14,137,12500,Metro Wholesale,45
+P013,Water Bottle,Accessories,Navi Mumbai,2025-08-24,188,67,186,600,TechSource,33
+P009,Bookshelf,Furniture,Andheri,2025-08-24,64,85,0,6500,TechSource,31
+P019,Air Fryer,Appliances,Andheri,2025-08-24,147,21,191,7500,TechSource,74
+P009,Bookshelf,Furniture,Mumbai Central,2025-08-24,213,116,119,6500,Urban Traders,93
+P014,Shoes,Fashion,Thane,2025-08-25,275,82,280,3200,Urban Traders,58
+P005,Mouse,Electronics,Navi Mumbai,2025-08-25,173,6,225,700,Global Supplies,30
+P007,Office Chair,Furniture,Borivali,2025-08-25,65,118,29,8500,Metro Wholesale,43
+P014,Shoes,Fashion,Thane,2025-08-26,198,133,101,3200,Global Supplies,58
+P004,Keyboard,Electronics,Mumbai Central,2025-08-26,82,24,132,1200,Urban Traders,53
+P016,Jeans,Fashion,Thane,2025-08-26,276,20,323,1800,Urban Traders,66
+P012,Backpack,Accessories,Borivali,2025-08-26,176,43,251,1600,Prime Distributors,72
+P003,Headphones,Electronics,Mumbai Central,2025-08-27,100,22,96,1800,Urban Traders,30
+P015,T-Shirt,Fashion,Thane,2025-08-27,107,132,19,900,Global Supplies,62
+P003,Headphones,Electronics,Andheri,2025-08-27,177,136,122,1800,Metro Wholesale,65
+P006,Monitor,Electronics,Mumbai Central,2025-08-27,282,162,9,12500,TechSource,61
+P019,Air Fryer,Appliances,Borivali,2025-08-27,88,118,84,7500,Metro Wholesale,45
+P007,Office Chair,Furniture,Thane,2025-08-28,88,94,88,8500,Global Supplies,37
+P020,Bluetooth Speaker,Electronics,Thane,2025-08-28,273,38,266,2600,TechSource,80
+P002,Smartphone,Electronics,Navi Mumbai,2025-08-29,246,94,229,22000,TechSource,68
+P015,T-Shirt,Fashion,Navi Mumbai,2025-08-29,181,131,531,900,Urban Traders,51
+P002,Smartphone,Electronics,Andheri,2025-08-29,299,174,152,22000,Urban Traders,34
+P004,Keyboard,Electronics,Navi Mumbai,2025-08-29,67,62,96,1200,Global Supplies,83
+P005,Mouse,Electronics,Thane,2025-08-29,58,31,39,700,Metro Wholesale,92
+P005,Mouse,Electronics,Borivali,2025-08-29,275,149,200,700,Prime Distributors,28
+P013,Water Bottle,Accessories,Thane,2025-08-29,126,19,136,600,TechSource,29
+P006,Monitor,Electronics,Borivali,2025-08-30,137,51,11,12500,TechSource,53
+P003,Headphones,Electronics,Borivali,2025-08-30,119,112,47,1800,Global Supplies,96
+P019,Air Fryer,Appliances,Andheri,2025-08-30,24,66,65,7500,Global Supplies,72
+P005,Mouse,Electronics,Andheri,2025-08-30,169,88,153,700,Prime Distributors,68
+P005,Mouse,Electronics,Andheri,2025-08-30,144,129,64,700,TechSource,38
+P013,Water Bottle,Accessories,Navi Mumbai,2025-08-30,176,115,174,600,Prime Distributors,25
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-08-30,135,168,0,2600,Metro Wholesale,89
+P007,Office Chair,Furniture,Mumbai Central,2025-08-30,80,92,83,8500,TechSource,29
+P003,Headphones,Electronics,Thane,2025-08-30,297,76,251,1800,Metro Wholesale,41
+P015,T-Shirt,Fashion,Navi Mumbai,2025-08-31,233,144,160,900,Urban Traders,80
+P015,T-Shirt,Fashion,Navi Mumbai,2025-08-31,181,150,268,900,TechSource,75
+P007,Office Chair,Furniture,Navi Mumbai,2025-08-31,186,62,197,8500,Metro Wholesale,27
+P003,Headphones,Electronics,Navi Mumbai,2025-08-31,173,133,109,1800,Prime Distributors,28
+P006,Monitor,Electronics,Andheri,2025-09-01,288,85,292,12500,Prime Distributors,79
+P014,Shoes,Fashion,Mumbai Central,2025-09-01,175,127,83,3200,Metro Wholesale,32
+P008,Desk,Furniture,Thane,2025-09-01,128,163,68,12000,Global Supplies,93
+P003,Headphones,Electronics,Borivali,2025-09-01,185,121,178,1800,Urban Traders,88
+P002,Smartphone,Electronics,Andheri,2025-09-01,39,61,8,22000,Prime Distributors,44
+P014,Shoes,Fashion,Thane,2025-09-01,126,161,79,3200,Urban Traders,51
+P017,Coffee Maker,Appliances,Andheri,2025-09-01,144,16,233,5500,Global Supplies,88
+P009,Bookshelf,Furniture,Mumbai Central,2025-09-01,213,129,168,6500,Prime Distributors,84
+P010,Notebook,Stationery,Mumbai Central,2025-09-01,22,27,6,120,Prime Distributors,34
+P003,Headphones,Electronics,Thane,2025-09-02,62,85,0,1800,Global Supplies,28
+P012,Backpack,Accessories,Thane,2025-09-02,123,17,136,1600,TechSource,66
+P003,Headphones,Electronics,Andheri,2025-09-02,180,117,145,1800,Global Supplies,27
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-09-02,163,69,440,2600,Metro Wholesale,25
+P017,Coffee Maker,Appliances,Thane,2025-09-02,32,8,106,5500,Global Supplies,86
+P015,T-Shirt,Fashion,Andheri,2025-09-03,102,58,157,900,Prime Distributors,56
+P010,Notebook,Stationery,Mumbai Central,2025-09-03,60,35,61,120,Metro Wholesale,70
+P004,Keyboard,Electronics,Thane,2025-09-03,247,148,145,1200,Prime Distributors,37
+P002,Smartphone,Electronics,Navi Mumbai,2025-09-03,155,47,127,22000,TechSource,39
+P016,Jeans,Fashion,Navi Mumbai,2025-09-03,226,84,158,1800,Metro Wholesale,62
+P009,Bookshelf,Furniture,Borivali,2025-09-03,60,31,407,6500,TechSource,76
+P011,Pen Set,Stationery,Andheri,2025-09-03,285,99,267,180,Prime Distributors,43
+P009,Bookshelf,Furniture,Thane,2025-09-03,200,156,7,6500,Global Supplies,37
+P016,Jeans,Fashion,Navi Mumbai,2025-09-03,178,109,158,1800,Global Supplies,62
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-09-03,187,95,199,2600,Metro Wholesale,74
+P005,Mouse,Electronics,Navi Mumbai,2025-09-03,297,165,170,700,Metro Wholesale,91
+P008,Desk,Furniture,Mumbai Central,2025-09-04,91,89,89,12000,Global Supplies,94
+P002,Smartphone,Electronics,Mumbai Central,2025-09-04,166,114,77,22000,Global Supplies,69
+P013,Water Bottle,Accessories,Andheri,2025-09-04,127,139,44,600,Prime Distributors,77
+P016,Jeans,Fashion,Navi Mumbai,2025-09-04,109,126,41,1800,Prime Distributors,98
+P016,Jeans,Fashion,Thane,2025-09-04,89,125,6,1800,Urban Traders,44
+P008,Desk,Furniture,Borivali,2025-09-04,61,44,79,12000,Urban Traders,83
+P015,T-Shirt,Fashion,Navi Mumbai,2025-09-04,263,41,308,900,Metro Wholesale,47
+P002,Smartphone,Electronics,Borivali,2025-09-05,195,159,59,22000,Metro Wholesale,83
+P019,Air Fryer,Appliances,Navi Mumbai,2025-09-05,173,36,225,7500,Prime Distributors,33
+P016,Jeans,Fashion,Navi Mumbai,2025-09-05,279,167,156,1800,Global Supplies,92
+P006,Monitor,Electronics,Mumbai Central,2025-09-05,161,31,239,12500,Metro Wholesale,61
+P012,Backpack,Accessories,Andheri,2025-09-05,142,75,85,1600,Metro Wholesale,51
+P014,Shoes,Fashion,Mumbai Central,2025-09-05,223,70,171,3200,Prime Distributors,61
+P012,Backpack,Accessories,Borivali,2025-09-05,295,31,379,1600,Urban Traders,58
+P004,Keyboard,Electronics,Borivali,2025-09-06,31,76,39,1200,Metro Wholesale,27
+P016,Jeans,Fashion,Borivali,2025-09-06,198,155,102,1800,Metro Wholesale,35
+P005,Mouse,Electronics,Andheri,2025-09-06,31,35,45,700,Prime Distributors,68
+P017,Coffee Maker,Appliances,Borivali,2025-09-06,97,99,16,5500,Global Supplies,47
+P020,Bluetooth Speaker,Electronics,Andheri,2025-09-07,68,35,60,2600,Metro Wholesale,65
+P016,Jeans,Fashion,Mumbai Central,2025-09-07,198,17,285,1800,Urban Traders,58
+P009,Bookshelf,Furniture,Borivali,2025-09-07,166,110,98,6500,Prime Distributors,96
+P011,Pen Set,Stationery,Navi Mumbai,2025-09-07,168,105,166,180,Urban Traders,87
+P003,Headphones,Electronics,Borivali,2025-09-07,279,134,206,1800,Prime Distributors,92
+P002,Smartphone,Electronics,Andheri,2025-09-08,161,14,222,22000,Global Supplies,82
+P013,Water Bottle,Accessories,Thane,2025-09-08,146,99,86,600,Global Supplies,33
+P014,Shoes,Fashion,Andheri,2025-09-08,54,63,24,3200,TechSource,45
+P002,Smartphone,Electronics,Borivali,2025-09-09,86,100,22,22000,Metro Wholesale,62
+P015,T-Shirt,Fashion,Navi Mumbai,2025-09-09,182,92,167,900,Prime Distributors,75
+P006,Monitor,Electronics,Andheri,2025-09-09,38,76,0,12500,Global Supplies,77
+P018,Mixer Grinder,Appliances,Borivali,2025-09-09,26,44,15,4200,TechSource,90
+P017,Coffee Maker,Appliances,Thane,2025-09-10,145,74,131,5500,Metro Wholesale,76
+P015,T-Shirt,Fashion,Thane,2025-09-10,209,39,278,900,Metro Wholesale,57
+P010,Notebook,Stationery,Navi Mumbai,2025-09-10,215,110,136,120,Urban Traders,52
+P013,Water Bottle,Accessories,Navi Mumbai,2025-09-10,150,10,238,600,Metro Wholesale,81
+P018,Mixer Grinder,Appliances,Borivali,2025-09-10,166,178,73,4200,Global Supplies,97
+P001,Laptop,Electronics,Thane,2025-09-10,247,122,211,42000,Urban Traders,53
+P002,Smartphone,Electronics,Navi Mumbai,2025-09-11,22,70,67,22000,Metro Wholesale,95
+P009,Bookshelf,Furniture,Andheri,2025-09-11,153,110,156,6500,Prime Distributors,92
+P008,Desk,Furniture,Navi Mumbai,2025-09-11,235,15,309,12000,Metro Wholesale,97
+P017,Coffee Maker,Appliances,Borivali,2025-09-11,85,135,44,5500,TechSource,74
+P015,T-Shirt,Fashion,Mumbai Central,2025-09-11,156,51,223,900,Prime Distributors,50
+P009,Bookshelf,Furniture,Andheri,2025-09-11,136,58,160,6500,Metro Wholesale,62
+P003,Headphones,Electronics,Mumbai Central,2025-09-11,31,36,105,1800,Metro Wholesale,51
+P006,Monitor,Electronics,Borivali,2025-09-11,39,17,79,12500,Metro Wholesale,68
+P007,Office Chair,Furniture,Thane,2025-09-11,180,162,109,8500,TechSource,92
+P014,Shoes,Fashion,Andheri,2025-09-12,201,78,221,3200,Metro Wholesale,74
+P004,Keyboard,Electronics,Borivali,2025-09-12,215,94,345,1200,Prime Distributors,87
+P018,Mixer Grinder,Appliances,Andheri,2025-09-12,177,106,143,4200,Prime Distributors,77
+P012,Backpack,Accessories,Andheri,2025-09-12,243,117,187,1600,Metro Wholesale,78
+P016,Jeans,Fashion,Mumbai Central,2025-09-13,281,56,322,1800,Metro Wholesale,81
+P009,Bookshelf,Furniture,Navi Mumbai,2025-09-14,56,90,3,6500,Urban Traders,28
+P016,Jeans,Fashion,Mumbai Central,2025-09-14,252,25,336,1800,Prime Distributors,32
+P002,Smartphone,Electronics,Navi Mumbai,2025-09-14,196,11,277,22000,Prime Distributors,88
+P012,Backpack,Accessories,Mumbai Central,2025-09-14,67,113,0,1600,Metro Wholesale,50
+P002,Smartphone,Electronics,Andheri,2025-09-14,141,114,2,22000,Global Supplies,71
+P015,T-Shirt,Fashion,Andheri,2025-09-15,90,38,78,900,Global Supplies,75
+P012,Backpack,Accessories,Andheri,2025-09-15,266,177,201,1600,Global Supplies,83
+P011,Pen Set,Stationery,Andheri,2025-09-15,157,10,166,180,Prime Distributors,75
+P013,Water Bottle,Accessories,Borivali,2025-09-15,247,121,173,600,Urban Traders,79
+P020,Bluetooth Speaker,Electronics,Thane,2025-09-16,269,91,283,2600,Global Supplies,81
+P010,Notebook,Stationery,Thane,2025-09-16,136,155,64,120,Global Supplies,58
+P006,Monitor,Electronics,Mumbai Central,2025-09-16,102,89,6,12500,Urban Traders,98
+P010,Notebook,Stationery,Andheri,2025-09-16,95,104,81,120,Prime Distributors,98
+P014,Shoes,Fashion,Borivali,2025-09-16,39,92,61,3200,Prime Distributors,62
+P001,Laptop,Electronics,Navi Mumbai,2025-09-16,230,135,160,42000,TechSource,59
+P007,Office Chair,Furniture,Mumbai Central,2025-09-16,179,176,70,8500,Metro Wholesale,25
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-09-16,119,113,97,5500,Prime Distributors,31
+P011,Pen Set,Stationery,Navi Mumbai,2025-09-16,167,77,140,180,TechSource,77
+P002,Smartphone,Electronics,Borivali,2025-09-16,220,119,203,22000,Urban Traders,67
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-09-16,41,29,25,5500,TechSource,72
+P014,Shoes,Fashion,Mumbai Central,2025-09-17,241,168,163,3200,Prime Distributors,87
+P014,Shoes,Fashion,Navi Mumbai,2025-09-17,126,129,82,3200,Prime Distributors,38
+P014,Shoes,Fashion,Thane,2025-09-17,158,50,186,3200,Global Supplies,77
+P012,Backpack,Accessories,Navi Mumbai,2025-09-17,93,103,31,1600,Metro Wholesale,85
+P005,Mouse,Electronics,Thane,2025-09-17,215,93,151,700,Metro Wholesale,48
+P004,Keyboard,Electronics,Thane,2025-09-17,229,96,167,1200,Prime Distributors,65
+P019,Air Fryer,Appliances,Borivali,2025-09-17,158,177,86,7500,Metro Wholesale,89
+P017,Coffee Maker,Appliances,Andheri,2025-09-17,111,150,48,5500,Metro Wholesale,52
+P008,Desk,Furniture,Andheri,2025-09-18,129,49,178,12000,Prime Distributors,51
+P011,Pen Set,Stationery,Andheri,2025-09-18,55,69,97,180,Global Supplies,50
+P017,Coffee Maker,Appliances,Mumbai Central,2025-09-18,231,15,302,5500,Metro Wholesale,94
+P003,Headphones,Electronics,Thane,2025-09-18,148,46,143,1800,Prime Distributors,64
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-09-18,250,21,294,4200,Urban Traders,43
+P003,Headphones,Electronics,Andheri,2025-09-18,175,44,186,1800,Metro Wholesale,37
+P007,Office Chair,Furniture,Navi Mumbai,2025-09-18,123,42,197,8500,Global Supplies,72
+P010,Notebook,Stationery,Navi Mumbai,2025-09-19,171,80,160,120,Prime Distributors,88
+P011,Pen Set,Stationery,Andheri,2025-09-19,81,74,71,180,Global Supplies,53
+P013,Water Bottle,Accessories,Borivali,2025-09-19,153,164,36,600,Metro Wholesale,72
+P006,Monitor,Electronics,Borivali,2025-09-19,189,51,179,12500,Urban Traders,56
+P016,Jeans,Fashion,Navi Mumbai,2025-09-19,293,18,287,1800,Metro Wholesale,69
+P020,Bluetooth Speaker,Electronics,Thane,2025-09-19,232,117,146,2600,TechSource,89
+P009,Bookshelf,Furniture,Andheri,2025-09-19,41,58,0,6500,TechSource,74
+P019,Air Fryer,Appliances,Andheri,2025-09-19,57,72,33,7500,Urban Traders,95
+P004,Keyboard,Electronics,Andheri,2025-09-20,26,69,0,1200,Global Supplies,79
+P012,Backpack,Accessories,Thane,2025-09-20,28,52,43,1600,Global Supplies,38
+P014,Shoes,Fashion,Borivali,2025-09-20,207,18,211,3200,Urban Traders,93
+P005,Mouse,Electronics,Andheri,2025-09-20,86,151,0,700,TechSource,61
+P014,Shoes,Fashion,Thane,2025-09-20,112,151,0,3200,Prime Distributors,76
+P004,Keyboard,Electronics,Thane,2025-09-20,190,46,239,1200,TechSource,27
+P003,Headphones,Electronics,Mumbai Central,2025-09-20,155,173,61,1800,TechSource,95
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-09-21,66,93,9,4200,Prime Distributors,26
+P018,Mixer Grinder,Appliances,Thane,2025-09-21,78,135,11,4200,Metro Wholesale,84
+P013,Water Bottle,Accessories,Andheri,2025-09-21,214,36,259,600,Urban Traders,57
+P006,Monitor,Electronics,Mumbai Central,2025-09-21,74,26,155,12500,TechSource,28
+P002,Smartphone,Electronics,Andheri,2025-09-21,66,69,108,22000,Metro Wholesale,69
+P005,Mouse,Electronics,Borivali,2025-09-21,197,56,216,700,Prime Distributors,85
+P006,Monitor,Electronics,Navi Mumbai,2025-09-22,185,130,82,12500,Prime Distributors,95
+P011,Pen Set,Stationery,Thane,2025-09-22,140,25,190,180,Prime Distributors,29
+P012,Backpack,Accessories,Mumbai Central,2025-09-22,98,35,146,1600,Prime Distributors,68
+P013,Water Bottle,Accessories,Navi Mumbai,2025-09-22,232,132,152,600,Urban Traders,70
+P008,Desk,Furniture,Andheri,2025-09-22,80,89,95,12000,Urban Traders,25
+P008,Desk,Furniture,Thane,2025-09-22,267,18,301,12000,Metro Wholesale,44
+P012,Backpack,Accessories,Navi Mumbai,2025-09-23,162,17,251,1600,Prime Distributors,98
+P012,Backpack,Accessories,Mumbai Central,2025-09-23,22,72,62,1600,Prime Distributors,61
+P004,Keyboard,Electronics,Mumbai Central,2025-09-23,61,79,43,1200,TechSource,85
+P009,Bookshelf,Furniture,Mumbai Central,2025-09-23,289,167,135,6500,TechSource,46
+P002,Smartphone,Electronics,Andheri,2025-09-23,156,30,176,22000,Metro Wholesale,25
+P009,Bookshelf,Furniture,Thane,2025-09-23,73,83,86,6500,Urban Traders,80
+P019,Air Fryer,Appliances,Navi Mumbai,2025-09-23,244,89,252,7500,Prime Distributors,38
+P020,Bluetooth Speaker,Electronics,Andheri,2025-09-24,178,159,61,2600,Urban Traders,93
+P019,Air Fryer,Appliances,Borivali,2025-09-24,48,120,47,7500,Metro Wholesale,89
+P005,Mouse,Electronics,Borivali,2025-09-25,40,34,80,700,Prime Distributors,25
+P017,Coffee Maker,Appliances,Andheri,2025-09-25,160,115,99,5500,TechSource,76
+P005,Mouse,Electronics,Mumbai Central,2025-09-25,108,81,65,700,TechSource,48
+P002,Smartphone,Electronics,Borivali,2025-09-25,221,11,263,22000,Global Supplies,93
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-09-25,281,156,177,2600,Metro Wholesale,47
+P015,T-Shirt,Fashion,Andheri,2025-09-25,181,171,80,900,Metro Wholesale,58
+P019,Air Fryer,Appliances,Navi Mumbai,2025-09-26,292,127,185,7500,Prime Distributors,73
+P005,Mouse,Electronics,Thane,2025-09-26,77,68,68,700,Metro Wholesale,54
+P017,Coffee Maker,Appliances,Andheri,2025-09-26,55,119,2,5500,Urban Traders,68
+P016,Jeans,Fashion,Mumbai Central,2025-09-26,78,103,63,1800,Urban Traders,61
+P010,Notebook,Stationery,Andheri,2025-09-27,81,131,23,120,Urban Traders,90
+P002,Smartphone,Electronics,Thane,2025-09-27,274,124,206,22000,Global Supplies,64
+P006,Monitor,Electronics,Borivali,2025-09-27,165,32,19,12500,Prime Distributors,48
+P009,Bookshelf,Furniture,Andheri,2025-09-27,86,134,21,6500,Metro Wholesale,50
+P001,Laptop,Electronics,Borivali,2025-09-27,73,76,28,42000,TechSource,91
+P001,Laptop,Electronics,Andheri,2025-09-27,180,156,112,42000,Global Supplies,76
+P004,Keyboard,Electronics,Navi Mumbai,2025-09-27,224,20,236,1200,Global Supplies,79
+P006,Monitor,Electronics,Mumbai Central,2025-09-28,49,90,39,12500,TechSource,91
+P019,Air Fryer,Appliances,Mumbai Central,2025-09-28,145,62,102,7500,Urban Traders,32
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-09-28,271,93,266,2600,Urban Traders,81
+P015,T-Shirt,Fashion,Andheri,2025-09-28,294,80,262,900,TechSource,78
+P019,Air Fryer,Appliances,Borivali,2025-09-28,250,43,264,7500,Global Supplies,78
+P003,Headphones,Electronics,Andheri,2025-09-28,255,98,243,1800,TechSource,52
+P002,Smartphone,Electronics,Navi Mumbai,2025-09-28,51,63,79,22000,Metro Wholesale,62
+P011,Pen Set,Stationery,Andheri,2025-09-28,74,99,25,180,Metro Wholesale,25
+P009,Bookshelf,Furniture,Andheri,2025-09-28,95,67,456,6500,TechSource,30
+P010,Notebook,Stationery,Navi Mumbai,2025-09-29,111,67,54,120,Urban Traders,66
+P008,Desk,Furniture,Thane,2025-09-29,142,138,23,12000,Prime Distributors,76
+P001,Laptop,Electronics,Borivali,2025-09-29,245,118,16,42000,Urban Traders,92
+P003,Headphones,Electronics,Andheri,2025-09-29,80,153,0,1800,Metro Wholesale,56
+P004,Keyboard,Electronics,Borivali,2025-09-30,78,83,59,1200,TechSource,38
+P010,Notebook,Stationery,Borivali,2025-09-30,147,155,18,120,Prime Distributors,77
+P020,Bluetooth Speaker,Electronics,Borivali,2025-09-30,120,87,142,2600,Global Supplies,26
+P007,Office Chair,Furniture,Thane,2025-09-30,238,11,289,8500,Global Supplies,34
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-09-30,58,118,0,2600,Urban Traders,77
+P012,Backpack,Accessories,Andheri,2025-09-30,43,32,458,1600,Prime Distributors,27
+P008,Desk,Furniture,Borivali,2025-09-30,127,130,8,12000,Metro Wholesale,74
+P014,Shoes,Fashion,Mumbai Central,2025-10-01,146,61,12,3200,Metro Wholesale,39
+P005,Mouse,Electronics,Navi Mumbai,2025-10-01,135,89,115,700,Global Supplies,80
+P013,Water Bottle,Accessories,Navi Mumbai,2025-10-01,31,24,400,600,Metro Wholesale,68
+P001,Laptop,Electronics,Andheri,2025-10-01,283,21,366,42000,Metro Wholesale,89
+P006,Monitor,Electronics,Mumbai Central,2025-10-01,267,103,279,12500,Urban Traders,44
+P016,Jeans,Fashion,Thane,2025-10-01,44,75,0,1800,TechSource,43
+P020,Bluetooth Speaker,Electronics,Thane,2025-10-01,111,31,336,2600,Prime Distributors,50
+P011,Pen Set,Stationery,Navi Mumbai,2025-10-01,270,136,185,180,Metro Wholesale,32
+P010,Notebook,Stationery,Mumbai Central,2025-10-01,35,35,28,120,Prime Distributors,59
+P008,Desk,Furniture,Borivali,2025-10-01,243,175,103,12000,Urban Traders,57
+P016,Jeans,Fashion,Thane,2025-10-02,175,97,121,1800,Metro Wholesale,41
+P008,Desk,Furniture,Mumbai Central,2025-10-02,189,165,116,12000,Prime Distributors,44
+P004,Keyboard,Electronics,Mumbai Central,2025-10-02,130,98,14,1200,TechSource,39
+P015,T-Shirt,Fashion,Mumbai Central,2025-10-02,235,123,168,900,Global Supplies,38
+P016,Jeans,Fashion,Navi Mumbai,2025-10-02,80,116,42,1800,Global Supplies,26
+P015,T-Shirt,Fashion,Andheri,2025-10-02,71,125,0,900,Prime Distributors,84
+P006,Monitor,Electronics,Andheri,2025-10-02,172,21,180,12500,Metro Wholesale,65
+P010,Notebook,Stationery,Navi Mumbai,2025-10-03,140,143,116,120,Urban Traders,69
+P020,Bluetooth Speaker,Electronics,Borivali,2025-10-03,225,177,79,2600,Prime Distributors,100
+P020,Bluetooth Speaker,Electronics,Thane,2025-10-03,30,24,17,2600,TechSource,97
+P005,Mouse,Electronics,Borivali,2025-10-03,50,108,9,700,TechSource,45
+P011,Pen Set,Stationery,Mumbai Central,2025-10-03,32,34,81,180,Metro Wholesale,58
+P015,T-Shirt,Fashion,Andheri,2025-10-04,225,39,252,900,TechSource,68
+P013,Water Bottle,Accessories,Borivali,2025-10-04,248,86,10,600,Metro Wholesale,59
+P007,Office Chair,Furniture,Mumbai Central,2025-10-04,285,170,153,8500,Global Supplies,34
+P003,Headphones,Electronics,Andheri,2025-10-04,168,136,57,1800,Urban Traders,84
+P012,Backpack,Accessories,Navi Mumbai,2025-10-04,158,105,450,1600,Prime Distributors,66
+P014,Shoes,Fashion,Mumbai Central,2025-10-05,135,78,146,3200,Prime Distributors,72
+P009,Bookshelf,Furniture,Andheri,2025-10-05,241,86,12,6500,Urban Traders,57
+P015,T-Shirt,Fashion,Thane,2025-10-05,200,56,251,900,TechSource,80
+P008,Desk,Furniture,Borivali,2025-10-05,150,138,72,12000,Metro Wholesale,65
+P006,Monitor,Electronics,Andheri,2025-10-05,69,79,56,12500,Global Supplies,87
+P007,Office Chair,Furniture,Mumbai Central,2025-10-05,256,161,193,8500,Prime Distributors,53
+P013,Water Bottle,Accessories,Navi Mumbai,2025-10-05,59,32,105,600,TechSource,34
+P013,Water Bottle,Accessories,Borivali,2025-10-05,143,142,109,600,Metro Wholesale,86
+P015,T-Shirt,Fashion,Borivali,2025-10-05,125,9,128,900,TechSource,91
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-10-06,65,116,17,4200,Global Supplies,61
+P003,Headphones,Electronics,Navi Mumbai,2025-10-06,252,15,317,1800,Prime Distributors,72
+P003,Headphones,Electronics,Navi Mumbai,2025-10-06,89,63,18,1800,Prime Distributors,70
+P017,Coffee Maker,Appliances,Thane,2025-10-06,25,27,63,5500,Urban Traders,72
+P007,Office Chair,Furniture,Andheri,2025-10-06,47,47,65,8500,Urban Traders,42
+P005,Mouse,Electronics,Andheri,2025-10-07,279,143,222,700,Global Supplies,74
+P005,Mouse,Electronics,Navi Mumbai,2025-10-07,210,129,13,700,Global Supplies,42
+P015,T-Shirt,Fashion,Navi Mumbai,2025-10-08,103,8,159,900,TechSource,40
+P011,Pen Set,Stationery,Borivali,2025-10-08,279,15,317,180,Urban Traders,58
+P004,Keyboard,Electronics,Mumbai Central,2025-10-08,226,116,229,1200,Metro Wholesale,78
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-10-08,175,150,2,5500,Urban Traders,61
+P017,Coffee Maker,Appliances,Andheri,2025-10-09,256,91,254,5500,Urban Traders,43
+P004,Keyboard,Electronics,Mumbai Central,2025-10-09,241,24,237,1200,Urban Traders,93
+P013,Water Bottle,Accessories,Borivali,2025-10-09,181,174,46,600,TechSource,36
+P013,Water Bottle,Accessories,Andheri,2025-10-09,78,103,72,600,Global Supplies,52
+P015,T-Shirt,Fashion,Navi Mumbai,2025-10-09,78,86,33,900,Metro Wholesale,87
+P013,Water Bottle,Accessories,Mumbai Central,2025-10-09,44,64,304,600,Prime Distributors,52
+P001,Laptop,Electronics,Andheri,2025-10-09,81,53,298,42000,Urban Traders,76
+P007,Office Chair,Furniture,Andheri,2025-10-10,158,113,79,8500,Urban Traders,31
+P002,Smartphone,Electronics,Thane,2025-10-10,133,58,181,22000,Prime Distributors,36
+P004,Keyboard,Electronics,Andheri,2025-10-10,68,58,90,1200,Global Supplies,52
+P013,Water Bottle,Accessories,Andheri,2025-10-10,61,48,96,600,Metro Wholesale,49
+P018,Mixer Grinder,Appliances,Andheri,2025-10-10,139,11,193,4200,Prime Distributors,39
+P004,Keyboard,Electronics,Navi Mumbai,2025-10-10,204,130,1,1200,TechSource,81
+P013,Water Bottle,Accessories,Navi Mumbai,2025-10-10,80,21,133,600,TechSource,65
+P006,Monitor,Electronics,Borivali,2025-10-11,126,105,97,12500,Prime Distributors,91
+P011,Pen Set,Stationery,Mumbai Central,2025-10-11,287,40,260,180,Metro Wholesale,55
+P013,Water Bottle,Accessories,Mumbai Central,2025-10-12,270,29,262,600,TechSource,50
+P001,Laptop,Electronics,Borivali,2025-10-12,23,93,0,42000,Urban Traders,53
+P008,Desk,Furniture,Borivali,2025-10-12,41,119,13,12000,Urban Traders,75
+P012,Backpack,Accessories,Andheri,2025-10-12,112,175,36,1600,TechSource,63
+P014,Shoes,Fashion,Thane,2025-10-12,288,121,237,3200,Global Supplies,98
+P014,Shoes,Fashion,Mumbai Central,2025-10-12,155,104,75,3200,Global Supplies,78
+P007,Office Chair,Furniture,Borivali,2025-10-12,194,99,109,8500,Global Supplies,67
+P009,Bookshelf,Furniture,Mumbai Central,2025-10-12,269,120,229,6500,Metro Wholesale,28
+P010,Notebook,Stationery,Mumbai Central,2025-10-12,241,11,248,120,Metro Wholesale,59
+P008,Desk,Furniture,Navi Mumbai,2025-10-13,192,123,111,12000,Urban Traders,75
+P007,Office Chair,Furniture,Thane,2025-10-13,294,146,206,8500,Prime Distributors,82
+P017,Coffee Maker,Appliances,Andheri,2025-10-13,65,113,568,5500,Metro Wholesale,43
+P015,T-Shirt,Fashion,Navi Mumbai,2025-10-13,238,164,189,900,Metro Wholesale,53
+P005,Mouse,Electronics,Mumbai Central,2025-10-14,65,73,59,700,Urban Traders,96
+P017,Coffee Maker,Appliances,Mumbai Central,2025-10-14,79,19,140,5500,TechSource,42
+P001,Laptop,Electronics,Mumbai Central,2025-10-14,171,85,194,42000,TechSource,39
+P016,Jeans,Fashion,Navi Mumbai,2025-10-14,288,49,290,1800,Metro Wholesale,56
+P020,Bluetooth Speaker,Electronics,Borivali,2025-10-14,98,33,83,2600,Prime Distributors,27
+P004,Keyboard,Electronics,Andheri,2025-10-15,33,8,83,1200,Prime Distributors,70
+P012,Backpack,Accessories,Navi Mumbai,2025-10-15,254,166,103,1600,Urban Traders,43
+P012,Backpack,Accessories,Borivali,2025-10-15,193,81,148,1600,TechSource,47
+P008,Desk,Furniture,Andheri,2025-10-15,125,65,77,12000,TechSource,31
+P008,Desk,Furniture,Andheri,2025-10-15,203,47,179,12000,Metro Wholesale,69
+P014,Shoes,Fashion,Andheri,2025-10-15,254,72,268,3200,Global Supplies,67
+P008,Desk,Furniture,Andheri,2025-10-15,87,61,55,12000,Global Supplies,42
+P007,Office Chair,Furniture,Borivali,2025-10-16,158,133,120,8500,Prime Distributors,57
+P008,Desk,Furniture,Thane,2025-10-16,205,26,297,12000,Global Supplies,83
+P008,Desk,Furniture,Andheri,2025-10-16,63,90,31,12000,Prime Distributors,90
+P006,Monitor,Electronics,Borivali,2025-10-16,261,75,444,12500,Urban Traders,85
+P012,Backpack,Accessories,Borivali,2025-10-16,127,98,109,1600,Urban Traders,68
+P009,Bookshelf,Furniture,Mumbai Central,2025-10-16,226,62,183,6500,Prime Distributors,61
+P007,Office Chair,Furniture,Thane,2025-10-17,251,124,167,8500,Urban Traders,88
+P010,Notebook,Stationery,Andheri,2025-10-17,202,57,212,120,TechSource,29
+P006,Monitor,Electronics,Andheri,2025-10-17,126,127,89,12500,TechSource,77
+P014,Shoes,Fashion,Andheri,2025-10-17,170,134,125,3200,Urban Traders,44
+P011,Pen Set,Stationery,Andheri,2025-10-17,260,91,180,180,Global Supplies,78
+P006,Monitor,Electronics,Borivali,2025-10-17,265,26,305,12500,Metro Wholesale,96
+P020,Bluetooth Speaker,Electronics,Thane,2025-10-18,250,117,15,2600,Metro Wholesale,70
+P003,Headphones,Electronics,Thane,2025-10-18,64,64,73,1800,Global Supplies,25
+P011,Pen Set,Stationery,Andheri,2025-10-18,68,88,48,180,Urban Traders,38
+P010,Notebook,Stationery,Thane,2025-10-19,102,24,101,120,TechSource,72
+P011,Pen Set,Stationery,Andheri,2025-10-19,174,112,132,180,TechSource,76
+P009,Bookshelf,Furniture,Thane,2025-10-19,81,135,0,6500,TechSource,60
+P013,Water Bottle,Accessories,Andheri,2025-10-19,54,115,0,600,Metro Wholesale,64
+P015,T-Shirt,Fashion,Andheri,2025-10-19,86,97,81,900,Prime Distributors,35
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-10-20,35,70,560,5500,Prime Distributors,39
+P017,Coffee Maker,Appliances,Borivali,2025-10-20,172,90,124,5500,Urban Traders,53
+P019,Air Fryer,Appliances,Navi Mumbai,2025-10-20,279,126,265,7500,Prime Distributors,73
+P004,Keyboard,Electronics,Mumbai Central,2025-10-20,156,112,151,1200,Prime Distributors,83
+P013,Water Bottle,Accessories,Borivali,2025-10-21,122,34,206,600,TechSource,98
+P012,Backpack,Accessories,Mumbai Central,2025-10-21,261,89,273,1600,Prime Distributors,83
+P019,Air Fryer,Appliances,Borivali,2025-10-21,68,83,13,7500,Prime Distributors,69
+P003,Headphones,Electronics,Mumbai Central,2025-10-21,171,44,172,1800,Global Supplies,34
+P005,Mouse,Electronics,Andheri,2025-10-21,269,33,259,700,Global Supplies,68
+P011,Pen Set,Stationery,Andheri,2025-10-21,294,12,341,180,Global Supplies,83
+P013,Water Bottle,Accessories,Andheri,2025-10-22,289,123,181,600,TechSource,94
+P012,Backpack,Accessories,Navi Mumbai,2025-10-22,134,68,145,1600,TechSource,67
+P010,Notebook,Stationery,Mumbai Central,2025-10-22,94,85,84,120,Metro Wholesale,36
+P005,Mouse,Electronics,Mumbai Central,2025-10-22,190,175,73,700,Urban Traders,44
+P019,Air Fryer,Appliances,Andheri,2025-10-22,167,109,170,7500,Prime Distributors,49
+P007,Office Chair,Furniture,Navi Mumbai,2025-10-22,149,62,188,8500,Global Supplies,33
+P006,Monitor,Electronics,Borivali,2025-10-23,222,177,137,12500,Prime Distributors,85
+P011,Pen Set,Stationery,Navi Mumbai,2025-10-23,132,35,118,180,TechSource,75
+P020,Bluetooth Speaker,Electronics,Borivali,2025-10-23,100,164,0,2600,Urban Traders,90
+P003,Headphones,Electronics,Mumbai Central,2025-10-23,194,49,169,1800,Urban Traders,97
+P019,Air Fryer,Appliances,Andheri,2025-10-23,194,159,128,7500,Prime Distributors,28
+P001,Laptop,Electronics,Borivali,2025-10-24,175,80,158,42000,TechSource,86
+P001,Laptop,Electronics,Navi Mumbai,2025-10-24,300,130,193,42000,Global Supplies,49
+P005,Mouse,Electronics,Thane,2025-10-25,51,75,59,700,Global Supplies,87
+P001,Laptop,Electronics,Navi Mumbai,2025-10-25,184,26,242,42000,Global Supplies,86
+P012,Backpack,Accessories,Navi Mumbai,2025-10-25,169,141,85,1600,TechSource,78
+P006,Monitor,Electronics,Mumbai Central,2025-10-25,181,43,175,12500,Urban Traders,37
+P006,Monitor,Electronics,Andheri,2025-10-25,41,59,57,12500,Global Supplies,75
+P009,Bookshelf,Furniture,Navi Mumbai,2025-10-25,57,114,590,6500,Global Supplies,33
+P011,Pen Set,Stationery,Navi Mumbai,2025-10-26,29,81,0,180,Metro Wholesale,31
+P009,Bookshelf,Furniture,Borivali,2025-10-26,75,70,16,6500,Global Supplies,72
+P010,Notebook,Stationery,Navi Mumbai,2025-10-26,203,34,282,120,TechSource,49
+P020,Bluetooth Speaker,Electronics,Thane,2025-10-27,43,50,53,2600,Urban Traders,34
+P019,Air Fryer,Appliances,Borivali,2025-10-27,137,65,90,7500,Global Supplies,51
+P011,Pen Set,Stationery,Navi Mumbai,2025-10-27,296,22,319,180,Urban Traders,42
+P007,Office Chair,Furniture,Borivali,2025-10-28,261,75,232,8500,Prime Distributors,70
+P019,Air Fryer,Appliances,Andheri,2025-10-28,35,19,56,7500,TechSource,45
+P013,Water Bottle,Accessories,Andheri,2025-10-28,273,44,328,600,Urban Traders,31
+P020,Bluetooth Speaker,Electronics,Andheri,2025-10-28,193,64,184,2600,TechSource,41
+P014,Shoes,Fashion,Mumbai Central,2025-10-28,76,113,60,3200,Urban Traders,39
+P016,Jeans,Fashion,Andheri,2025-10-28,232,113,216,1800,Urban Traders,90
+P016,Jeans,Fashion,Mumbai Central,2025-10-28,234,109,217,1800,Prime Distributors,85
+P020,Bluetooth Speaker,Electronics,Thane,2025-10-28,232,5,251,2600,Global Supplies,82
+P012,Backpack,Accessories,Navi Mumbai,2025-10-28,157,5,246,1600,Prime Distributors,42
+P017,Coffee Maker,Appliances,Borivali,2025-10-29,223,83,171,5500,Prime Distributors,80
+P013,Water Bottle,Accessories,Mumbai Central,2025-10-29,279,54,264,600,Metro Wholesale,71
+P016,Jeans,Fashion,Thane,2025-10-29,26,66,6,1800,Global Supplies,70
+P014,Shoes,Fashion,Andheri,2025-10-29,24,73,19,3200,Urban Traders,53
+P011,Pen Set,Stationery,Thane,2025-10-29,76,111,19,180,Urban Traders,87
+P005,Mouse,Electronics,Borivali,2025-10-29,153,127,66,700,Metro Wholesale,41
+P015,T-Shirt,Fashion,Borivali,2025-10-29,71,26,142,900,Prime Distributors,94
+P005,Mouse,Electronics,Thane,2025-10-29,281,79,299,700,Metro Wholesale,39
+P011,Pen Set,Stationery,Navi Mumbai,2025-10-29,299,138,226,180,Global Supplies,86
+P014,Shoes,Fashion,Thane,2025-10-29,229,98,187,3200,Prime Distributors,53
+P003,Headphones,Electronics,Navi Mumbai,2025-10-29,211,9,232,1800,Urban Traders,76
+P017,Coffee Maker,Appliances,Mumbai Central,2025-10-29,297,96,298,5500,Prime Distributors,69
+P008,Desk,Furniture,Mumbai Central,2025-10-30,123,57,88,12000,Urban Traders,64
+P012,Backpack,Accessories,Andheri,2025-10-30,296,26,338,1600,Metro Wholesale,91
+P014,Shoes,Fashion,Mumbai Central,2025-10-30,258,84,274,3200,Metro Wholesale,27
+P009,Bookshelf,Furniture,Borivali,2025-10-31,236,129,195,6500,Urban Traders,77
+P017,Coffee Maker,Appliances,Borivali,2025-10-31,29,97,0,5500,Metro Wholesale,57
+P005,Mouse,Electronics,Andheri,2025-10-31,147,144,71,700,Global Supplies,56
+P016,Jeans,Fashion,Mumbai Central,2025-10-31,152,54,183,1800,Urban Traders,32
+P008,Desk,Furniture,Navi Mumbai,2025-10-31,143,156,57,12000,Prime Distributors,64
+P010,Notebook,Stationery,Mumbai Central,2025-10-31,283,34,340,120,Global Supplies,81
+P010,Notebook,Stationery,Andheri,2025-10-31,264,73,257,120,TechSource,80
+P011,Pen Set,Stationery,Mumbai Central,2025-11-01,258,133,223,180,Global Supplies,95
+P002,Smartphone,Electronics,Mumbai Central,2025-11-01,139,54,172,22000,Urban Traders,77
+P002,Smartphone,Electronics,Navi Mumbai,2025-11-01,239,104,187,22000,Urban Traders,47
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-11-01,119,138,87,2600,Prime Distributors,54
+P009,Bookshelf,Furniture,Andheri,2025-11-01,285,88,249,6500,Global Supplies,79
+P016,Jeans,Fashion,Thane,2025-11-01,270,156,156,1800,Metro Wholesale,74
+P019,Air Fryer,Appliances,Mumbai Central,2025-11-01,287,69,293,7500,Prime Distributors,69
+P005,Mouse,Electronics,Navi Mumbai,2025-11-02,194,20,239,700,Urban Traders,69
+P015,T-Shirt,Fashion,Andheri,2025-11-02,173,123,135,900,Prime Distributors,95
+P006,Monitor,Electronics,Andheri,2025-11-03,173,85,132,12500,Urban Traders,76
+P017,Coffee Maker,Appliances,Thane,2025-11-03,101,22,178,5500,TechSource,40
+P015,T-Shirt,Fashion,Navi Mumbai,2025-11-03,181,118,394,900,Urban Traders,97
+P003,Headphones,Electronics,Mumbai Central,2025-11-03,277,63,313,1800,Prime Distributors,42
+P006,Monitor,Electronics,Andheri,2025-11-03,109,136,78,12500,TechSource,62
+P016,Jeans,Fashion,Andheri,2025-11-03,106,81,58,1800,Global Supplies,68
+P019,Air Fryer,Appliances,Thane,2025-11-03,207,22,256,7500,TechSource,35
+P010,Notebook,Stationery,Borivali,2025-11-03,265,150,156,120,Global Supplies,52
+P015,T-Shirt,Fashion,Andheri,2025-11-03,49,106,0,900,Global Supplies,30
+P005,Mouse,Electronics,Andheri,2025-11-03,134,75,110,700,Urban Traders,39
+P006,Monitor,Electronics,Mumbai Central,2025-11-04,131,94,120,12500,Urban Traders,38
+P020,Bluetooth Speaker,Electronics,Andheri,2025-11-04,80,90,72,2600,TechSource,93
+P009,Bookshelf,Furniture,Navi Mumbai,2025-11-04,271,23,322,6500,Global Supplies,65
+P019,Air Fryer,Appliances,Andheri,2025-11-04,196,82,151,7500,Urban Traders,41
+P015,T-Shirt,Fashion,Andheri,2025-11-04,130,146,68,900,Urban Traders,98
+P019,Air Fryer,Appliances,Navi Mumbai,2025-11-04,244,131,136,7500,Prime Distributors,41
+P013,Water Bottle,Accessories,Thane,2025-11-05,108,149,0,600,TechSource,92
+P012,Backpack,Accessories,Navi Mumbai,2025-11-05,78,97,43,1600,Prime Distributors,34
+P001,Laptop,Electronics,Andheri,2025-11-05,235,126,174,42000,Global Supplies,43
+P008,Desk,Furniture,Andheri,2025-11-05,293,150,185,12000,Urban Traders,25
+P002,Smartphone,Electronics,Navi Mumbai,2025-11-05,112,26,8,22000,Urban Traders,26
+P007,Office Chair,Furniture,Thane,2025-11-06,33,55,21,8500,TechSource,80
+P004,Keyboard,Electronics,Mumbai Central,2025-11-06,197,75,201,1200,TechSource,49
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-11-06,113,75,129,5500,Prime Distributors,39
+P001,Laptop,Electronics,Andheri,2025-11-07,126,129,47,42000,Metro Wholesale,28
+P004,Keyboard,Electronics,Navi Mumbai,2025-11-07,235,75,221,1200,TechSource,72
+P015,T-Shirt,Fashion,Mumbai Central,2025-11-07,76,110,11,900,Global Supplies,75
+P008,Desk,Furniture,Thane,2025-11-07,192,30,247,12000,Global Supplies,100
+P002,Smartphone,Electronics,Thane,2025-11-07,27,52,0,22000,Urban Traders,47
+P003,Headphones,Electronics,Navi Mumbai,2025-11-08,33,69,20,1800,Metro Wholesale,63
+P002,Smartphone,Electronics,Mumbai Central,2025-11-08,44,42,82,22000,Global Supplies,37
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-11-08,97,116,64,4200,TechSource,98
+P008,Desk,Furniture,Borivali,2025-11-08,300,121,274,12000,Prime Distributors,66
+P003,Headphones,Electronics,Thane,2025-11-08,239,142,163,1800,TechSource,42
+P019,Air Fryer,Appliances,Borivali,2025-11-09,112,60,73,7500,Metro Wholesale,48
+P011,Pen Set,Stationery,Borivali,2025-11-09,135,58,296,180,Prime Distributors,98
+P017,Coffee Maker,Appliances,Thane,2025-11-09,80,132,15,5500,Global Supplies,60
+P010,Notebook,Stationery,Andheri,2025-11-09,24,79,61,120,Urban Traders,89
+P005,Mouse,Electronics,Navi Mumbai,2025-11-09,283,93,501,700,Urban Traders,95
+P017,Coffee Maker,Appliances,Andheri,2025-11-09,36,36,1,5500,Metro Wholesale,51
+P017,Coffee Maker,Appliances,Mumbai Central,2025-11-10,42,95,352,5500,Urban Traders,72
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-11-10,229,72,181,2600,Urban Traders,29
+P005,Mouse,Electronics,Thane,2025-11-10,203,112,209,700,Prime Distributors,44
+P002,Smartphone,Electronics,Mumbai Central,2025-11-10,186,84,212,22000,Prime Distributors,33
+P020,Bluetooth Speaker,Electronics,Borivali,2025-11-11,36,88,25,2600,Urban Traders,70
+P016,Jeans,Fashion,Borivali,2025-11-11,157,133,138,1800,Metro Wholesale,55
+P007,Office Chair,Furniture,Navi Mumbai,2025-11-11,232,48,241,8500,Metro Wholesale,38
+P001,Laptop,Electronics,Mumbai Central,2025-11-12,171,135,348,42000,TechSource,81
+P003,Headphones,Electronics,Thane,2025-11-12,166,153,595,1800,Global Supplies,59
+P008,Desk,Furniture,Navi Mumbai,2025-11-12,223,33,278,12000,Urban Traders,63
+P001,Laptop,Electronics,Andheri,2025-11-12,214,24,6,42000,Urban Traders,71
+P009,Bookshelf,Furniture,Mumbai Central,2025-11-12,36,67,589,6500,Metro Wholesale,76
+P001,Laptop,Electronics,Navi Mumbai,2025-11-12,251,25,307,42000,Metro Wholesale,80
+P010,Notebook,Stationery,Navi Mumbai,2025-11-13,154,148,115,120,Prime Distributors,26
+P016,Jeans,Fashion,Mumbai Central,2025-11-13,41,58,6,1800,TechSource,94
+P015,T-Shirt,Fashion,Thane,2025-11-13,296,150,224,900,Global Supplies,92
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-11-13,208,10,237,4200,TechSource,83
+P017,Coffee Maker,Appliances,Borivali,2025-11-14,271,5,336,5500,TechSource,68
+P020,Bluetooth Speaker,Electronics,Thane,2025-11-14,92,163,0,2600,TechSource,58
+P013,Water Bottle,Accessories,Navi Mumbai,2025-11-14,34,67,41,600,Global Supplies,91
+P007,Office Chair,Furniture,Navi Mumbai,2025-11-14,80,74,84,8500,Global Supplies,29
+P002,Smartphone,Electronics,Navi Mumbai,2025-11-14,294,80,318,22000,TechSource,86
+P009,Bookshelf,Furniture,Andheri,2025-11-14,81,119,35,6500,Metro Wholesale,81
+P011,Pen Set,Stationery,Thane,2025-11-15,66,64,111,180,Global Supplies,37
+P002,Smartphone,Electronics,Thane,2025-11-15,67,22,84,22000,TechSource,32
+P008,Desk,Furniture,Thane,2025-11-15,143,93,298,12000,Metro Wholesale,36
+P020,Bluetooth Speaker,Electronics,Thane,2025-11-15,152,85,80,2600,Prime Distributors,92
+P001,Laptop,Electronics,Andheri,2025-11-15,39,84,0,42000,Urban Traders,90
+P014,Shoes,Fashion,Borivali,2025-11-15,294,20,341,3200,Global Supplies,83
+P014,Shoes,Fashion,Thane,2025-11-15,179,42,253,3200,Global Supplies,63
+P010,Notebook,Stationery,Andheri,2025-11-16,83,58,39,120,Prime Distributors,83
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-11-16,288,18,365,5500,Prime Distributors,50
+P004,Keyboard,Electronics,Mumbai Central,2025-11-16,93,105,23,1200,Metro Wholesale,30
+P005,Mouse,Electronics,Andheri,2025-11-16,252,152,121,700,TechSource,66
+P007,Office Chair,Furniture,Andheri,2025-11-16,40,84,392,8500,Metro Wholesale,36
+P001,Laptop,Electronics,Navi Mumbai,2025-11-16,233,138,169,42000,TechSource,36
+P010,Notebook,Stationery,Mumbai Central,2025-11-16,228,5,309,120,Global Supplies,94
+P008,Desk,Furniture,Navi Mumbai,2025-11-17,25,86,10,12000,Metro Wholesale,49
+P019,Air Fryer,Appliances,Mumbai Central,2025-11-17,47,115,34,7500,Prime Distributors,75
+P019,Air Fryer,Appliances,Mumbai Central,2025-11-17,113,54,148,7500,TechSource,48
+P015,T-Shirt,Fashion,Navi Mumbai,2025-11-17,169,46,190,900,Urban Traders,95
+P002,Smartphone,Electronics,Navi Mumbai,2025-11-17,285,106,277,22000,Global Supplies,66
+P005,Mouse,Electronics,Thane,2025-11-17,144,17,184,700,Prime Distributors,76
+P001,Laptop,Electronics,Andheri,2025-11-17,252,61,272,42000,Urban Traders,64
+P011,Pen Set,Stationery,Andheri,2025-11-17,160,68,133,180,Metro Wholesale,34
+P013,Water Bottle,Accessories,Borivali,2025-11-18,260,130,166,600,TechSource,95
+P010,Notebook,Stationery,Andheri,2025-11-18,204,69,236,120,Urban Traders,52
+P012,Backpack,Accessories,Navi Mumbai,2025-11-18,263,131,189,1600,Global Supplies,63
+P020,Bluetooth Speaker,Electronics,Thane,2025-11-18,84,18,92,2600,Global Supplies,60
+P012,Backpack,Accessories,Andheri,2025-11-19,259,99,407,1600,Prime Distributors,66
+P001,Laptop,Electronics,Thane,2025-11-19,222,83,165,42000,Global Supplies,27
+P017,Coffee Maker,Appliances,Mumbai Central,2025-11-19,145,134,74,5500,Urban Traders,74
+P002,Smartphone,Electronics,Borivali,2025-11-19,31,27,119,22000,TechSource,47
+P001,Laptop,Electronics,Navi Mumbai,2025-11-20,90,64,116,42000,Metro Wholesale,72
+P009,Bookshelf,Furniture,Borivali,2025-11-20,220,18,283,6500,Global Supplies,53
+P011,Pen Set,Stationery,Navi Mumbai,2025-11-20,27,90,24,180,Urban Traders,86
+P008,Desk,Furniture,Mumbai Central,2025-11-20,119,103,100,12000,Global Supplies,78
+P004,Keyboard,Electronics,Borivali,2025-11-20,85,120,75,1200,Prime Distributors,79
+P011,Pen Set,Stationery,Andheri,2025-11-21,249,19,266,180,Prime Distributors,27
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-11-21,135,175,50,4200,Global Supplies,65
+P019,Air Fryer,Appliances,Mumbai Central,2025-11-21,299,91,229,7500,Prime Distributors,53
+P002,Smartphone,Electronics,Mumbai Central,2025-11-21,128,43,118,22000,Urban Traders,35
+P007,Office Chair,Furniture,Navi Mumbai,2025-11-21,57,73,10,8500,Urban Traders,56
+P008,Desk,Furniture,Navi Mumbai,2025-11-22,70,95,78,12000,Prime Distributors,85
+P017,Coffee Maker,Appliances,Andheri,2025-11-22,97,97,91,5500,Prime Distributors,66
+P015,T-Shirt,Fashion,Navi Mumbai,2025-11-22,169,150,99,900,TechSource,60
+P008,Desk,Furniture,Thane,2025-11-23,136,23,211,12000,Metro Wholesale,30
+P020,Bluetooth Speaker,Electronics,Borivali,2025-11-23,232,5,278,2600,TechSource,90
+P015,T-Shirt,Fashion,Navi Mumbai,2025-11-23,152,39,165,900,Metro Wholesale,100
+P005,Mouse,Electronics,Navi Mumbai,2025-11-23,259,48,230,700,Global Supplies,54
+P015,T-Shirt,Fashion,Navi Mumbai,2025-11-24,80,47,54,900,Metro Wholesale,55
+P012,Backpack,Accessories,Thane,2025-11-24,163,93,105,1600,Global Supplies,39
+P002,Smartphone,Electronics,Thane,2025-11-24,32,75,54,22000,TechSource,96
+P014,Shoes,Fashion,Mumbai Central,2025-11-24,106,165,1,3200,Prime Distributors,71
+P014,Shoes,Fashion,Navi Mumbai,2025-11-24,78,98,94,3200,Urban Traders,77
+P013,Water Bottle,Accessories,Mumbai Central,2025-11-25,36,45,69,600,Urban Traders,51
+P013,Water Bottle,Accessories,Navi Mumbai,2025-11-25,267,64,244,600,TechSource,61
+P006,Monitor,Electronics,Mumbai Central,2025-11-25,23,73,0,12500,Prime Distributors,37
+P008,Desk,Furniture,Navi Mumbai,2025-11-25,184,105,115,12000,Metro Wholesale,77
+P002,Smartphone,Electronics,Andheri,2025-11-25,56,74,25,22000,TechSource,47
+P019,Air Fryer,Appliances,Navi Mumbai,2025-11-26,60,111,20,7500,Urban Traders,76
+P017,Coffee Maker,Appliances,Thane,2025-11-26,268,177,104,5500,Metro Wholesale,68
+P019,Air Fryer,Appliances,Borivali,2025-11-26,48,68,1,7500,Urban Traders,83
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-11-26,92,114,13,4200,Prime Distributors,47
+P007,Office Chair,Furniture,Andheri,2025-11-26,23,68,70,8500,TechSource,45
+P015,T-Shirt,Fashion,Navi Mumbai,2025-11-26,282,44,260,900,TechSource,84
+P012,Backpack,Accessories,Navi Mumbai,2025-11-26,244,20,339,1600,Global Supplies,83
+P017,Coffee Maker,Appliances,Borivali,2025-11-26,252,158,126,5500,Metro Wholesale,97
+P019,Air Fryer,Appliances,Navi Mumbai,2025-11-27,127,172,54,7500,Prime Distributors,48
+P004,Keyboard,Electronics,Navi Mumbai,2025-11-27,106,104,77,1200,Prime Distributors,36
+P004,Keyboard,Electronics,Thane,2025-11-27,157,116,62,1200,Metro Wholesale,75
+P009,Bookshelf,Furniture,Thane,2025-11-27,158,160,74,6500,Global Supplies,86
+P006,Monitor,Electronics,Thane,2025-11-27,88,110,0,12500,Global Supplies,88
+P020,Bluetooth Speaker,Electronics,Thane,2025-11-27,180,146,113,2600,Prime Distributors,67
+P008,Desk,Furniture,Navi Mumbai,2025-11-27,179,120,175,12000,Prime Distributors,67
+P002,Smartphone,Electronics,Navi Mumbai,2025-11-28,77,118,22,22000,Urban Traders,43
+P018,Mixer Grinder,Appliances,Andheri,2025-11-28,240,153,107,4200,TechSource,66
+P013,Water Bottle,Accessories,Borivali,2025-11-28,155,13,217,600,Global Supplies,68
+P012,Backpack,Accessories,Navi Mumbai,2025-11-28,105,98,40,1600,Metro Wholesale,45
+P007,Office Chair,Furniture,Thane,2025-11-28,85,120,13,8500,Metro Wholesale,70
+P015,T-Shirt,Fashion,Mumbai Central,2025-11-28,239,101,323,900,Metro Wholesale,93
+P008,Desk,Furniture,Navi Mumbai,2025-11-29,54,18,5,12000,TechSource,44
+P015,T-Shirt,Fashion,Andheri,2025-11-29,274,40,352,900,Urban Traders,40
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-11-29,25,67,35,2600,Metro Wholesale,94
+P004,Keyboard,Electronics,Mumbai Central,2025-11-29,140,83,101,1200,Urban Traders,27
+P001,Laptop,Electronics,Borivali,2025-11-29,166,110,71,42000,Global Supplies,55
+P009,Bookshelf,Furniture,Mumbai Central,2025-11-29,44,24,84,6500,Global Supplies,48
+P007,Office Chair,Furniture,Navi Mumbai,2025-11-29,84,50,113,8500,Prime Distributors,64
+P005,Mouse,Electronics,Navi Mumbai,2025-11-30,222,35,217,700,TechSource,63
+P009,Bookshelf,Furniture,Mumbai Central,2025-11-30,288,103,289,6500,Global Supplies,91
+P001,Laptop,Electronics,Borivali,2025-11-30,63,138,0,42000,Global Supplies,35
+P009,Bookshelf,Furniture,Navi Mumbai,2025-11-30,36,76,0,6500,Urban Traders,77
+P007,Office Chair,Furniture,Borivali,2025-12-01,281,98,203,8500,Global Supplies,78
+P003,Headphones,Electronics,Mumbai Central,2025-12-01,291,152,205,1800,Global Supplies,39
+P001,Laptop,Electronics,Andheri,2025-12-01,149,142,35,42000,Global Supplies,85
+P006,Monitor,Electronics,Mumbai Central,2025-12-01,112,110,88,12500,Urban Traders,98
+P005,Mouse,Electronics,Navi Mumbai,2025-12-01,129,79,101,700,TechSource,77
+P019,Air Fryer,Appliances,Navi Mumbai,2025-12-01,161,116,109,7500,TechSource,34
+P010,Notebook,Stationery,Andheri,2025-12-01,286,88,262,120,Global Supplies,96
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-12-01,44,49,7,4200,Urban Traders,98
+P007,Office Chair,Furniture,Thane,2025-12-01,69,91,9,8500,Metro Wholesale,51
+P017,Coffee Maker,Appliances,Andheri,2025-12-01,239,100,167,5500,Metro Wholesale,85
+P006,Monitor,Electronics,Navi Mumbai,2025-12-02,287,86,247,12500,Prime Distributors,74
+P018,Mixer Grinder,Appliances,Andheri,2025-12-02,292,8,331,4200,TechSource,51
+P008,Desk,Furniture,Thane,2025-12-02,47,21,115,12000,Urban Traders,49
+P014,Shoes,Fashion,Andheri,2025-12-02,272,162,207,3200,TechSource,100
+P017,Coffee Maker,Appliances,Andheri,2025-12-02,192,52,175,5500,Urban Traders,48
+P012,Backpack,Accessories,Thane,2025-12-02,29,42,35,1600,Global Supplies,63
+P009,Bookshelf,Furniture,Thane,2025-12-03,291,68,281,6500,Urban Traders,97
+P011,Pen Set,Stationery,Borivali,2025-12-03,121,157,0,180,Urban Traders,96
+P015,T-Shirt,Fashion,Borivali,2025-12-03,140,142,73,900,Metro Wholesale,98
+P012,Backpack,Accessories,Andheri,2025-12-03,131,85,83,1600,Global Supplies,39
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-12-03,147,94,163,4200,Metro Wholesale,73
+P016,Jeans,Fashion,Mumbai Central,2025-12-03,145,34,144,1800,Prime Distributors,51
+P004,Keyboard,Electronics,Andheri,2025-12-03,271,159,158,1200,Urban Traders,83
+P009,Bookshelf,Furniture,Andheri,2025-12-03,185,169,116,6500,Metro Wholesale,34
+P003,Headphones,Electronics,Borivali,2025-12-04,39,92,5,1800,Urban Traders,54
+P001,Laptop,Electronics,Thane,2025-12-04,89,99,44,42000,TechSource,66
+P002,Smartphone,Electronics,Borivali,2025-12-04,126,15,222,22000,Metro Wholesale,81
+P015,T-Shirt,Fashion,Mumbai Central,2025-12-04,98,106,22,900,Global Supplies,100
+P009,Bookshelf,Furniture,Andheri,2025-12-04,249,79,274,6500,Urban Traders,43
+P012,Backpack,Accessories,Andheri,2025-12-04,239,59,237,1600,Metro Wholesale,88
+P012,Backpack,Accessories,Thane,2025-12-04,171,13,237,1600,Prime Distributors,86
+P003,Headphones,Electronics,Andheri,2025-12-04,194,115,97,1800,Global Supplies,75
+P002,Smartphone,Electronics,Mumbai Central,2025-12-04,32,42,29,22000,Urban Traders,48
+P010,Notebook,Stationery,Andheri,2025-12-05,102,91,72,120,Metro Wholesale,96
+P012,Backpack,Accessories,Thane,2025-12-05,166,103,165,1600,Prime Distributors,30
+P012,Backpack,Accessories,Thane,2025-12-05,249,134,222,1600,Global Supplies,49
+P004,Keyboard,Electronics,Borivali,2025-12-05,287,16,295,1200,Metro Wholesale,95
+P005,Mouse,Electronics,Navi Mumbai,2025-12-06,78,141,0,700,Global Supplies,87
+P014,Shoes,Fashion,Borivali,2025-12-06,237,122,208,3200,Urban Traders,64
+P006,Monitor,Electronics,Thane,2025-12-06,191,109,118,12500,Global Supplies,46
+P002,Smartphone,Electronics,Navi Mumbai,2025-12-06,121,52,95,22000,Global Supplies,49
+P014,Shoes,Fashion,Andheri,2025-12-06,29,60,0,3200,TechSource,79
+P014,Shoes,Fashion,Borivali,2025-12-07,46,74,49,3200,TechSource,92
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-12-07,58,80,33,5500,Metro Wholesale,28
+P012,Backpack,Accessories,Borivali,2025-12-07,33,77,75,1600,Urban Traders,64
+P007,Office Chair,Furniture,Navi Mumbai,2025-12-07,264,122,181,8500,Prime Distributors,53
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-12-07,98,75,54,4200,Urban Traders,91
+P006,Monitor,Electronics,Andheri,2025-12-07,202,86,144,12500,TechSource,63
+P010,Notebook,Stationery,Borivali,2025-12-07,246,29,331,120,TechSource,87
+P020,Bluetooth Speaker,Electronics,Thane,2025-12-08,33,72,0,2600,Prime Distributors,58
+P007,Office Chair,Furniture,Andheri,2025-12-08,82,10,144,8500,TechSource,42
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-12-08,296,170,178,2600,TechSource,86
+P012,Backpack,Accessories,Borivali,2025-12-08,87,57,123,1600,Global Supplies,80
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-12-08,173,160,32,2600,Global Supplies,84
+P012,Backpack,Accessories,Andheri,2025-12-08,97,12,144,1600,TechSource,66
+P005,Mouse,Electronics,Mumbai Central,2025-12-08,82,97,18,700,TechSource,86
+P002,Smartphone,Electronics,Borivali,2025-12-08,125,97,99,22000,Global Supplies,86
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-12-09,141,12,158,4200,Metro Wholesale,30
+P020,Bluetooth Speaker,Electronics,Mumbai Central,2025-12-09,37,43,25,2600,Global Supplies,31
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-12-09,276,130,594,4200,TechSource,62
+P002,Smartphone,Electronics,Mumbai Central,2025-12-09,221,119,154,22000,TechSource,86
+P019,Air Fryer,Appliances,Andheri,2025-12-09,298,75,241,7500,Global Supplies,41
+P020,Bluetooth Speaker,Electronics,Borivali,2025-12-09,51,96,263,2600,Global Supplies,98
+P010,Notebook,Stationery,Andheri,2025-12-09,148,139,59,120,Prime Distributors,45
+P018,Mixer Grinder,Appliances,Navi Mumbai,2025-12-09,209,143,175,4200,Urban Traders,71
+P001,Laptop,Electronics,Navi Mumbai,2025-12-10,222,17,238,42000,TechSource,100
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-12-10,139,81,70,4200,Prime Distributors,78
+P012,Backpack,Accessories,Navi Mumbai,2025-12-10,151,7,199,1600,TechSource,33
+P003,Headphones,Electronics,Mumbai Central,2025-12-10,234,40,298,1800,Metro Wholesale,31
+P017,Coffee Maker,Appliances,Borivali,2025-12-11,137,82,157,5500,TechSource,33
+P004,Keyboard,Electronics,Thane,2025-12-11,283,120,213,1200,Urban Traders,92
+P014,Shoes,Fashion,Andheri,2025-12-11,265,76,285,3200,TechSource,76
+P002,Smartphone,Electronics,Andheri,2025-12-11,67,132,0,22000,Urban Traders,51
+P017,Coffee Maker,Appliances,Thane,2025-12-12,162,139,107,5500,Metro Wholesale,90
+P016,Jeans,Fashion,Mumbai Central,2025-12-12,190,61,175,1800,Metro Wholesale,39
+P002,Smartphone,Electronics,Andheri,2025-12-12,210,35,10,22000,Prime Distributors,62
+P013,Water Bottle,Accessories,Mumbai Central,2025-12-13,214,81,233,600,Metro Wholesale,52
+P016,Jeans,Fashion,Andheri,2025-12-13,83,59,51,1800,Prime Distributors,79
+P007,Office Chair,Furniture,Thane,2025-12-13,242,173,140,8500,Urban Traders,60
+P009,Bookshelf,Furniture,Thane,2025-12-13,117,10,139,6500,Global Supplies,33
+P010,Notebook,Stationery,Navi Mumbai,2025-12-13,206,112,133,120,TechSource,37
+P007,Office Chair,Furniture,Thane,2025-12-13,125,124,87,8500,Global Supplies,55
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-12-14,24,36,43,5500,Urban Traders,80
+P015,T-Shirt,Fashion,Thane,2025-12-14,292,98,270,900,Urban Traders,81
+P011,Pen Set,Stationery,Thane,2025-12-15,31,70,0,180,Urban Traders,73
+P002,Smartphone,Electronics,Andheri,2025-12-15,209,135,101,22000,Metro Wholesale,77
+P017,Coffee Maker,Appliances,Borivali,2025-12-15,212,16,208,5500,Urban Traders,87
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-12-15,264,179,194,4200,Prime Distributors,36
+P015,T-Shirt,Fashion,Borivali,2025-12-15,211,17,257,900,Global Supplies,52
+P007,Office Chair,Furniture,Navi Mumbai,2025-12-16,123,96,82,8500,Prime Distributors,55
+P019,Air Fryer,Appliances,Thane,2025-12-16,40,88,22,7500,Prime Distributors,76
+P001,Laptop,Electronics,Borivali,2025-12-16,74,15,144,42000,Prime Distributors,87
+P006,Monitor,Electronics,Borivali,2025-12-16,123,24,184,12500,Metro Wholesale,38
+P002,Smartphone,Electronics,Mumbai Central,2025-12-16,175,176,98,22000,TechSource,79
+P008,Desk,Furniture,Navi Mumbai,2025-12-17,233,49,279,12000,Prime Distributors,44
+P007,Office Chair,Furniture,Andheri,2025-12-17,213,160,132,8500,TechSource,71
+P007,Office Chair,Furniture,Mumbai Central,2025-12-17,122,140,69,8500,Metro Wholesale,46
+P013,Water Bottle,Accessories,Mumbai Central,2025-12-17,277,172,152,600,TechSource,68
+P013,Water Bottle,Accessories,Navi Mumbai,2025-12-17,233,147,97,600,Global Supplies,78
+P013,Water Bottle,Accessories,Thane,2025-12-17,135,62,143,600,Urban Traders,83
+P020,Bluetooth Speaker,Electronics,Borivali,2025-12-17,175,166,94,2600,Urban Traders,60
+P015,T-Shirt,Fashion,Thane,2025-12-17,62,78,0,900,Prime Distributors,92
+P014,Shoes,Fashion,Thane,2025-12-17,264,105,219,3200,Prime Distributors,65
+P009,Bookshelf,Furniture,Mumbai Central,2025-12-18,58,115,49,6500,Urban Traders,41
+P017,Coffee Maker,Appliances,Navi Mumbai,2025-12-18,68,30,112,5500,TechSource,90
+P007,Office Chair,Furniture,Andheri,2025-12-18,122,44,148,8500,Global Supplies,87
+P010,Notebook,Stationery,Thane,2025-12-18,82,46,50,120,Global Supplies,88
+P015,T-Shirt,Fashion,Thane,2025-12-18,226,79,239,900,Urban Traders,36
+P004,Keyboard,Electronics,Navi Mumbai,2025-12-18,35,56,0,1200,Urban Traders,62
+P012,Backpack,Accessories,Borivali,2025-12-18,26,27,98,1600,TechSource,32
+P007,Office Chair,Furniture,Mumbai Central,2025-12-18,242,135,166,8500,Urban Traders,31
+P003,Headphones,Electronics,Andheri,2025-12-18,118,41,168,1800,Urban Traders,72
+P020,Bluetooth Speaker,Electronics,Navi Mumbai,2025-12-18,233,66,492,2600,Global Supplies,78
+P012,Backpack,Accessories,Navi Mumbai,2025-12-19,70,103,0,1600,Metro Wholesale,48
+P004,Keyboard,Electronics,Andheri,2025-12-19,80,78,80,1200,Prime Distributors,84
+P017,Coffee Maker,Appliances,Thane,2025-12-19,65,76,78,5500,Prime Distributors,66
+P003,Headphones,Electronics,Borivali,2025-12-19,201,153,94,1800,Urban Traders,50
+P010,Notebook,Stationery,Navi Mumbai,2025-12-19,120,149,81,120,Urban Traders,96
+P011,Pen Set,Stationery,Navi Mumbai,2025-12-19,137,74,130,180,Urban Traders,28
+P003,Headphones,Electronics,Thane,2025-12-19,272,19,341,1800,Metro Wholesale,42
+P005,Mouse,Electronics,Mumbai Central,2025-12-19,39,90,68,700,Metro Wholesale,88
+P014,Shoes,Fashion,Navi Mumbai,2025-12-19,291,96,235,3200,Metro Wholesale,41
+P002,Smartphone,Electronics,Navi Mumbai,2025-12-19,116,165,2,22000,TechSource,26
+P012,Backpack,Accessories,Andheri,2025-12-19,39,58,60,1600,Urban Traders,52
+P005,Mouse,Electronics,Andheri,2025-12-19,182,60,187,700,TechSource,48
+P017,Coffee Maker,Appliances,Andheri,2025-12-20,146,30,207,5500,TechSource,65
+P004,Keyboard,Electronics,Mumbai Central,2025-12-20,185,134,62,1200,Metro Wholesale,80
+P018,Mixer Grinder,Appliances,Mumbai Central,2025-12-20,189,134,80,4200,Urban Traders,72
+P005,Mouse,Electronics,Borivali,2025-12-21,210,120,204,700,Global Supplies,88
+P002,Smartphone,Electronics,Mumbai Central,2025-12-21,235,20,302,22000,TechSource,26
+P001,Laptop,Electronics,Thane,2025-12-21,120,48,140,42000,TechSource,64
+P006,Monitor,Electronics,Mumbai Central,2025-12-21,27,50,0,12500,Prime Distributors,40
+P005,Mouse,Electronics,Navi Mumbai,2025-12-22,157,16,151,700,Prime Distributors,62
+P010,Notebook,Stationery,Mumbai Central,2025-12-22,42,92,49,120,Metro Wholesale,99
+P006,Monitor,Electronics,Thane,2025-12-22,285,111,233,12500,Metro Wholesale,37
+P006,Monitor,Electronics,Borivali,2025-12-22,98,113,35,12500,Urban Traders,59
+P003,Headphones,Electronics,Thane,2025-12-22,162,93,93,1800,TechSource,92
+P005,Mouse,Electronics,Borivali,2025-12-23,69,70,381,700,Metro Wholesale,45
+P007,Office Chair,Furniture,Borivali,2025-12-23,197,32,237,8500,TechSource,53
+P017,Coffee Maker,Appliances,Borivali,2025-12-23,215,103,182,5500,Global Supplies,57
+P018,Mixer Grinder,Appliances,Thane,2025-12-23,295,170,189,4200,Urban Traders,67
+P004,Keyboard,Electronics,Thane,2025-12-23,100,132,6,1200,Metro Wholesale,70
+P003,Headphones,Electronics,Mumbai Central,2025-12-23,76,17,96,1800,Metro Wholesale,92
+P008,Desk,Furniture,Thane,2025-12-23,101,110,61,12000,TechSource,78
+P013,Water Bottle,Accessories,Thane,2025-12-24,26,95,0,600,Global Supplies,59
+P018,Mixer Grinder,Appliances,Borivali,2025-12-24,94,158,19,4200,Global Supplies,100
+P003,Headphones,Electronics,Mumbai Central,2025-12-24,113,114,64,1800,Urban Traders,98
+P005,Mouse,Electronics,Navi Mumbai,2025-12-25,229,161,90,700,TechSource,43
+P008,Desk,Furniture,Navi Mumbai,2025-12-25,72,73,77,12000,Metro Wholesale,41
+P001,Laptop,Electronics,Borivali,2025-12-25,121,98,111,42000,TechSource,44
+P018,Mixer Grinder,Appliances,Andheri,2025-12-25,258,171,188,4200,Urban Traders,89
+P017,Coffee Maker,Appliances,Thane,2025-12-25,207,76,183,5500,TechSource,73
+P007,Office Chair,Furniture,Thane,2025-12-26,158,129,101,8500,Prime Distributors,30
+P001,Laptop,Electronics,Borivali,2025-12-26,232,93,227,42000,TechSource,36
+P017,Coffee Maker,Appliances,Thane,2025-12-26,218,80,151,5500,TechSource,76
+P019,Air Fryer,Appliances,Mumbai Central,2025-12-26,111,146,58,7500,Urban Traders,32
+P006,Monitor,Electronics,Mumbai Central,2025-12-26,104,22,110,12500,Global Supplies,96
+P018,Mixer Grinder,Appliances,Borivali,2025-12-26,187,85,211,4200,Urban Traders,92
+P001,Laptop,Electronics,Andheri,2025-12-26,221,76,233,42000,Urban Traders,37
+P017,Coffee Maker,Appliances,Andheri,2025-12-27,47,55,2,5500,Global Supplies,34
+P001,Laptop,Electronics,Thane,2025-12-27,202,69,148,42000,Metro Wholesale,27
+P012,Backpack,Accessories,Borivali,2025-12-27,85,97,39,1600,TechSource,46
+P006,Monitor,Electronics,Borivali,2025-12-27,48,78,78,12500,TechSource,93
+P008,Desk,Furniture,Thane,2025-12-27,95,92,110,12000,Metro Wholesale,37
+P013,Water Bottle,Accessories,Navi Mumbai,2025-12-28,107,92,101,600,Urban Traders,47
+P013,Water Bottle,Accessories,Navi Mumbai,2025-12-28,146,83,118,600,Metro Wholesale,78
+P005,Mouse,Electronics,Mumbai Central,2025-12-29,267,103,251,700,Prime Distributors,53
+P016,Jeans,Fashion,Borivali,2025-12-29,106,58,162,1800,Urban Traders,56
+P003,Headphones,Electronics,Borivali,2025-12-29,162,51,157,1800,Prime Distributors,98
+P007,Office Chair,Furniture,Andheri,2025-12-29,56,72,9,8500,Global Supplies,37
+P011,Pen Set,Stationery,Mumbai Central,2025-12-29,165,36,208,180,Prime Distributors,84
+P006,Monitor,Electronics,Andheri,2025-12-29,119,21,190,12500,Global Supplies,39
+P007,Office Chair,Furniture,Thane,2025-12-30,32,73,67,8500,TechSource,83
+P008,Desk,Furniture,Navi Mumbai,2025-12-30,170,24,243,12000,Prime Distributors,62
+P010,Notebook,Stationery,Navi Mumbai,2025-12-30,84,22,115,120,Urban Traders,45
+P003,Headphones,Electronics,Mumbai Central,2025-12-30,42,86,72,1800,Prime Distributors,26
+P006,Monitor,Electronics,Navi Mumbai,2025-12-30,22,46,39,12500,Global Supplies,58
+P003,Headphones,Electronics,Borivali,2025-12-31,121,34,185,1800,Prime Distributors,32
+P013,Water Bottle,Accessories,Borivali,2025-12-31,120,127,55,600,TechSource,27
+P019,Air Fryer,Appliances,Navi Mumbai,2025-12-31,284,134,267,7500,TechSource,93
+P007,Office Chair,Furniture,Andheri,2025-12-31,220,146,107,8500,Prime Distributors,78
+P014,Shoes,Fashion,Navi Mumbai,2025-12-31,176,59,203,3200,Global Supplies,69
+P004,Keyboard,Electronics,Andheri,2025-12-31,89,67,84,1200,Prime Distributors,43
+P013,Water Bottle,Accessories,Navi Mumbai,2025-12-31,124,128,47,600,Urban Traders,90
